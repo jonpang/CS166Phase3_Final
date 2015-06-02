@@ -11,7 +11,7 @@ CREATE TABLE USR(
 	email text NOT NULL,
 	name char(50),
 	dateOfBirth date,
-	Primary Key(userId));
+	PRIMARY KEY(userId));
 
 CREATE TABLE WORK_EXPR(
 	userId char(10) NOT NULL, 
@@ -20,16 +20,20 @@ CREATE TABLE WORK_EXPR(
 	location char(50),
 	startDate date,
 	endDate date,
-	PRIMARY KEY(userId,company,role,startDate));
+	PRIMARY KEY(userId,company,role,startDate),
+	FOREIGN KEY(userId) REFERENCES USR(userId)
+	);
 
 CREATE TABLE EDUCATIONAL_DETAILS(
 	userId char(10) NOT NULL, 
-	instituitionName char(50) NOT NULL, 
+	institutionName char(50) NOT NULL, 
 	major char(50) NOT NULL,
 	degree char(50) NOT NULL,
 	startdate date,
 	enddate date,
-	PRIMARY KEY(userId,major,degree));
+	PRIMARY KEY(userId,major,degree),
+	FOREIGN KEY(userId) REFERENCES USR(userId)
+	);
 
 CREATE TABLE MESSAGE(
 	msgId integer UNIQUE NOT NULL, 
@@ -39,10 +43,16 @@ CREATE TABLE MESSAGE(
 	sendTime timestamp,
 	deleteStatus integer,
 	status char(30) NOT NULL,
-	PRIMARY KEY(msgId));
+	PRIMARY KEY(msgId)),
+	ADD CONSTRAINT 'sender_fkey' FOREIGN KEY(userId) REFERENCES USR(userId),
+	ADD CONSTRAINT 'rcvr_fkey' FOREIGN KEY(receiverId) REFERENCES USR(userId)
+	;
 
 CREATE TABLE CONNECTION_USR(
 	userId char(10) NOT NULL, 
 	connectionId char(10) NOT NULL, 
 	status char(30) NOT NULL,
-	PRIMARY KEY(userId,connectionId));
+	PRIMARY KEY(userId,connectionId),
+	ADD CONSTRAINT 'user_fkey' FOREIGN KEY(userId) REFERENCES USR(userId),
+	ADD CONSTRAINT 'connection_fkey' FOREIGN KEY(connectionId) REFERENCES USR(userId)
+	);
