@@ -40,11 +40,8 @@ public class ProfNetwork {
                                 new InputStreamReader(System.in));
 
    /**
-<<<<<<< HEAD
     * Creates a new instance of ProfNetwork 
-=======
     * Creates a new instance of Messenger
->>>>>>> 0be0416766edcbfc850dc114abd379d1c254298b
     *
     * @param hostname the MySQL or PostgreSQL server hostname
     * @param database the name of the database
@@ -223,7 +220,16 @@ public class ProfNetwork {
          // ignored.
       }//end try
    }//end cleanup
-
+   /**
+    * createUser(esql)
+    **/
+   public static void FriendList(ProfNetwork esql){
+      //executeQueryAndPrintResult(
+   }
+   public static void UpdateProfile(ProfNetwork esql){}
+   public static void NewMessage(ProfNetwork esql){}
+   public static void SendRequest(ProfNetwork esql){}
+   
    /**
     * The main execution method
     *
@@ -234,38 +240,22 @@ public class ProfNetwork {
          System.err.println (
             "Usage: " +
             "java [-classpath <classpath>] " +
-<<<<<<< HEAD
             ProfNetwork.class.getName () +
-=======
-            Messenger.class.getName () +
->>>>>>> 0be0416766edcbfc850dc114abd379d1c254298b
             " <dbname> <port> <user>");
          return;
       }//end if
 
       Greeting();
-<<<<<<< HEAD
       ProfNetwork esql = null;
       try{
          // use postgres JDBC driver.
          Class.forName ("org.postgresql.Driver").newInstance ();
          // instantiate the ProfNetwork object and creates a physical
-=======
-      Messenger esql = null;
-      try{
-         // use postgres JDBC driver.
-         Class.forName ("org.postgresql.Driver").newInstance ();
-         // instantiate the Messenger object and creates a physical
->>>>>>> 0be0416766edcbfc850dc114abd379d1c254298b
-         // connection.
          String dbname = args[0];
          String dbport = args[1];
          String user = args[2];
-<<<<<<< HEAD
+         
          esql = new ProfNetwork (dbname, dbport, user, "");
-=======
-         esql = new Messenger (dbname, dbport, user, "");
->>>>>>> 0be0416766edcbfc850dc114abd379d1c254298b
 
          boolean keepon = true;
          while(keepon) {
@@ -351,11 +341,7 @@ public class ProfNetwork {
     * Creates a new user with privided login, passowrd and phoneNum
     * An empty block and contact list would be generated and associated with a user
     **/
-<<<<<<< HEAD
    public static void CreateUser(ProfNetwork esql){
-=======
-   public static void CreateUser(Messenger esql){
->>>>>>> 0be0416766edcbfc850dc114abd379d1c254298b
       try{
          System.out.print("\tEnter user login: ");
          String login = in.readLine();
@@ -378,11 +364,7 @@ public class ProfNetwork {
     * Check log in credentials for an existing user
     * @return User login or null is the user does not exist
     **/
-<<<<<<< HEAD
    public static String LogIn(ProfNetwork esql){
-=======
-   public static String LogIn(Messenger esql){
->>>>>>> 0be0416766edcbfc850dc114abd379d1c254298b
       try{
          System.out.print("\tEnter user login: ");
          String login = in.readLine();

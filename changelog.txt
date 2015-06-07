@@ -1,1 +1,2 @@
-6/2/2015 "change useriId and password from char to varchar"
+6/2/2015 "change userId and password from char to varchar"
+6/8/2015 "addedfunction headers for FriendList(), UpdateProfile(), NewMessage(), SendRequest()"
