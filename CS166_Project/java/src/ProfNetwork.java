@@ -231,13 +231,13 @@ public class ProfNetwork {
        //run executeUpdate(" ")
    }
    public static void NewMessage(ProfNetwork esql){
-       //string m = "INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES (,,,,,,)";
        /**
        System.out.println("Please enter message:");
        Scanner scan2 = new Scanner(System.in);
        String word2 = scan2.nextLine();
-       System.out.println(">"+word2+"<");
        **/
+       //String date = new SimpleDateFormat("dd-MM-yyyy").format(new Date());
+       //string m = "INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('"+ + "','"+ +"','"+ +"','"+ word2 +"','"+ date +"','1','sent')";
        //run executeUpdate(m);
    }
    public static void SendRequest(ProfNetwork esql){
