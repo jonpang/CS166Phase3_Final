@@ -224,11 +224,19 @@ public class ProfNetwork {
     * createUser(esql)
     **/
    public static void FriendList(ProfNetwork esql){
-      //executeQueryAndPrintResult(
+       //print friends list
+       //executeQueryAndPrintResult(" ");
    }
-   public static void UpdateProfile(ProfNetwork esql){}
-   public static void NewMessage(ProfNetwork esql){}
-   public static void SendRequest(ProfNetwork esql){}
+   public static void UpdateProfile(ProfNetwork esql){
+       //run executeUpdate(" ")
+   }
+   public static void NewMessage(ProfNetwork esql){
+       //string m = "INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES (,,,,,,)";
+       //run executeUpdate(m);
+   }
+   public static void SendRequest(ProfNetwork esql){
+   
+   }
    
    /**
     * The main execution method
