@@ -1018,7 +1018,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Daren','Ntag','computer science','doctrate','2/1/1994','4/1/1914');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Geovanni','Linktype','eletrical','doctrate','11/2/1961','11/10/1994');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Verna','Twitterwire','mbbs','bachelor','10/24/1908','4/2/1973');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Noemy.Har?ann','Pixoboo','english','bachelor','8/16/2012','12/10/1963');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Collin','Flashdog','biology','master','11/12/1913','2/20/1988');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arlie.Gulgowski','Blogtag','physics','master','3/5/1996','12/25/1952');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cassie.Schaefer','Flipbug','biology','bachelor','8/28/1995','4/20/1972');
@@ -1078,7 +1077,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jermey','Yamia','law','bachelor','8/16/2005','6/1/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Crystel.Runte','Meembee','medicine','doctrate','3/16/1988','3/8/1936');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mayra','Devpoint','law','doctrate','8/26/1914','8/27/1903');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brianne_Har?ann','Realfire','agriculture','bachelor','6/20/1986','7/27/2005');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Wayne_Greenholt','Trilith','mbbs','master','11/1/1945','2/7/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Janet.Lockman','Bubblebox','biology','bachelor','2/8/1951','2/6/1942');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lucio.Hilll','Divanoodle','history','doctrate','10/8/2008','1/11/1930');
@@ -1244,7 +1242,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kimberly.Windler','Oyoloo','chemistry','doctrate','5/26/1949','6/6/1955');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jaqueline.Renner','Realpoint','computer science','master','10/5/1952','4/14/1962');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Evelyn.Kuhn','Buzzshare','agriculture','master','7/14/2009','9/29/2001');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lonnie.Har?ann','Buzzshare','agriculture','master','4/15/2004','6/14/1945');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Louisa_Oberbrunner','Photolist','history','master','2/20/1990','1/2/1953');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Leonora.Reilly','Voolia','eletrical','master','9/30/1971','3/25/1916');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Camren.Grant','Kayveo','economics','doctrate','4/22/1905','3/19/1953');
@@ -1763,7 +1760,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Berenice.Kutch','Zoomlounge','computer science','doctrate','11/15/1975','12/30/1993');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Susan.Konopelski','Wikibox','computer science','bachelor','4/15/1931','9/14/1929');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dorian.Morissette','Avaveo','english','master','12/28/1976','2/15/1955');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mack_Har?ann','Edgetag','mechanical','doctrate','7/12/2010','8/11/1943');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aidan_Bednar','Layo','agriculture','master','9/24/1974','9/1/1940');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Verda','Linklinks','chemistry','master','7/8/1994','9/23/1995');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Emerson_Renner','Camimbo','physics','bachelor','12/24/1932','7/25/1957');
@@ -1787,7 +1783,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sally.Schuppe','Kwideo','history','master','10/11/1995','4/25/1924');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Henry','Dabshots','physics','master','6/24/1945','7/24/1909');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gerson','Eayo','chemistry','bachelor','6/24/1969','3/28/1941');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alisha_Gu?ann','Jabbersphere','biology','master','3/11/1956','6/4/1988');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ruthe','Yakitri','philosophy','master','6/3/1911','2/22/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sonny','Realfire','agriculture','doctrate','7/5/1993','3/9/1972');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marcus','Zoomdog','english','doctrate','9/8/1955','6/11/2003');
@@ -2154,7 +2149,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Griffin.Huel','Thoughtbridge','medicine','doctrate','2/9/1942','6/4/1940');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marcelle.Bosco','Meetz','agriculture','doctrate','7/6/1968','9/12/1967');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bernice','Photolist','english','bachelor','5/27/1944','3/10/1970');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mallory_Gu?ann','Yadel','mechanical','master','11/17/1991','3/25/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gabrielle.Fay','Latz','law','master','6/19/1908','9/17/1957');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Vita','Riffpath','medicine','bachelor','12/23/2012','3/9/1980');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Angelo','Topiclounge','law','doctrate','3/4/1938','9/4/1946');
@@ -2633,7 +2627,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Janick','Thoughtbridge','economics','bachelor','8/29/1949','3/21/1929');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gaylord.Bechtelar','Ntags','agriculture','bachelor','9/18/1936','5/22/1935');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tiffany.Price','Skynoodle','computer science','doctrate','2/10/1974','12/18/1967');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Noemy.Har?ann','Pixoboo','mathematics','bachelor','1/6/1994','7/8/1974');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rosalinda_McGlynn','Innojam','mathematics','master','12/22/1986','3/25/1982');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marques','Buzzshare','mechanical','bachelor','3/11/1907','6/4/1965');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Emmanuel.Homenick','Yodo','english','master','12/1/1980','5/22/1937');
@@ -2656,7 +2649,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nannie','Shuffledrive','philosophy','doctrate','10/14/1968','3/10/1981');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Maximilian.Runte','Trudeo','biology','bachelor','11/28/1936','9/27/1948');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rodrigo','Quinu','civil','bachelor','10/1/1914','12/25/1949');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Myrl.Har?ann','Eire','civil','bachelor','11/15/1913','8/8/1902');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dillon','Buzzshare','biology','master','5/2/2006','12/19/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Violette.McCullough','Skiba','agriculture','doctrate','2/6/1911','3/8/2013');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Hudson.Bruen','Gabtune','philosophy','master','6/29/1950','12/4/1942');
@@ -3580,7 +3572,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Enrico','Layo','law','bachelor','1/13/2004','6/6/1964');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Grady.Hand','Oyoba','computer science','bachelor','2/26/1909','1/10/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Hobart','Riffpedia','philosophy','master','7/10/1992','1/9/1928');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nikko_Gu?ann','Oyoloo','philosophy','master','9/4/2009','1/29/1932');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mariah','Midel','law','master','8/17/1982','10/10/1946');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cara.Luettgen','Eimbee','law','master','3/10/2008','3/11/1997');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Everardo.Hills','Zazio','agriculture','doctrate','9/11/1906','7/28/1908');
@@ -3792,7 +3783,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Titus','Gigabox','history','doctrate','1/31/1908','11/27/1908');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Yazmin','Skimia','chemistry','bachelor','8/5/1966','5/29/1946');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jewel','Yambee','english','bachelor','4/23/1925','2/17/1933');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sharon.Har?ann','Gigaclub','law','bachelor','9/26/1971','6/21/1944');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mauricio_Rau','Realbuzz','computer science','master','4/15/1993','12/22/1991');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sandy','Wikizz','chemistry','master','5/5/1902','11/10/1930');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Magali','Meejo','biology','master','1/7/2004','3/21/1993');
@@ -4846,7 +4836,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arnulfo','Yakidoo','english','bachelor','7/4/1935','9/28/1985');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ezekiel','Bluejam','law','bachelor','5/25/1958','3/20/1983');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dulce','Livetube','agriculture','doctrate','3/22/1915','6/11/1942');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Shaina_Har?ann','Wordware','mathematics','master','8/24/1919','8/10/1922');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Winona','Skalith','physics','master','2/10/1932','11/19/2014');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ransom.Lockman','Wordtune','physics','bachelor','2/19/1975','5/29/1988');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bernard','Tagfeed','economics','doctrate','9/24/1922','2/24/1939');
@@ -5258,7 +5247,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eusebio.O''Kon','Thoughtbridge','philosophy','doctrate','10/20/1985','3/25/1946');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Breana','Camido','agriculture','doctrate','3/8/1935','12/20/2001');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Erwin','Gabvine','computer science','master','8/4/2011','5/21/1926');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Catalina.Har?ann','Trunyx','medicine','doctrate','2/5/1913','2/1/1969');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dexter_Littel','Trilia','physics','master','9/29/1984','8/23/2008');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Braeden_Zieme','Zava','mathematics','master','7/2/1969','6/2/1920');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jasen_Steuber','Yamia','chemistry','bachelor','11/23/1959','4/27/1902');
@@ -5496,7 +5484,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Darrel.Stroman','Thoughtworks','physics','master','10/31/1910','11/16/2013');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Assunta','Aivee','biology','bachelor','11/23/1930','3/12/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eden','Dabshots','agriculture','master','2/10/1994','12/31/2011');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kassandra_Gu?ann','Dynabox','history','master','12/21/1949','2/11/1939');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ava','Aimbu','chemistry','master','4/20/1989','7/15/1977');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tiffany.Bahringer','Zoomzone','history','master','7/16/1994','8/14/1933');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jennyfer','Skaboo','chemistry','master','9/19/1937','9/17/1981');
@@ -5515,7 +5502,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Adrain_Kub','Skipstorm','eletrical','doctrate','6/17/1929','11/2/2011');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gino','Tagfeed','biology','doctrate','1/28/1942','1/28/2012');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tyrese_Schroeder','Fadeo','chemistry','doctrate','9/8/1951','3/18/1905');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rubye.Gu?ann','Dabtype','agriculture','doctrate','1/25/1964','11/15/1926');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Annetta','Gigashots','physics','bachelor','9/13/2002','9/27/1973');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Efrain.Will','Devpulse','computer science','master','11/13/1998','7/6/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bulah','Vipe','physics','bachelor','10/11/1937','7/17/1978');
@@ -6488,7 +6474,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Berta','Zava','mechanical','master','11/5/1929','10/1/1919');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Euna.Hessel','Edgeblab','mechanical','doctrate','4/12/2008','10/24/1902');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Noah','Cogidoo','history','master','4/6/1988','12/11/1956');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Abigail.Gu?ann','Kazio','mathematics','bachelor','12/16/1923','9/5/1908');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Orion','Plambee','eletrical','bachelor','5/4/1999','9/13/1977');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Monte.Fisher','Photolist','mathematics','bachelor','7/19/2013','2/18/1938');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dax_Hayes','Babbleblab','medicine','doctrate','7/3/1927','1/29/2009');
@@ -6933,7 +6918,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Reid','Realbuzz','economics','master','9/21/1931','1/24/1958');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Amara_Boehm','Eazzy','philosophy','doctrate','2/9/2007','2/15/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cordell','Kaymbo','philosophy','master','8/6/2010','8/6/1931');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ernestine_Gu?ann','Aivee','medicine','bachelor','1/14/1909','8/25/1950');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sandrine.Terry','Aibox','agriculture','bachelor','8/30/1974','4/3/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eden_Skiles','Realblab','mechanical','doctrate','9/10/1969','8/28/1939');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Simeon','Roombo','physics','bachelor','12/8/1964','8/29/1904');
@@ -7458,7 +7442,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Orlando','Jabbersphere','computer science','doctrate','10/11/2008','1/8/1995');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Keira.Crooks','Skajo','law','master','8/23/1948','10/14/1960');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mattie_Hackett','Miboo','english','master','10/31/1999','4/29/1959');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dakota.Har?ann','Centidel','history','bachelor','12/24/1992','8/28/1983');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sasha.Johnson','Skilith','mechanical','doctrate','2/9/1984','1/3/2009');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Letitia','Thoughtmix','mathematics','doctrate','4/24/1943','11/30/1960');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kylee_Mann','Zooveo','eletrical','master','3/23/1992','5/31/1912');
@@ -7535,7 +7518,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sanford','Kare','mbbs','master','3/17/1990','5/15/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rhiannon_Weimann','Jaxspan','biology','doctrate','5/30/1921','2/18/1903');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Herminia','Yodel','mbbs','master','7/14/1927','4/21/1989');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kiera_Gu?ann','Wikibox','physics','bachelor','12/5/1971','10/19/1931');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Treva.Stokes','Ntag','mechanical','bachelor','12/2/2001','2/21/1933');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Therese.Gislason','Devpoint','biology','master','6/16/2010','3/31/1939');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Noah.Streich','Katz','mathematics','master','5/6/1924','12/13/1959');
@@ -7973,7 +7955,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Coby','Oozz','philosophy','master','1/4/1916','7/15/1902');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nadia_Hyatt','Teklist','agriculture','doctrate','12/9/1970','5/28/1934');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mozelle.Hickle','Buzzshare','chemistry','master','5/23/1935','6/4/1939');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ari.Gu?ann','Skyba','english','master','3/6/1933','8/4/1981');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jeffrey','Edgetag','mechanical','master','12/10/1922','2/11/1983');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Domenico','Thoughtmix','law','master','1/11/1920','1/22/1965');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tia','Miboo','agriculture','doctrate','12/19/2007','12/8/1911');
@@ -8434,7 +8415,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Raleigh','Oyondu','eletrical','bachelor','12/7/1921','3/1/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Shaylee','Feedbug','english','master','12/4/1961','8/19/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Evalyn.Reinger','Livetube','eletrical','bachelor','10/10/1924','4/18/1948');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Elissa_Har?ann','Viva','civil','master','10/9/1976','2/26/1956');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kiel_Price','Kwinu','law','doctrate','3/30/1905','5/24/1947');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Weldon','Fivespan','law','bachelor','7/4/1972','4/5/1931');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Stella','Blogpad','computer science','bachelor','7/26/1963','5/6/1948');
@@ -8657,7 +8637,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Vinnie_Kemmer','Browsezoom','biology','bachelor','6/15/2008','11/4/1940');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kameron','Twitterwire','computer science','bachelor','3/19/1936','2/1/1997');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brock_Marvin','Thoughtworks','history','doctrate','9/2/1930','1/7/1936');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Della_Gu?ann','Gabvine','medicine','master','5/22/2004','7/14/1950');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dagmar_Rohan','Zava','eletrical','doctrate','1/1/1918','10/10/1906');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jules.Bahringer','Agimba','computer science','master','9/29/1954','1/1/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ambrose','Babbleblab','history','bachelor','1/17/1927','6/29/1904');
@@ -8865,7 +8844,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Fidel','Feednation','english','doctrate','2/3/2015','6/10/1957');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kelton','Feedmix','biology','bachelor','6/15/1997','12/27/1904');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Orlo','Rhynoodle','computer science','doctrate','11/16/1913','3/22/1950');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Adelia.Har?ann','Voonte','mathematics','master','7/30/1989','1/23/1987');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Winnifred','Mita','mbbs','doctrate','4/8/1985','2/5/1958');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Thomas','Zoombeat','eletrical','master','7/15/1989','4/15/2006');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ahmed.Ward','Gabcube','law','bachelor','9/16/1998','11/14/1993');
@@ -9092,7 +9070,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nova_McDermott','Babbleblab','history','master','7/25/1993','4/5/1928');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mathilde_Kris','Gigashots','mechanical','master','4/16/1922','12/25/1901');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Samson.Cormier','Gabtype','history','bachelor','9/8/1908','3/27/1982');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Meredith_Har?ann','Yabox','civil','bachelor','3/31/1976','5/11/1983');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Hildegard','Tazz','history','bachelor','10/30/1921','4/14/1915');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eladio','Vinder','chemistry','master','7/30/1956','1/11/1997');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Calista','Npath','mechanical','master','5/9/1950','8/18/1950');
@@ -9872,7 +9849,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aliyah.Jacobson','Kazu','physics','doctrate','7/2/1902','4/20/1982');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Leilani_Bruen','Jaloo','eletrical','doctrate','6/12/1952','5/6/1961');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Leilani_DuBuque','Dablist','biology','master','4/13/1908','12/22/1954');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brandon_Gu?ann','Brainbox','law','doctrate','10/11/1927','5/21/1976');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Maida','LiveZ','mathematics','bachelor','10/28/1916','9/3/1957');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kaleb','Gigabox','computer science','doctrate','2/9/2007','7/30/1996');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Erwin_Mills','Quaxo','history','doctrate','7/27/1916','2/15/1908');
@@ -10328,7 +10304,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lucious_Erdman','Topiczoom','mathematics','bachelor','1/4/1936','8/28/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Unique_Zieme','Jabbersphere','philosophy','bachelor','12/14/1995','8/11/2006');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kayley','Nlounge','economics','doctrate','11/29/1969','3/30/1985');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aracely_Har?ann','Skivee','civil','bachelor','9/3/1904','4/3/1953');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Krystal.Hilpert','Katz','law','bachelor','1/24/1951','4/12/1920');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dell','Centimia','computer science','doctrate','7/12/2012','4/17/2006');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Davonte.Wiegand','Browsebug','civil','doctrate','1/18/1909','4/5/1967');
@@ -10869,7 +10844,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dixie_Bechtelar','Ozu','chemistry','master','11/25/1938','4/17/1940');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Madisyn','Voonder','mbbs','master','4/13/1930','6/16/1916');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marcos.O''Connell','Realpoint','law','bachelor','11/26/1983','12/31/2000');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Prudence_Har?ann','Wordtune','civil','bachelor','2/8/2002','6/6/1988');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Devonte_Conroy','Yodel','mathematics','bachelor','10/6/1987','3/5/1915');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bradford.Gaylord','Wordpedia','history','doctrate','5/29/1992','11/6/2004');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Isobel_Ryan','Photobean','eletrical','master','3/2/1910','8/26/1904');
@@ -10947,7 +10921,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Frederick.Marquardt','Twitterbeat','mechanical','doctrate','4/7/2005','7/5/1994');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Yasmine','Photospace','agriculture','doctrate','11/21/1997','1/30/1980');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alexander','Aimbu','medicine','master','9/13/1922','2/14/1945');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mallory_Gu?ann','Riffpath','mechanical','bachelor','12/6/1976','1/5/1953');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Adell.Pouros','Rhyzio','physics','doctrate','11/17/2010','6/9/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mack','Wordware','medicine','master','1/8/1931','4/29/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Orland.Steuber','Edgetag','english','doctrate','8/1/2011','7/17/1927');
@@ -11018,7 +10991,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Julianne_Schneider','Wordtune','economics','doctrate','4/29/1963','5/3/1944');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Asha','Blogpad','history','master','7/2/1901','3/5/2009');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Daniela_Gerlach','Oyoba','mathematics','bachelor','4/9/2004','10/14/1959');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rosetta.Gu?ann','Topicshots','history','master','10/5/1936','11/26/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Isabella','Yamia','computer science','master','8/16/2005','6/1/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Layne','Meembee','mbbs','doctrate','3/16/1988','3/8/1936');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Phoebe.Wunsch','Devpoint','english','master','8/26/1914','8/27/1903');
@@ -11308,7 +11280,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rozella_Lowe','Agivu','biology','doctrate','3/31/1934','7/15/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kyla.Fadel','Wikibox','chemistry','doctrate','10/21/1915','3/21/1926');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Roy.Reinger','Demimbu','biology','doctrate','4/28/1977','11/11/1909');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Skyla.Gu?ann','Ailane','mathematics','doctrate','3/9/1913','6/12/1915');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Laurianne_Zieme','Lazzy','mathematics','doctrate','4/23/1902','3/9/1920');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jimmie_Turner','Meedoo','mathematics','doctrate','3/16/1942','12/13/1994');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Geovany_Leuschke','Midel','mbbs','doctrate','9/16/1972','11/27/1927');
@@ -11381,7 +11352,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Clemmie_Mayer','Twimm','history','bachelor','12/7/1950','5/4/1947');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alia.Gislason','Leenti','eletrical','master','4/6/1924','9/23/1934');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Chauncey_Jerde','Twiyo','mbbs','master','3/23/1951','3/9/1950');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alisha_Gu?ann','Omba','computer science','doctrate','7/18/1993','11/25/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Judy','Latz','physics','doctrate','5/21/1980','12/5/1977');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Beulah_Koepp','Meejo','mathematics','master','5/30/1938','9/6/1925');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Abraham.Jerde','Youopia','history','bachelor','2/8/1916','12/13/1953');
@@ -11497,7 +11467,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Floy.Mayert','Tagcat','history','master','6/17/1956','5/7/1926');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lon','Vimbo','biology','master','3/3/1947','6/22/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Velda','Thoughtstorm','mathematics','bachelor','7/9/1977','8/5/1970');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ova_Gu?ann','Lazzy','economics','master','4/13/1986','8/6/1907');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Patsy_Konopelski','Topicstorm','english','doctrate','8/24/2007','1/8/1922');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Yesenia.Friesen','Tagpad','mbbs','bachelor','8/12/1904','9/17/1965');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bo','Nlounge','physics','doctrate','8/2/1963','4/18/1967');
@@ -11892,7 +11861,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Minerva_Keebler','Livepath','biology','doctrate','2/7/1997','7/26/1969');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Corene.Lind','Avamm','chemistry','bachelor','7/25/1939','8/3/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sherwood.Gibson','Eimbee','computer science','doctrate','10/1/1922','1/4/1939');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Asia_Har?ann','Shuffletag','mathematics','master','4/12/1961','9/22/2013');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Thurman_Jenkins','Voomm','chemistry','doctrate','3/20/1974','10/21/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tobin_Labadie','Jayo','mechanical','master','3/30/1950','4/7/1969');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ernestine.Carroll','Realcube','computer science','doctrate','12/29/1976','3/7/1910');
@@ -12281,7 +12249,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Elmo_Wehner','Skyndu','medicine','bachelor','10/11/1980','5/27/1994');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Chadrick_Hansen','Quamba','history','master','1/25/1964','10/9/1949');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ardith.Considine','Jabbertype','chemistry','bachelor','11/11/1913','5/3/1932');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dane_Har?ann','Flipopia','mathematics','master','9/24/1918','5/25/1997');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Laurie_Terry','Miboo','mechanical','doctrate','12/17/1939','8/30/1977');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ian_Kihn','Kwimbee','biology','bachelor','5/2/1995','4/17/1926');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Danny.Sipes','Devcast','civil','master','2/21/1902','11/8/1900');
@@ -12965,7 +12932,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Joelle_Schiller','Snaptags','mbbs','doctrate','3/1/1922','12/31/1968');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Guillermo_Schamberger','Jaloo','civil','bachelor','12/21/1932','9/19/1932');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Juvenal_Crooks','Vidoo','computer science','doctrate','8/24/1908','1/10/2001');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Noemy.Har?ann','Zooxo','chemistry','doctrate','4/9/1973','1/17/1942');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sibyl.Kertzmann','Feedfish','computer science','master','11/9/1998','12/8/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arjun','Eayo','chemistry','bachelor','3/27/1968','9/18/1949');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kayleigh.Considine','Quinu','biology','bachelor','11/27/1940','7/24/1929');
@@ -13205,7 +13171,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Orville_Kohler','Talane','eletrical','master','4/11/1916','10/1/1959');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('German.Hoeger','Kare','biology','bachelor','11/4/1989','6/14/1922');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mattie','Voomm','physics','bachelor','9/27/1963','8/6/1983');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Don.Gu?ann','Yadel','eletrical','master','5/29/1986','4/22/1970');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Enrique.Runolfsson','Eire','economics','bachelor','9/3/1908','6/21/1960');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Florine.McKenzie','Flashpoint','biology','doctrate','11/27/1905','9/21/1913');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Vanessa_Robel','Buzzbean','eletrical','doctrate','8/16/1998','3/8/1973');
@@ -13497,7 +13462,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Courtney.Borer','Thoughtstorm','philosophy','bachelor','5/4/1957','12/14/1989');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Thomas_Mueller','Babbleopia','physics','doctrate','4/4/1904','4/2/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sylvester_Bauch','Skalith','medicine','master','8/27/1936','7/27/1918');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Braden_Gu?ann','Dabvine','agriculture','doctrate','5/26/1942','5/3/1902');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jany_Hane','Oloo','medicine','bachelor','9/24/1969','8/9/1960');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Torrey.Stracke','Yotz','mbbs','doctrate','5/29/1929','1/13/1959');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Araceli_Dare','Kare','mbbs','master','11/28/1996','1/9/1934');
@@ -13511,7 +13475,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Annette.Fisher','Realfire','law','master','10/25/1944','5/21/1972');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Norene.Crooks','Trudoo','philosophy','doctrate','6/19/1965','7/31/2012');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aryanna.Lesch','Edgeblab','law','bachelor','6/4/2002','5/8/2007');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Chelsie.Har?ann','Trudoo','mathematics','bachelor','12/30/2008','2/13/1996');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aglae','Twitternation','computer science','doctrate','7/5/1981','12/30/1943');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eric_Lakin','Jetwire','economics','master','10/11/1980','8/11/1960');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arden_Lesch','Skiptube','computer science','bachelor','3/11/1965','2/26/1992');
@@ -13729,7 +13692,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Efren_Gorczany','Jayo','eletrical','bachelor','3/17/1917','12/21/1938');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ryley_Hamill','Fivespan','mechanical','doctrate','9/25/1978','12/16/1929');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Angelina.Bartell','Vidoo','mbbs','bachelor','7/21/1917','9/24/1944');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lonnie.Har?ann','Yotz','english','master','12/16/1995','7/26/1924');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Berry_Flatley','Jabberstorm','eletrical','doctrate','12/12/1942','10/18/2008');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lorena.Rippin','Zoomdog','mechanical','bachelor','5/1/2003','2/4/1907');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kallie_Halvorson','Flashdog','mathematics','bachelor','7/10/1933','5/5/1931');
@@ -14403,7 +14365,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Edgardo_Daugherty','Ntag','chemistry','bachelor','7/20/1950','9/9/1958');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jerad.Wehner','Kwideo','mechanical','doctrate','10/27/1971','5/21/1958');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lonny.Gerlach','Oyondu','agriculture','master','12/2/1964','6/2/1981');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jennie.Gu?ann','Skivee','medicine','doctrate','2/8/2010','4/1/1961');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Claire_Erdman','Myworks','physics','doctrate','11/25/1910','11/25/1922');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Margaretta.Heathcote','Linkbridge','physics','doctrate','12/20/1962','5/6/2002');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Janick_Towne','Dabvine','economics','bachelor','2/16/1999','8/29/2004');
@@ -14757,7 +14718,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alexandrine','Livepath','medicine','doctrate','1/5/1931','8/10/1974');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dena.Braun','Quatz','civil','bachelor','7/28/1935','11/18/1906');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Anastacio.Smith','Voonder','mechanical','master','3/12/1929','4/20/2014');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Toney_Gu?ann','Zoomlounge','english','bachelor','8/14/1934','3/6/1993');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cristian.Koss','Ozu','computer science','master','4/29/1976','3/5/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Daniela_Grady','Omba','computer science','bachelor','8/13/1998','4/22/1970');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Toby.Reichert','Dynava','civil','master','4/30/1939','1/8/1977');
@@ -14826,7 +14786,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lane_Waters','Kwinu','mbbs','doctrate','12/10/1987','3/8/2014');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lurline.Carroll','Dynava','chemistry','bachelor','9/19/1966','4/7/1972');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eldridge_Schinner','Gabcube','mechanical','master','7/20/1909','3/25/1964');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Shaina_Har?ann','Vidoo','medicine','bachelor','5/31/1906','6/17/2013');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arlie','Camido','law','bachelor','4/20/1965','7/15/1915');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Janie_Legros','Linklinks','eletrical','bachelor','10/31/1969','11/2/1972');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Godfrey.Stokes','Dabtype','philosophy','doctrate','12/6/1986','9/17/1902');
@@ -14997,7 +14956,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arne_Hodkiewicz','Divape','biology','master','10/22/1905','6/8/1947');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Buford_Torp','Twimbo','eletrical','bachelor','9/25/1975','1/25/1914');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Freeda.Schmeler','Mycat','english','bachelor','6/5/1957','5/10/2007');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mack_Har?ann','Youspan','law','doctrate','8/7/2010','9/11/1982');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kattie.Waelchi','Skinix','civil','master','7/25/1943','5/27/1998');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Montana_Brown','Plambee','medicine','doctrate','2/8/1915','6/17/1903');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Hiram_Wehner','Pixonyx','english','master','6/23/1937','11/8/1922');
@@ -15039,7 +14997,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rosa_Barton','Eamia','english','bachelor','3/1/1979','9/17/1937');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Amely_Littel','Oyonder','mechanical','bachelor','3/12/1923','5/15/1994');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Hattie_Grady','Minyx','mbbs','bachelor','10/17/1962','3/30/1902');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Clovis.Gu?ann','Voonyx','medicine','bachelor','12/28/1908','10/5/1938');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('General_Romaguera','Skyndu','civil','master','8/27/1978','5/22/1975');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Claudia.Deckow','Topicshots','history','bachelor','12/27/1914','12/25/1906');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Neva.Kuphal','Zooxo','agriculture','master','5/17/1925','10/30/1991');
@@ -15119,7 +15076,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Amparo.Brown','Janyx','economics','bachelor','3/25/1909','4/14/1901');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marcia_Buckridge','Yodel','philosophy','bachelor','11/6/1998','12/17/1995');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cristian_Veum','Voolia','mbbs','master','6/10/1989','10/12/1981');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Myrl.Har?ann','Voolia','physics','bachelor','4/22/1972','10/4/2007');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jeremy_Mertz','Aimbo','philosophy','doctrate','8/19/1946','11/19/1991');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brianne.Skiles','Eayo','agriculture','doctrate','7/18/1913','10/10/1987');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Matilda_Pagac','InnoZ','computer science','master','2/8/1940','4/9/1991');
@@ -15176,7 +15132,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Vida.Price','Thoughtbeat','computer science','doctrate','7/1/2006','8/4/1908');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ivy.Bergnaum','Rhynyx','civil','doctrate','3/20/1926','12/21/1904');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Damien.Barrows','Tagopia','computer science','master','5/2/1987','8/22/1995');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Roma.Har?ann','Skipstorm','chemistry','doctrate','2/9/1926','6/24/2000');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Milton.Flatley','Jayo','medicine','bachelor','10/28/2010','10/26/1972');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jimmie_Torphy','Babbleset','history','bachelor','5/29/1926','2/25/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nola_Skiles','Oyoba','chemistry','doctrate','2/26/1971','3/27/1946');
@@ -15437,7 +15392,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Theron_Fay','Blogtags','english','master','10/31/1916','6/7/2012');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Clemens','Gigaclub','civil','doctrate','2/15/1980','12/11/1917');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kirstin_Grant','Wordware','medicine','bachelor','11/9/1978','9/2/2013');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Felton_Gu?ann','Thoughtworks','agriculture','master','10/31/1910','11/16/2013');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Erwin.Towne','Aivee','english','master','11/23/1930','3/12/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Immanuel.Stracke','Dabshots','medicine','doctrate','2/10/1994','12/31/2011');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bryce.Christiansen','Dynabox','economics','bachelor','12/21/1949','2/11/1939');
@@ -15797,7 +15751,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jaeden.Hauck','Avamm','mbbs','bachelor','5/19/1997','5/8/1969');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eric_Pacocha','Zava','chemistry','bachelor','11/24/1932','1/12/1943');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Guido_Cronin','Tagpad','biology','bachelor','6/14/1944','11/13/2014');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brannon_Gu?ann','Flashspan','mechanical','doctrate','4/6/1974','6/22/1908');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gerson.O''Reilly','Linklinks','biology','doctrate','8/6/1956','7/21/1915');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mayra_Williamson','Wordware','computer science','doctrate','7/25/1943','11/1/2005');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brianne.Nolan','Brainverse','civil','bachelor','6/21/1951','3/5/1966');
@@ -16132,7 +16085,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Misty_Murray','Miboo','mathematics','doctrate','3/21/1970','4/26/1904');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Shaun.Schmidt','Youopia','law','doctrate','1/24/1961','11/11/2008');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bethany.Haley','Tazz','chemistry','doctrate','8/27/1993','5/4/1924');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Guido_Gu?ann','Browsebug','physics','bachelor','10/30/1970','7/24/1947');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jamel.Greenholt','Bluejam','computer science','bachelor','8/21/1981','12/21/2001');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Audie_Thiel','Meembee','physics','doctrate','1/30/1902','9/2/2011');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Wilfrid_Hudson','Jaxspan','mbbs','bachelor','7/24/1937','12/13/1933');
@@ -16517,7 +16469,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jed_Hoppe','Edgeclub','english','doctrate','12/6/1980','9/18/1963');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Domingo_Johnston','Vitz','economics','bachelor','2/15/1962','10/13/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alia.Weimann','Jabberbean','agriculture','master','7/30/2003','10/4/1933');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marshall_Har?ann','Realpoint','medicine','doctrate','4/1/2013','7/16/1985');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arvid.Johns','Latz','mbbs','master','1/9/1932','10/1/1994');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Juston_Willms','Yamia','chemistry','master','9/16/1931','11/8/1965');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kiley.Kuhlman','Bluejam','computer science','master','2/10/1940','4/14/1966');
@@ -16610,7 +16561,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Willis.Paucek','Bubblemix','biology','master','6/5/1970','4/30/1941');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Joshua.Smith','Izio','philosophy','bachelor','10/6/1946','1/24/1976');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gerardo_Towne','Agimba','civil','doctrate','2/13/2003','1/19/1982');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brianne_Har?ann','Wordpedia','physics','doctrate','9/13/1901','6/25/1928');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ryan.Monahan','Yadel','history','master','3/20/1982','3/7/1914');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Helena.Herman','Realmix','physics','master','12/2/1925','10/12/1908');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Leone.Towne','Thoughtbridge','chemistry','bachelor','7/19/1931','6/24/2012');
@@ -16690,7 +16640,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mona.Hills','Oloo','chemistry','bachelor','7/30/1907','12/10/1973');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nannie.O''Hara','Mynte','economics','master','4/23/1990','5/15/1980');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Amari.Mueller','Zooveo','mathematics','master','10/15/1946','7/25/1903');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Karl_Har?ann','Rhynoodle','computer science','doctrate','6/17/1981','6/22/2009');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Makenzie_Wunsch','Pixonyx','medicine','master','6/22/1920','2/24/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gertrude.Padberg','Dynabox','physics','master','8/31/1933','2/4/2005');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kristin_Kris','Oba','english','master','4/25/1940','8/28/1915');
@@ -16887,7 +16836,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lance.Bosco','Voomm','physics','bachelor','4/6/1936','8/29/1989');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Enrique.Kerluke','Zoovu','history','bachelor','2/9/1974','6/7/1970');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rosalyn.Kshlerin','Nlounge','physics','doctrate','10/11/1993','5/28/1956');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dejah_Har?ann','Jaloo','medicine','master','5/11/2010','4/12/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Blair_Torphy','Tagtune','philosophy','master','1/20/1947','11/6/1949');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sammie','Blognation','history','doctrate','6/30/1910','2/1/1976');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Libbie.Lindgren','Meedoo','physics','doctrate','11/16/1999','12/16/1958');
@@ -17029,7 +16977,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ethan.Walter','Wikizz','law','master','9/3/1978','3/20/1908');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Theodora_Terry','Avamba','biology','bachelor','3/16/1916','8/17/2009');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Enola.Connelly','Devpoint','computer science','doctrate','9/7/1975','7/10/1955');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Herbert_Gu?ann','Topicshots','agriculture','doctrate','12/6/1949','1/26/1924');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('German','Photolist','english','doctrate','7/25/1970','4/18/1993');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Deshaun.Ritchie','Browsetype','biology','bachelor','12/30/1957','9/5/1969');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Royal_Brakus','Tagopia','agriculture','bachelor','1/31/2005','1/18/1967');
@@ -17512,7 +17459,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Willa_Klein','Thoughtworks','history','doctrate','11/5/2004','8/16/1903');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dorthy.Schinner','Twitterlist','biology','doctrate','3/11/1993','7/31/2008');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kole_Ruecker','Gabcube','civil','doctrate','8/18/1943','4/19/1981');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Retta.Har?ann','Camido','eletrical','master','2/8/2008','5/16/1989');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gladys_O''Conner','Oyondu','mbbs','bachelor','3/5/1956','2/13/2004');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lew.Miller','Dazzlesphere','civil','bachelor','2/13/1939','6/2/1935');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Hobart_Batz','Photolist','physics','bachelor','6/29/1990','12/9/1991');
@@ -17757,7 +17703,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Merritt_Cremin','Twitterbeat','agriculture','doctrate','5/27/1982','11/30/2011');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Neil.Keebler','Fiveclub','biology','doctrate','11/16/1903','12/4/1917');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ezra.Reinger','Wikivu','economics','master','5/12/1975','5/6/1913');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lois.Har?ann','Babblestorm','english','master','5/19/2012','12/23/2002');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ephraim.Stamm','Digitube','english','doctrate','11/14/1907','12/9/1998');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sydney_Schumm','Twitterworks','mathematics','master','2/16/1926','5/12/1926');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Delia.Kilback','Twinte','agriculture','master','3/9/2015','6/20/1938');
@@ -18190,7 +18135,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kyla.O''Hara','Voonte','philosophy','doctrate','5/12/1991','9/6/1957');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rebecca_Jerde','Realpoint','chemistry','master','6/9/1990','6/3/1955');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Oswaldo.Donnelly','Youspan','philosophy','master','8/5/1948','6/3/1961');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ryan_Har?ann','Realcube','physics','master','6/2/1961','1/8/1985');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jon_Shields','Blogspan','agriculture','doctrate','3/24/1943','12/14/1958');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mackenzie_Ziemann','Twitterwire','history','master','6/30/1910','11/14/1938');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jaren_Tillman','Fivebridge','physics','master','2/11/1915','9/12/1961');
@@ -18226,7 +18170,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rachel_Turner','Realcube','chemistry','master','3/15/1905','9/23/2002');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Modesta.Von','Twitterlist','chemistry','doctrate','8/26/1918','12/16/2000');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Wilfrid.Beier','Ozu','philosophy','master','11/18/1914','8/14/1965');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sydnee_Gu?ann','Leexo','economics','bachelor','7/7/1932','6/22/1954');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brandi_Cormier','Feedfire','law','master','12/31/1956','10/18/1938');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jordy.Green','Yakitri','eletrical','bachelor','10/9/1993','4/5/1953');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Joel_Nitzsche','Mita','economics','master','8/10/1959','3/5/1992');
@@ -18404,7 +18347,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Deontae.Koch','Wikizz','computer science','bachelor','12/30/2009','3/21/1958');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Geovany_Jewess','Voonix','philosophy','master','12/26/1997','6/17/1942');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Zion_Marks','Gigaclub','philosophy','master','11/26/1979','12/15/1948');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Reba_Har?ann','Viva','law','master','10/20/1920','10/12/1939');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lloyd.Haley','Photobean','law','master','4/28/1988','12/31/1915');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Johanna_Kling','Buzzbean','agriculture','doctrate','2/17/1981','6/7/1974');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Deanna.Larson','Quire','economics','doctrate','12/16/1911','6/1/1962');
@@ -18621,7 +18563,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aliyah.Will','Vipe','mechanical','bachelor','1/13/1910','1/9/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Christop_Reilly','Rhycero','law','bachelor','12/24/1904','8/16/1968');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Pedro.Conn','Zazio','philosophy','doctrate','6/26/2000','9/12/1928');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sharon.Har?ann','Zoonoodle','agriculture','doctrate','10/23/1939','9/28/1928');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jalyn_Nicolas','Rhynoodle','physics','bachelor','8/10/1934','10/27/1935');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bernhard_Bechtelar','Twimbo','mbbs','bachelor','8/3/2002','9/29/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Grace_Hauck','Skyndu','economics','bachelor','12/15/1987','3/8/1975');
@@ -18638,7 +18579,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Stephon_Feest','Thoughtbridge','mbbs','bachelor','6/5/1943','8/13/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Meagan_Cole','Geba','law','master','5/8/1981','5/21/1916');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bonita_Bayer','Rhyzio','physics','master','6/23/2014','12/1/2010');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Yolanda.Gu?ann','Dynazzy','mechanical','master','6/20/1936','5/16/1982');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Okey.Wuckert','Nlounge','computer science','master','4/8/1933','11/13/2007');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Destini.Brown','Eare','civil','doctrate','8/25/2007','4/30/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arvel_Schimmel','Oozz','philosophy','doctrate','6/17/1916','5/20/1915');
@@ -18863,7 +18803,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mayra_Rolfson','Babbleblab','philosophy','doctrate','12/18/1957','10/6/1994');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Laverne.Shields','Flipbug','medicine','doctrate','10/19/1915','4/17/1982');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Maxime_Nader','Avamm','eletrical','doctrate','7/6/1930','7/18/2013');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Estefania_Gu?ann','Skivee','history','bachelor','12/11/1925','3/13/1968');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Delphia.Fay','Zooxo','economics','master','9/30/1939','4/29/1976');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Darrin_Kreiger','Yambee','mechanical','master','12/17/1914','5/25/1910');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Wallace.Schoen','Topdrive','eletrical','bachelor','4/10/1974','6/17/1952');
@@ -18945,7 +18884,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lois.Windler','Oyoyo','philosophy','master','2/25/2013','7/17/1988');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mayra_Daugherty','Skilith','agriculture','doctrate','2/8/1949','7/15/1930');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Amara.Baumbach','Babblestorm','agriculture','bachelor','2/26/2007','5/26/1936');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eliza.Gu?ann','Oyoloo','philosophy','doctrate','5/19/1918','6/9/2002');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bonita_VonRueden','Reallinks','medicine','master','12/5/1925','5/12/1979');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Shea.Krajcik','Gigazoom','eletrical','doctrate','10/12/1973','2/11/1947');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mallie_Fahey','Agivu','civil','bachelor','7/24/1954','12/6/1953');
@@ -19130,7 +19068,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marcelo_Kuhlman','Shufflester','biology','bachelor','8/11/1983','12/20/1932');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nellie','Skynoodle','law','bachelor','9/18/1922','7/25/1926');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Keaton_Huel','Gabtune','chemistry','doctrate','2/1/1930','10/27/1942');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kristy_Har?ann','Izio','english','doctrate','7/21/1939','5/29/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Herminio_Auer','Meevee','economics','master','10/24/1956','7/17/1992');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kacey.Zulauf','Buzzdog','civil','master','5/25/1956','5/5/1953');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Grayson.Bosco','Meedoo','chemistry','master','11/22/1980','6/14/1900');
@@ -19276,7 +19213,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Angelo.Borer','Blogtags','civil','doctrate','5/2/1971','3/23/1951');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ashleigh.Kozey','Gigazoom','chemistry','doctrate','10/6/2010','2/15/1928');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jett_Walsh','Chatterpoint','law','bachelor','5/28/2003','10/7/1942');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Autumn.Har?ann','Agimba','chemistry','master','7/22/1957','9/14/1938');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Virginia_Howell','Oyoba','history','bachelor','12/17/1972','1/17/1903');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Evalyn_Abbott','Skyvu','chemistry','doctrate','1/9/1932','8/1/1974');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Meda_Purdy','Realblab','computer science','master','12/27/2012','10/7/1907');
@@ -19389,7 +19325,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tiara.Conn','Demivee','biology','bachelor','4/3/1976','7/3/1934');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Chadrick.Christiansen','Linkbuzz','physics','doctrate','1/12/1905','7/14/1939');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Carey.Will','Aivee','biology','doctrate','10/2/1901','9/8/1999');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nikko_Gu?ann','Zoovu','eletrical','bachelor','2/22/1954','5/17/1969');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Theodora.McClure','Buzzshare','eletrical','master','2/26/1944','1/18/1920');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Don_Senger','Twitterbeat','economics','doctrate','5/4/1949','10/28/1958');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jayde.Altenwerth','Aimbo','biology','bachelor','2/14/1948','9/26/1976');
@@ -19575,7 +19510,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Julian.Rogahn','Trilia','computer science','bachelor','8/26/1943','2/17/2008');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('George_Dicki','Flipopia','eletrical','bachelor','2/8/1948','11/9/1978');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mia_Barton','Talane','civil','bachelor','7/19/1943','9/2/1904');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rubie_Har?ann','Npath','english','doctrate','12/27/1980','9/15/1987');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jaquan_McLaughlin','Zazio','mbbs','master','1/18/1922','10/7/1903');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nya.Powlowski','Tazzy','civil','master','9/2/1962','11/24/1908');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alexandra.Ward','BlogXS','civil','master','8/16/1970','7/17/1996');
@@ -19728,7 +19662,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Callie_Murray','Flipbug','biology','bachelor','12/17/1930','8/29/1940');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cordie.Morar','Livepath','chemistry','bachelor','1/5/1931','8/10/1974');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jevon.Windler','Quatz','philosophy','master','7/28/1935','11/18/1906');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Gina.Har?ann','Voonder','economics','doctrate','3/12/1929','4/20/2014');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Randall.Wolf','Zoomlounge','agriculture','doctrate','8/14/1934','3/6/1993');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Leonard_Vandervort','Ozu','mechanical','bachelor','4/29/1976','3/5/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Winona.Tromp','Omba','medicine','bachelor','8/13/1998','4/22/1970');
@@ -19745,7 +19678,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Norval_McGlynn','Brainsphere','economics','master','8/4/2010','7/17/1967');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dudley.Kirlin','Twinder','mathematics','bachelor','4/6/1975','8/28/1990');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Angel_Hodkiewicz','Rhynoodle','medicine','bachelor','2/14/1932','5/15/1988');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marcelle.Gu?ann','Jabbercube','physics','doctrate','3/24/1978','9/1/1900');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Pete.Konopelski','Realbuzz','english','doctrate','12/28/2004','8/1/1965');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Adam_Yost','Jabbersphere','biology','master','8/13/1928','12/29/1975');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Olga_Rosenbaum','Yata','economics','doctrate','10/7/2008','5/24/2013');
@@ -19887,7 +19819,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Zachary.Hoppe','Tazzy','mechanical','bachelor','10/15/1975','6/8/1922');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Camila_Daugherty','Skaboo','computer science','bachelor','11/27/2006','2/8/1946');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jaqueline_Jacobson','Twitterbridge','eletrical','bachelor','2/5/1986','12/30/1931');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Christy_Gu?ann','Oba','biology','bachelor','12/7/1902','9/13/1906');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cyrus_Jones','Twimm','english','bachelor','2/15/1948','4/9/1913');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marjory_Schneider','Flashpoint','history','master','8/28/1988','11/27/1919');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tristian_Langosh','Wikivu','mathematics','doctrate','2/15/2001','5/31/1937');
@@ -20191,7 +20122,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cecile.Rutherford','Skinte','medicine','doctrate','4/17/1935','6/28/1987');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aurelia_Bruen','Quatz','computer science','doctrate','10/7/1947','3/16/1925');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lamont.Schroeder','Realcube','mathematics','bachelor','11/5/1951','9/25/2001');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Katarina_Gu?ann','Oyoyo','physics','bachelor','8/19/1984','11/9/1938');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Arjun.Rolfson','Photojam','law','doctrate','10/29/1939','8/21/1927');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Wallace.Gleason','Browsedrive','mechanical','bachelor','2/7/1959','3/19/1986');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Clyde.Bogan','Dynazzy','economics','master','5/14/1985','7/23/1976');
@@ -20334,7 +20264,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jailyn.Armstrong','Skinix','biology','master','5/29/1952','8/25/1921');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Carmel_Abbott','Skinix','computer science','doctrate','3/4/2013','8/22/1929');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Colin.Brown','Meeveo','eletrical','doctrate','12/26/1919','4/24/1984');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bryon.Gu?ann','Chatterpoint','biology','doctrate','2/6/1913','8/24/1962');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sincere.Deckow','Eimbee','chemistry','doctrate','8/10/2007','10/30/1976');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Sheila.McLaughlin','Feedbug','agriculture','doctrate','11/16/1925','4/15/1970');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Clovis.McClure','Skinix','physics','bachelor','5/13/1912','1/2/1941');
@@ -20347,7 +20276,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jeff.Gleason','Avavee','philosophy','bachelor','3/18/1908','11/10/1960');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alessandra.Schmeler','Zoonder','agriculture','master','3/3/1946','5/23/1924');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Frederick.Daugherty','Avavee','philosophy','doctrate','1/17/1907','6/13/1918');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Herminia_Gu?ann','Youtags','eletrical','doctrate','3/22/1966','9/24/1931');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mireille_Hyatt','Fliptune','law','master','11/7/1946','4/8/2006');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Conner_Schneider','Teklist','chemistry','master','7/23/1954','11/29/1975');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Issac.Wintheiser','Quinu','civil','master','10/7/2006','8/26/1951');
@@ -20877,7 +20805,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Christian.Koss','Photospace','mathematics','master','2/3/2002','9/16/1986');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Oswald_Yost','Browsedrive','philosophy','doctrate','11/24/1948','5/14/1965');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Andy.Kassulke','Realpoint','computer science','doctrate','10/17/2012','6/28/1950');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Brayan_Gu?ann','Aivee','mechanical','bachelor','6/26/2003','7/10/1943');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nathen.Waters','Oyope','medicine','bachelor','11/4/1904','12/19/1922');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Simone_Buckridge','Youspan','philosophy','doctrate','3/2/1922','12/17/1937');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Tia_Metz','Skinder','physics','doctrate','12/11/1963','11/8/1948');
@@ -20977,7 +20904,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Andres_Mayer','Wikivu','philosophy','doctrate','4/30/1943','8/7/1939');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kraig_Paucek','Omba','chemistry','doctrate','12/1/1939','1/5/2001');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Skye_Prosacco','Skyba','medicine','master','1/9/1931','11/28/1961');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Nelle.Har?ann','Browsebug','computer science','bachelor','2/27/1917','3/28/1983');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Eliza_Murazik','Jabbercube','physics','master','7/30/1926','6/10/1955');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Samir_Wyman','Muxo','civil','doctrate','9/8/1952','7/31/1943');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Mckayla.Hegmann','Viva','agriculture','bachelor','5/23/1928','7/9/1929');
@@ -21458,7 +21384,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Bria.Jacobs','Talane','history','bachelor','3/5/1969','8/21/2009');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Roel_Koelpin','Vinder','philosophy','doctrate','4/12/1996','12/20/1925');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rosendo.Veum','Devcast','economics','doctrate','10/19/1959','3/2/1943');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Johnpaul_Gu?ann','Zoomcast','eletrical','bachelor','6/24/1998','6/16/1937');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ryley.Labadie','Skynoodle','english','bachelor','3/27/1968','11/5/1996');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Evangeline.Grady','Jetpulse','mechanical','bachelor','1/26/1923','3/24/2009');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Celia.Okuneva','Roomm','civil','doctrate','2/9/1905','2/22/1983');
@@ -21633,7 +21558,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Saige_Corwin','Eazzy','history','master','8/10/1944','1/9/1978');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Maxie_Abernathy','Geba','medicine','master','10/1/1965','6/30/1929');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kendra.Leffler','Vitz','civil','master','7/28/1985','1/10/1994');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rafael_Har?ann','Skiptube','biology','doctrate','8/8/1942','4/2/1934');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Yasmeen_Pouros','Topicware','eletrical','doctrate','5/23/1954','5/6/2000');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cayla.Hamill','Quamba','eletrical','bachelor','1/4/1914','9/16/1947');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kenyon_Breitenberg','Twiyo','agriculture','bachelor','2/25/1988','11/23/1932');
@@ -21809,7 +21733,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Uriel_Corkery','Topdrive','english','doctrate','10/1/1911','3/17/1960');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lizeth_Muller','Eabox','mbbs','bachelor','9/22/1973','3/4/1942');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Corbin_McClure','Brainbox','law','doctrate','5/7/2004','8/17/1949');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Leonel_Gu?ann','Devshare','agriculture','doctrate','5/15/2008','1/25/1937');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Braulio_Stiedemann','Mynte','history','doctrate','8/8/1961','10/12/1951');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lucio.Pacocha','Plajo','agriculture','bachelor','1/27/1916','2/6/1919');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kylie.Bosco','Yakidoo','civil','doctrate','8/29/1974','10/21/1938');
@@ -21915,7 +21838,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Andy_Pacocha','Centizu','mathematics','master','2/4/1922','12/4/1916');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Marcia.Kassulke','Gigazoom','mechanical','master','5/19/1957','12/9/1985');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Darrion.Towne','Trudoo','mbbs','bachelor','2/18/1926','1/10/1939');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Margret.Har?ann','Tagtune','economics','master','9/8/1997','6/6/1914');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Keyon_Torphy','Jabberbean','chemistry','doctrate','2/11/1921','12/10/1959');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Elmer_Kuhic','Eayo','mbbs','doctrate','6/15/1959','9/24/2005');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Solon_Bayer','Blogtag','agriculture','doctrate','9/7/1909','9/1/1973');
@@ -22237,7 +22159,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Dortha.Carroll','Skimia','physics','bachelor','6/23/1959','12/5/2013');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Montana.Ankunding','Browseblab','agriculture','master','7/19/1948','9/17/2010');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Titus_Schowalter','Blogspan','mechanical','bachelor','2/28/2008','4/19/1953');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Neva.Gu?ann','Vitz','biology','master','8/11/1909','5/29/1964');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jamir_Runte','Myworks','history','bachelor','10/13/1971','12/19/1909');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Aliya.Murphy','Browsezoom','law','bachelor','12/19/1971','12/22/1966');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Carolina_King','Voonix','chemistry','master','3/5/1961','2/19/1918');
@@ -22325,7 +22246,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Meredith.Kemmer','Feednation','eletrical','doctrate','7/9/1942','3/22/1997');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Kale_Hilpert','Rooxo','eletrical','master','4/18/1956','7/29/1923');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Cristopher_Tromp','Avavee','medicine','bachelor','7/31/1934','4/28/1928');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Alfonzo.Har?ann','Browsedrive','biology','master','9/30/1985','4/15/1939');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Rod_Reinger','Gigabox','civil','master','4/5/1948','10/16/1982');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Lila_Bauch','Riffpath','mbbs','bachelor','6/3/1962','1/22/1985');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Darrell_Ledner','Yotz','mathematics','doctrate','5/6/1950','3/12/1989');
@@ -22619,7 +22539,6 @@ INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,en
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Chester_Walker','Jabbertype','mechanical','bachelor','5/1/1924','10/18/2009');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Ceasar_Quigley','Topdrive','physics','bachelor','3/4/1913','5/25/1991');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Wiley_Schroeder','Ntags','history','bachelor','1/7/1966','4/3/2014');
-INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Jewell_Gu?ann','Voomm','civil','master','1/14/1978','1/2/1993');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Felipe_Sporer','Dablist','eletrical','master','8/23/1929','6/27/1936');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Henriette.McKenzie','Zooxo','biology','bachelor','1/29/1996','10/25/1992');
 INSERT INTO EDUCATIONAL_DETAILS(userId,institutionName,major,degree,startdate,enddate) VALUES ('Elva_Turner','Topdrive','mechanical','master','1/26/1998','2/24/1940');

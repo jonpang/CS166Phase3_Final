@@ -639,7 +639,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Boris,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Karen,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Tommie,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Luna,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Modesta_Champlin,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jerrold.Roberts,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Hubert_Emmerich,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -1291,7 +1290,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Eusebio.O''Kon,"','",Vipe,"','",Speech Pathologist,"','",Agboville,"','",10/5/1956,"','",4/23/1974,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Breana,"','",Youspan,"','",Office Assistant IV,"','",Chepo,"','",3/2/1962,"','",12/31/1981,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Erwin,"','",Katz,"','",Food Chemist,"','",Clarin,"','",2/5/1914,"','",6/8/1960,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Catalina.Har?ann,"','",Demizz,"','",GIS Technical Architect,"','",Balangonan,"','",6/2/1960,"','",6/10/1938,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dexter_Littel,"','",Skyba,"','",Research Nurse,"','",Henglin,"','",12/30/1975,"','",2/6/1936,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Braeden_Zieme,"','",Flipopia,"','",Analog Circuit Design manager,"','",Rio de Moinhos,"','",3/15/1913,"','",7/24/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jasen_Steuber,"','",Photofeed,"','",Compensation Analyst,"','",Phu Phiang,"','",8/9/1972,"','",7/16/1985,');
@@ -1532,7 +1530,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Darrel.Stroman,"','",Browseblab,"','",Teacher,"','",Ailuk,"','",7/18/1983,"','",8/16/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Assunta,"','",Flipbug,"','",Analog Circuit Design manager,"','",Tsukuba,"','",2/11/1958,"','",8/21/1990,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Eden,"','",Lazzy,"','",Geologist I,"','",Dayr Sharaf,"','",5/29/1962,"','",1/26/1982,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kassandra_Gu?ann,"','",Twitterwire,"','",Senior Cost Accountant,"','",Sigiriya,"','",4/29/1999,"','",10/29/1983,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ava,"','",Voonder,"','",Speech Pathologist,"','",Oslo,"','",11/7/2009,"','",9/22/1932,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Tiffany.Bahringer,"','",Devbug,"','",Technical Writer,"','",Antanifotsy,"','",9/18/1948,"','",6/7/2001,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jennyfer,"','",Abatz,"','",Accountant II,"','",Pato Branco,"','",9/24/1946,"','",6/28/1914,');
@@ -1551,7 +1548,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Adrain_Kub,"','",Vinte,"','",Legal Assistant,"','",Antanifotsy,"','",5/16/1956,"','",6/1/1913,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Gino,"','",Fanoodle,"','",Social Worker,"','",Nguigmi,"','",3/18/1993,"','",4/23/1920,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Tyrese_Schroeder,"','",Skiptube,"','",Business Systems Development Analyst,"','",Antanifotsy,"','",3/20/1915,"','",12/21/1955,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Rubye.Gu?ann,"','",Vidoo,"','",Analyst Programmer,"','",Boychinovtsi,"','",11/11/1963,"','",9/1/1953,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Annetta,"','",Mymm,"','",General Manager,"','",Aginskoye,"','",2/3/1986,"','",12/19/1986,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Efrain.Will,"','",Youspan,"','",Pharmacist,"','",Danyang,"','",3/8/1927,"','",2/1/1958,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Bulah,"','",Dynabox,"','",Electrical Engineer,"','",Pondokdalem,"','",3/17/1964,"','",2/3/1965,');
@@ -1639,7 +1635,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jessica.Thompson,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Monroe,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kenyon,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",April,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Nicole.Bogisich,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Rashawn_Schulist,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Koby,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -2537,7 +2532,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Berta,"','",Devbug,"','",Technical Writer,"','",Antanifotsy,"','",9/18/1948,"','",6/7/2001,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Euna.Hessel,"','",Abatz,"','",Accountant II,"','",Pato Branco,"','",9/24/1946,"','",6/28/1914,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Noah,"','",Livepath,"','",Developer I,"','",La Mohammedia,"','",8/22/1924,"','",12/5/2003,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Abigail.Gu?ann,"','",Photospace,"','",Account Coordinator,"','",Chengdong,"','",8/25/1942,"','",4/21/1983,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Orion,"','",Oba,"','",Structural Engineer,"','",Glubokiy,"','",5/15/1972,"','",5/17/1975,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Monte.Fisher,"','",Quamba,"','",Marketing Manager,"','",Tumcon Ilawod,"','",1/12/1972,"','",10/28/1968,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dax_Hayes,"','",JumpXS,"','",Structural Analysis Engineer,"','",Novoalekseyevskaya,"','",5/26/1944,"','",10/18/1922,');
@@ -2639,7 +2633,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Madalyn,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brady.Mitchell,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Iva,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Keyon.Kunde,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lyda,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Deja.Parker,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jazmyn.Nicolas,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -2984,7 +2977,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Reid,"','",Skyba,"','",Sales Representative,"','",Lagunas,"','",3/20/1988,"','",8/19/1965,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Amara_Boehm,"','",Demimbu,"','",Help Desk Technician,"','",Bureng,"','",3/21/1980,"','",6/5/1910,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Cordell,"','",Wikido,"','",Accountant II,"','",Manorom,"','",2/17/1980,"','",9/10/1974,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ernestine_Gu?ann,"','",Mita,"','",Account Executive,"','",Turba,"','",3/29/2015,"','",12/13/1914,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Sandrine.Terry,"','",Nlounge,"','",Operator,"','",Weiyang,"','",12/24/1949,"','",5/14/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Eden_Skiles,"','",Dabfeed,"','",Paralegal,"','",Zhouzai,"','",12/16/1980,"','",3/18/1925,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Simeon,"','",Skyvu,"','",Executive Secretary,"','",Loujiadian,"','",10/9/1916,"','",2/4/1925,');
@@ -3515,7 +3507,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Orlando,"','",Thoughtblab,"','",Account Representative IV,"','",Sigiriya,"','",7/15/1950,"','",2/5/2010,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Keira.Crooks,"','",Zoomcast,"','",Analog Circuit Design manager,"','",Babakankadu,"','",9/10/1997,"','",3/28/1994,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mattie_Hackett,"','",Wordtune,"','",Registered Nurse,"','",Nieying,"','",8/22/1934,"','",9/21/1950,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dakota.Har?ann,"','",Layo,"','",Research Associate,"','",Kazo,"','",2/12/2005,"','",9/13/1913,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Sasha.Johnson,"','",Trilia,"','",Physical Therapy Assistant,"','",Jinyuan,"','",3/27/1928,"','",5/14/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Letitia,"','",Roodel,"','",Quality Control Specialist,"','",Chartres,"','",4/16/1992,"','",1/9/1988,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jaunita,"','",Thoughtsphere,"','",Assistant Manager,"','",Zevenaar,"','",11/23/1987,"','",7/22/1954,');
@@ -3594,7 +3585,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Rhiannon_Weimann,"','",Oloo,"','",Librarian,"','",Lidu,"','",5/27/1933,"','",4/11/1965,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Burdette,"','",Rhynoodle,"','",Food Chemist,"','",Casilda,"','",2/20/1998,"','",11/16/1955,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Herminia,"','",Fiveclub,"','",Safety Technician I,"','",Rufino,"','",9/28/1934,"','",6/24/1957,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kiera_Gu?ann,"','",Gabvine,"','",Civil Engineer,"','",Guarenas,"','",1/20/1998,"','",8/27/1951,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Treva.Stokes,"','",Skimia,"','",Account Coordinator,"','",Ishurdi,"','",2/21/1989,"','",3/17/2012,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Therese.Gislason,"','",Edgepulse,"','",Editor,"','",New York City,"','",7/26/1960,"','",7/15/1943,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Noah.Streich,"','",Leenti,"','",Information Systems Manager,"','",Zombo,"','",11/23/1935,"','",11/17/1954,');
@@ -3639,7 +3629,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kelli,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Gonzalo,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jermey.Windler,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Remington,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Porter,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Gianni.Prosacco,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jany,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -4037,7 +4026,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Coby,"','",Tazzy,"','",Recruiting Manager,"','",Tyoply Stan,"','",3/12/1950,"','",2/19/1929,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Nadia_Hyatt,"','",Browsecat,"','",Social Worker,"','",Kanashevo,"','",5/23/1960,"','",6/4/1949,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mozelle.Hickle,"','",Yakijo,"','",Project Manager,"','",Paya Dapur,"','",3/29/1974,"','",9/24/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ari.Gu?ann,"','",Skipfire,"','",Design Engineer,"','",Huangbei,"','",4/18/1961,"','",10/28/1953,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jeffrey,"','",Livetube,"','",Associate Professor,"','",Houyu,"','",6/7/1996,"','",3/19/2005,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Domenico,"','",Oyonder,"','",Compensation Analyst,"','",Tyoply Stan,"','",12/23/1985,"','",12/3/2005,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Tia,"','",Browsezoom,"','",Help Desk Operator,"','",Betong,"','",5/24/1983,"','",10/20/1981,');
@@ -4503,7 +4491,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Raleigh,"','",Thoughtsphere,"','",Analyst Programmer,"','",La Soledad,"','",10/25/1989,"','",4/1/2003,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Shaylee,"','",Photolist,"','",Physical Therapy Assistant,"','",Lille,"','",6/26/2012,"','",6/10/1948,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Evalyn.Reinger,"','",Kare,"','",Dental Hygienist,"','",Chejiazhuang,"','",3/6/1978,"','",11/19/1919,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Elissa_Har?ann,"','",Thoughtbridge,"','",Computer Systems Analyst III,"','",Jiangxiangzhen,"','",11/26/1915,"','",6/13/1946,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kiel_Price,"','",Zoonder,"','",Cost Accountant,"','",Punkaharju,"','",3/2/1960,"','",2/26/1912,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Weldon,"','",Omba,"','",Physical Therapy Assistant,"','",Tiancheng,"','",1/23/1928,"','",4/7/1928,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Stella,"','",Brightbean,"','",Pharmacist,"','",Shangjin,"','",1/6/1916,"','",6/21/1914,');
@@ -4639,7 +4626,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Trevor_Frami,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Derrick,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Buddy,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Shanna.Brown,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Hollie_Reichel,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Nels.Brakus,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Macie,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -4726,7 +4712,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Vinnie_Kemmer,"','",Realpoint,"','",Office Assistant IV,"','",Paseyan,"','",10/6/1933,"','",5/12/1992,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kameron,"','",Dazzlesphere,"','",Staff Accountant I,"','",Mulyadadi,"','",2/21/1978,"','",6/24/1944,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brock_Marvin,"','",Bubblebox,"','",Web Developer II,"','",Methven,"','",5/5/1926,"','",1/5/1968,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Della_Gu?ann,"','",Photofeed,"','",Analyst Programmer,"','",Methven,"','",3/8/1964,"','",2/17/1920,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dagmar_Rohan,"','",Katz,"','",Recruiter,"','",San Rafael,"','",9/4/1968,"','",2/1/1942,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jules.Bahringer,"','",Vipe,"','",Teacher,"','",Ningde,"','",2/2/1983,"','",7/8/1975,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ambrose,"','",Browsetype,"','",Software Test Engineer IV,"','",Xinhua,"','",1/27/1932,"','",11/18/1986,');
@@ -4935,7 +4920,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Fidel,"','",Vimbo,"','",Staff Accountant II,"','",Bureng,"','",4/11/1922,"','",4/27/1973,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kelton,"','",Gevee,"','",Research Nurse,"','",Kisai,"','",12/2/1918,"','",1/16/1957,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Orlo,"','",Skiptube,"','",Project Manager,"','",Jejkowice,"','",10/9/1980,"','",2/17/1921,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Adelia.Har?ann,"','",Zoombox,"','",Legal Assistant,"','",Bureng,"','",7/4/1926,"','",2/20/1958,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Winnifred,"','",Leexo,"','",VP Marketing,"','",Krasnoye,"','",4/18/2009,"','",3/27/2012,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Thomas,"','",Npath,"','",Assistant Professor,"','",Fucheng,"','",9/15/2003,"','",7/21/1979,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ahmed.Ward,"','",Quinu,"','",Mechanical Systems Engineer,"','",Delok,"','",7/16/1947,"','",1/19/1914,');
@@ -5167,7 +5151,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Nova_McDermott,"','",Babbleset,"','",Director of Sales,"','",Takanabe,"','",9/26/1924,"','",11/16/1993,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mathilde_Kris,"','",Trilith,"','",Account Representative I,"','",Yasynuvata,"','",10/3/1940,"','",7/20/1961,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Samson.Cormier,"','",Twiyo,"','",Data Coordiator,"','",Yasynuvata,"','",4/3/1971,"','",6/2/1956,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Meredith_Har?ann,"','",Kayveo,"','",Assistant Manager,"','",Dobryanka,"','",12/15/1912,"','",12/29/1973,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Hildegard,"','",Shufflester,"','",Senior Editor,"','",Bunder,"','",12/18/1964,"','",12/18/2002,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Eladio,"','",Flipbug,"','",Recruiter,"','",Chixi,"','",8/20/2007,"','",5/3/1923,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Calista,"','",Rhybox,"','",Web Developer III,"','",Chengshan,"','",9/12/1932,"','",4/27/1932,');
@@ -5639,7 +5622,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jayson.Reichel,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Elroy.O''Hara,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brandyn,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Glenna.Keeling,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Devin.Blick,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Emely.Howell,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Nathanael_Kuhlman,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -5956,7 +5938,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Aliyah.Jacobson,"','",Topiclounge,"','",Programmer III,"','",Hokor,"','",10/10/1947,"','",4/14/1977,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Leilani_Bruen,"','",Livetube,"','",Programmer Analyst III,"','",Pushkino,"','",9/15/1988,"','",9/16/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Leilani_DuBuque,"','",Youopia,"','",Recruiter,"','",Oslo,"','",3/22/1993,"','",10/12/2000,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brandon_Gu?ann,"','",Vitz,"','",Editor,"','",Philadelphia,"','",10/17/2010,"','",11/2/1989,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Maida,"','",Photojam,"','",Marketing Manager,"','",Loen,"','",8/5/1957,"','",9/16/1961,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kaleb,"','",Eadel,"','",Desktop Support Technician,"','",Rambatan,"','",8/15/1928,"','",7/17/1986,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Erwin_Mills,"','",Omba,"','",Health Coach II,"','",Baisha,"','",2/21/1978,"','",4/16/2006,');
@@ -6418,7 +6399,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lucious_Erdman,"','",Eimbee,"','",Physical Therapy Assistant,"','",Zaliztsi,"','",9/21/1962,"','",12/30/1983,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Unique_Zieme,"','",Midel,"','",Assistant Manager,"','",Balbagay,"','",3/24/1999,"','",7/24/1989,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kayley,"','",Brainbox,"','",Professor,"','",Daji,"','",9/11/2011,"','",12/23/1936,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Aracely_Har?ann,"','",Wordtune,"','",Nurse,"','",Calaba,"','",12/20/1955,"','",12/2/2005,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Krystal.Hilpert,"','",Feedfire,"','",Quality Engineer,"','",Anfusi,"','",2/28/1989,"','",6/19/1966,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dell,"','",Rhynyx,"','",Help Desk Operator,"','",Nueva Manoa,"','",4/3/1976,"','",3/3/1985,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Davonte.Wiegand,"','",Dynazzy,"','",Developer II,"','",Yangpu,"','",10/28/1974,"','",12/18/2013,');
@@ -6639,7 +6619,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Carlee.Ferry,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ron,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ollie,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Marjorie.Stamm,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Boyd.Pfeffer,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Alexanne,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Astrid,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -6962,7 +6941,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dixie_Bechtelar,"','",Omba,"','",Health Coach II,"','",Baisha,"','",2/21/1978,"','",4/16/2006,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Madisyn,"','",Trilia,"','",Junior Executive,"','",Gabao,"','",5/19/1957,"','",1/8/1972,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Marcos.O''Connell,"','",Avavee,"','",Research Associate,"','",Shensuo,"','",5/9/1982,"','",9/5/1930,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Prudence_Har?ann,"','",Kwideo,"','",Chemical Engineer,"','",Bureng,"','",9/12/1951,"','",3/27/1999,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Devonte_Conroy,"','",Blogspan,"','",Help Desk Operator,"','",Klau,"','",12/18/1979,"','",9/10/1973,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Bradford.Gaylord,"','",Kanoodle,"','",Biostatistician III,"','",Liangcunchang,"','",10/10/2003,"','",11/14/1933,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Isobel_Ryan,"','",Realmix,"','",Social Worker,"','",Mendefera,"','",2/2/1947,"','",10/25/1915,');
@@ -7040,7 +7018,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Frederick.Marquardt,"','",Skipfire,"','",Design Engineer,"','",Huangbei,"','",4/18/1961,"','",10/28/1953,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Yasmine,"','",Livetube,"','",Associate Professor,"','",Houyu,"','",6/7/1996,"','",3/19/2005,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Alexander,"','",Oyonder,"','",Compensation Analyst,"','",Tyoply Stan,"','",12/23/1985,"','",12/3/2005,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mallory_Gu?ann,"','",Browsezoom,"','",Help Desk Operator,"','",Betong,"','",5/24/1983,"','",10/20/1981,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Adell.Pouros,"','",Gigashots,"','",Dental Hygienist,"','",Tim,"','",9/12/1915,"','",4/6/1997,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mack,"','",Topicblab,"','",Web Designer III,"','",Xike,"','",4/14/1944,"','",7/12/1998,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Orland.Steuber,"','",Livetube,"','",Legal Assistant,"','",Mikhaylovka,"','",10/8/2000,"','",6/6/1948,');
@@ -7111,7 +7088,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Julianne_Schneider,"','",Meembee,"','",Assistant Manager,"','",Guanfang,"','",8/16/1933,"','",9/20/2003,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Asha,"','",Twinte,"','",Social Worker,"','",Payao,"','",6/24/1965,"','",3/23/1990,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Daniela_Gerlach,"','",Voonyx,"','",Project Manager,"','",La Soledad,"','",8/21/1981,"','",2/13/1934,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Rosetta.Gu?ann,"','",Devpulse,"','",Quality Control Specialist,"','",La Soledad,"','",7/5/2009,"','",2/26/1983,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Isabella,"','",Zoovu,"','",Librarian,"','",Banjar Pangkungkarung Kangin,"','",12/26/1913,"','",10/11/2001,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Layne,"','",Eire,"','",Electrical Engineer,"','",Tabu,"','",8/1/1973,"','",6/11/1923,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Phoebe.Wunsch,"','",Demizz,"','",Research Associate,"','",Naples,"','",9/24/1968,"','",1/13/1928,');
@@ -7403,7 +7379,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Rozella_Lowe,"','",Bluejam,"','",Actuary,"','",Arapiraca,"','",3/10/1965,"','",8/21/1994,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kyla.Fadel,"','",Centizu,"','",VP Product Management,"','",Lebao,"','",8/20/1924,"','",4/21/1934,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Roy.Reinger,"','",Talane,"','",Registered Nurse,"','",Niandui,"','",7/31/1929,"','",8/5/1918,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Skyla.Gu?ann,"','",Meejo,"','",Accounting Assistant IV,"','",Cumba,"','",1/17/1968,"','",8/4/2003,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Laurianne_Zieme,"','",Quatz,"','",Automation Specialist IV,"','",Krajanbaturno,"','",10/17/1983,"','",5/28/1926,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jimmie_Turner,"','",Skipstorm,"','",Senior Financial Analyst,"','",Cihaladan,"','",6/27/1957,"','",11/23/1911,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Geovany_Leuschke,"','",Riffpedia,"','",VP Accounting,"','",Cihaladan,"','",10/9/1974,"','",9/24/1970,');
@@ -7476,7 +7451,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Clemmie_Mayer,"','",Vimbo,"','",Nuclear Power Engineer,"','",Longquan,"','",6/15/1999,"','",8/7/1995,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Alia.Gislason,"','",Thoughtstorm,"','",Statistician I,"','",Maungatapere,"','",5/6/1978,"','",9/27/1941,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Chauncey_Jerde,"','",Zoonder,"','",Financial Analyst,"','",Xinyi,"','",11/9/1930,"','",11/30/1953,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Alisha_Gu?ann,"','",Vinte,"','",Health Coach III,"','",Sigiriya,"','",7/16/1974,"','",12/29/2003,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Judy,"','",Devpoint,"','",Systems Administrator I,"','",Las Minas,"','",12/30/1916,"','",7/11/1981,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Beulah_Koepp,"','",Yoveo,"','",Office Assistant III,"','",Longar,"','",10/8/1927,"','",6/4/1928,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Abraham.Jerde,"','",Mydeo,"','",Electrical Engineer,"','",Chashan,"','",2/5/1956,"','",10/19/1937,');
@@ -7592,7 +7566,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Floy.Mayert,"','",Mycat,"','",Accountant IV,"','",Quixeramobim,"','",9/30/1990,"','",6/17/1923,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lon,"','",Devpulse,"','",Paralegal,"','",Phan Thong,"','",10/15/1968,"','",10/23/1955,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Velda,"','",Oloo,"','",Librarian,"','",Lidu,"','",5/27/1933,"','",4/11/1965,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ova_Gu?ann,"','",Rhynoodle,"','",Food Chemist,"','",Casilda,"','",2/20/1998,"','",11/16/1955,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Patsy_Konopelski,"','",Fiveclub,"','",Safety Technician I,"','",Rufino,"','",9/28/1934,"','",6/24/1957,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Yesenia.Friesen,"','",Gabvine,"','",Civil Engineer,"','",Guarenas,"','",1/20/1998,"','",8/27/1951,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Bo,"','",Skimia,"','",Account Coordinator,"','",Ishurdi,"','",2/21/1989,"','",3/17/2012,');
@@ -7639,7 +7612,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lavern.Gulgowski,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Donnell_Wintheiser,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Julianne_Swift,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Phoebe,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Nelle.Hettinger,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Guy_Bruen,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Herman_Jacobson,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -7990,7 +7962,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Minerva_Keebler,"','",Skyvu,"','",Executive Secretary,"','",Loujiadian,"','",10/9/1916,"','",2/4/1925,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Corene.Lind,"','",Flashset,"','",Programmer I,"','",Turba,"','",9/9/1979,"','",8/20/1966,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Sherwood.Gibson,"','",Izio,"','",Analog Circuit Design manager,"','",Asaka,"','",6/26/1970,"','",5/25/1947,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Asia_Har?ann,"','",Fivechat,"','",Environmental Specialist,"','",Livramento do Brumado,"','",12/24/2005,"','",6/9/2003,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Thurman_Jenkins,"','",Voolith,"','",Cost Accountant,"','",Sumbergebang,"','",10/22/1977,"','",2/28/2005,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Tobin_Labadie,"','",Zazio,"','",VP Marketing,"','",Sanzhang,"','",7/28/1916,"','",4/6/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ernestine.Carroll,"','",Demimbu,"','",Environmental Specialist,"','",James Craik,"','",5/3/1933,"','",5/7/1927,');
@@ -8382,7 +8353,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Elmo_Wehner,"','",Plambee,"','",Project Manager,"','",Chigang,"','",12/7/2002,"','",6/19/1964,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Chadrick_Hansen,"','",Yodo,"','",GIS Technical Architect,"','",Khosta,"','",7/15/1969,"','",7/6/1967,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ardith.Considine,"','",Zoomzone,"','",VP Quality Control,"','",Arnoia,"','",12/7/1952,"','",1/2/2015,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dane_Har?ann,"','",Vipe,"','",Information Systems Manager,"','",Abaca,"','",9/20/1966,"','",4/9/1954,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Laurie_Terry,"','",Quatz,"','",Junior Executive,"','",Sukamaju,"','",2/4/1924,"','",8/2/1987,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ian_Kihn,"','",Dynazzy,"','",Database Administrator II,"','",Shencang,"','",3/11/1934,"','",8/15/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Danny.Sipes,"','",Katz,"','",General Manager,"','",Santana,"','",8/31/1951,"','",4/28/1915,');
@@ -8639,7 +8609,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Colten_Kreiger,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lelah.Schowalter,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jeanie_Durgan,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Clifford_Legros,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Baron_Carter,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Theresia.Gerhold,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Will.Wintheiser,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -9067,7 +9036,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Joelle_Schiller,"','",Skaboo,"','",Administrative Assistant II,"','",Changtang,"','",10/18/1974,"','",4/22/2013,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Guillermo_Schamberger,"','",Photolist,"','",Software Consultant,"','",Oganlima,"','",9/23/1946,"','",12/11/1925,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Juvenal_Crooks,"','",Gabspot,"','",Technical Writer,"','",Bendosari,"','",6/5/1915,"','",4/10/2012,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Noemy.Har?ann,"','",Browseblab,"','",Project Manager,"','",Tyoply Stan,"','",4/9/1922,"','",9/24/1969,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Sibyl.Kertzmann,"','",Ozu,"','",Teacher,"','",Himeville,"','",10/5/1936,"','",9/6/1920,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Arjun,"','",Jabberstorm,"','",Systems Administrator IV,"','",Lomba,"','",12/27/1989,"','",1/19/1951,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kayleigh.Considine,"','",Photofeed,"','",Senior Sales Associate,"','",Ancol,"','",7/7/2007,"','",11/8/1941,');
@@ -9307,7 +9275,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Orville_Kohler,"','",Trupe,"','",Operator,"','",Velizh,"','",10/14/1936,"','",12/30/1968,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",German.Hoeger,"','",Mybuzz,"','",Desktop Support Technician,"','",Ogoja,"','",1/24/1950,"','",5/21/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mattie,"','",Zoovu,"','",Electrical Engineer,"','",Benisheikh,"','",5/11/2006,"','",6/5/1910,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Don.Gu?ann,"','",Blogspan,"','",Account Executive,"','",Linamon,"','",2/17/1921,"','",10/2/1985,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Enrique.Runolfsson,"','",Zooxo,"','",Nuclear Power Engineer,"','",Dome,"','",2/15/1944,"','",5/19/1942,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Florine.McKenzie,"','",Mydeo,"','",Web Developer I,"','",Vratsa,"','",12/4/1956,"','",8/11/1916,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Vanessa_Robel,"','",Jabbersphere,"','",Statistician IV,"','",Cihaladan,"','",2/11/1915,"','",4/25/2013,');
@@ -9602,7 +9569,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Courtney.Borer,"','",Centizu,"','",Clinical Specialist,"','",Miandrarivo,"','",12/7/1987,"','",11/19/1911,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Thomas_Mueller,"','",Jetwire,"','",Editor,"','",Dingjiayao,"','",4/9/2014,"','",2/19/1948,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Sylvester_Bauch,"','",Rhyzio,"','",VP Marketing,"','",Dhuusamarreeb,"','",6/10/2010,"','",11/17/1913,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Braden_Gu?ann,"','",Skajo,"','",Speech Pathologist,"','",Palapye,"','",9/9/1994,"','",10/17/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jany_Hane,"','",Voonte,"','",Software Consultant,"','",Hartford,"','",4/29/1957,"','",1/3/2011,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Torrey.Stracke,"','",Jaloo,"','",Senior Financial Analyst,"','",Aginskoye,"','",3/14/2014,"','",5/18/1933,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Araceli_Dare,"','",Skidoo,"','",Pharmacist,"','",Xiaohekou,"','",8/16/1963,"','",12/1/2012,');
@@ -9616,7 +9582,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Annette.Fisher,"','",Fivebridge,"','",Environmental Specialist,"','",Ishikawa,"','",1/3/2013,"','",4/3/1952,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Norene.Crooks,"','",Skippad,"','",GIS Technical Architect,"','",Alindao,"','",2/27/1955,"','",3/11/2002,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Aryanna.Lesch,"','",Demimbu,"','",Senior Developer,"','",Wujiayao,"','",7/30/1941,"','",12/18/1922,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Chelsie.Har?ann,"','",Zooveo,"','",Product Engineer,"','",Xiaohekou,"','",4/18/1960,"','",12/20/1987,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Aglae,"','",Twitterbridge,"','",Information Systems Manager,"','",Kuivaniemi,"','",12/28/1964,"','",7/28/1940,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Eric_Lakin,"','",Yamia,"','",Design Engineer,"','",Mingcheng,"','",7/31/1983,"','",11/25/1935,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Arden_Lesch,"','",LiveZ,"','",Dental Hygienist,"','",Port Elizabeth,"','",2/24/2004,"','",5/14/1940,');
@@ -9639,7 +9604,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Julio.Heidenreich,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Gerald.Hammes,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Sylvester.Jakubowski,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Elian_Cassin,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Bert,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Pietro_Carroll,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Adam_Padberg,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -9835,7 +9799,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Efren_Gorczany,"','",Flashdog,"','",Computer Systems Analyst II,"','",R S,"','",2/26/1915,"','",12/21/1910,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ryley_Hamill,"','",Linklinks,"','",Teacher,"','",Santa Cruz del Norte,"','",12/9/2001,"','",2/25/1921,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Angelina.Bartell,"','",Eadel,"','",Engineer IV,"','",Santiago dos Velhos,"','",5/31/1929,"','",5/22/1932,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lonnie.Har?ann,"','",Meetz,"','",Pharmacist,"','",Shuangxing,"','",12/4/1952,"','",6/22/1917,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Berry_Flatley,"','",Jabberbean,"','",Structural Analysis Engineer,"','",Jintun,"','",6/22/1974,"','",8/25/1956,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lorena.Rippin,"','",Aimbu,"','",Automation Specialist I,"','",Basen,"','",9/11/1933,"','",1/28/1942,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kallie_Halvorson,"','",Yoveo,"','",Web Developer II,"','",Pueblo Nuevo,"','",2/23/2013,"','",6/22/1937,');
@@ -10513,7 +10476,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Edgardo_Daugherty,"','",Janyx,"','",GIS Technical Architect,"','",Ferreiros,"','",2/22/1998,"','",4/21/1914,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jerad.Wehner,"','",Yodo,"','",Analyst Programmer,"','",Cagayan,"','",1/6/1958,"','",6/21/2001,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lonny.Gerlach,"','",Thoughtblab,"','",Account Representative IV,"','",Sigiriya,"','",7/15/1950,"','",2/5/2010,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jennie.Gu?ann,"','",Zoomcast,"','",Analog Circuit Design manager,"','",Babakankadu,"','",9/10/1997,"','",3/28/1994,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Claire_Erdman,"','",Wordtune,"','",Registered Nurse,"','",Nieying,"','",8/22/1934,"','",9/21/1950,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Margaretta.Heathcote,"','",Layo,"','",Research Associate,"','",Kazo,"','",2/12/2005,"','",9/13/1913,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Janick_Towne,"','",Trilia,"','",Physical Therapy Assistant,"','",Jinyuan,"','",3/27/1928,"','",5/14/1982,');
@@ -10639,7 +10601,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Meredith_Nitzsche,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kieran,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Stephon_Cummings,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Karine.Kassulke,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brooklyn.Balistreri,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Adell_Sawayn,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Johnathan_Hoeger,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -10868,7 +10829,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Alexandrine,"','",Eire,"','",Geological Engineer,"','",Yambio,"','",6/17/1969,"','",8/14/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Dena.Braun,"','",Flipbug,"','",Legal Assistant,"','",Furmanov,"','",12/7/1968,"','",7/26/1983,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Anastacio.Smith,"','",Oyoyo,"','",Senior Developer,"','",Barakani,"','",12/13/1997,"','",3/24/1987,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Toney_Gu?ann,"','",Pixope,"','",Librarian,"','",Ereencav,"','",7/28/2011,"','",7/29/1950,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Cristian.Koss,"','",Yotz,"','",Engineer I,"','",Ternate,"','",5/29/1970,"','",9/5/1935,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Daniela_Grady,"','",Oyope,"','",Senior Sales Associate,"','",Gebang,"','",6/30/1948,"','",11/26/1993,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Toby.Reichert,"','",Leenti,"','",Senior Cost Accountant,"','",Ngangpo,"','",3/29/1952,"','",6/13/1992,');
@@ -10937,7 +10897,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lane_Waters,"','",Skiptube,"','",Project Manager,"','",Jejkowice,"','",10/9/1980,"','",2/17/1921,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Lurline.Carroll,"','",Zoombox,"','",Legal Assistant,"','",Bureng,"','",7/4/1926,"','",2/20/1958,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Eldridge_Schinner,"','",Leexo,"','",VP Marketing,"','",Krasnoye,"','",4/18/2009,"','",3/27/2012,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Shaina_Har?ann,"','",Npath,"','",Assistant Professor,"','",Fucheng,"','",9/15/2003,"','",7/21/1979,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Arlie,"','",Quinu,"','",Mechanical Systems Engineer,"','",Delok,"','",7/16/1947,"','",1/19/1914,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Janie_Legros,"','",Kamba,"','",Staff Scientist,"','",Khemisset,"','",8/25/1919,"','",3/22/1912,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Godfrey.Stokes,"','",Devify,"','",Database Administrator I,"','",Surup,"','",9/11/1986,"','",2/9/1991,');
@@ -11108,7 +11067,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Arne_Hodkiewicz,"','",Brightbean,"','",Desktop Support Technician,"','",Qijiawan,"','",8/6/2012,"','",6/13/1972,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Buford_Torp,"','",Rhynyx,"','",Safety Technician III,"','",Arraial do Cabo,"','",3/16/1951,"','",1/13/1931,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Freeda.Schmeler,"','",Yakijo,"','",Food Chemist,"','",Licuan,"','",7/20/1936,"','",3/11/2015,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mack_Har?ann,"','",Meembee,"','",Assistant Manager,"','",Guanfang,"','",8/16/1933,"','",9/20/2003,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kattie.Waelchi,"','",Twinte,"','",Social Worker,"','",Payao,"','",6/24/1965,"','",3/23/1990,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Montana_Brown,"','",Voonyx,"','",Project Manager,"','",La Soledad,"','",8/21/1981,"','",2/13/1934,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Hiram_Wehner,"','",Devpulse,"','",Quality Control Specialist,"','",La Soledad,"','",7/5/2009,"','",2/26/1983,');
@@ -11150,7 +11108,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Rosa_Barton,"','",Podcat,"','",Registered Nurse,"','",Yasynuvata,"','",11/29/1913,"','",1/7/1941,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Amely_Littel,"','",Izio,"','",Librarian,"','",Reims,"','",5/12/1953,"','",3/23/1991,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Hattie_Grady,"','",Einti,"','",Occupational Therapist,"','",Katsina-Ala,"','",11/28/1976,"','",3/10/1928,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Clovis.Gu?ann,"','",Skipfire,"','",Computer Systems Analyst IV,"','",Katsina-Ala,"','",7/5/1955,"','",6/23/1976,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",General_Romaguera,"','",Eamia,"','",Legal Assistant,"','",Moog,"','",8/19/2012,"','",10/15/2009,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Claudia.Deckow,"','",Innotype,"','",Chemical Engineer,"','",Ndom,"','",3/15/2005,"','",11/27/1962,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Neva.Kuphal,"','",Quimba,"','",Professor,"','",Yasynuvata,"','",11/24/2001,"','",1/22/1954,');
@@ -11230,7 +11187,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Amparo.Brown,"','",Jaxbean,"','",Food Chemist,"','",Plandi,"','",7/21/1931,"','",4/3/1997,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Marcia_Buckridge,"','",Skivee,"','",Paralegal,"','",Tambac,"','",1/19/1997,"','",2/10/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Cristian_Veum,"','",Meevee,"','",Food Chemist,"','",Turba,"','",12/9/1929,"','",11/8/1979,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Myrl.Har?ann,"','",Flashpoint,"','",Marketing Assistant,"','",Jepuro,"','",5/25/1920,"','",9/26/1979,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Miracle_Barrows,"','",Youtags,"','",Editor,"','",Daduo,"','",7/25/2002,"','",9/12/1946,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jeremy_Mertz,"','",Gigabox,"','",Staff Accountant III,"','",Songshan,"','",8/1/1915,"','",10/17/1945,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brianne.Skiles,"','",Kwimbee,"','",Quality Engineer,"','",Atocha,"','",11/15/1980,"','",5/13/1980,');
@@ -11288,7 +11244,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Vida.Price,"','",Roodel,"','",Graphic Designer,"','",Alquerubim,"','",8/4/1960,"','",3/6/1922,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Ivy.Bergnaum,"','",Fatz,"','",Pharmacist,"','",Sidomulyo,"','",6/25/1990,"','",11/5/2006,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Damien.Barrows,"','",Riffpedia,"','",Recruiting Manager,"','",Paris 15,"','",11/6/1958,"','",9/29/1985,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Roma.Har?ann,"','",Vipe,"','",Speech Pathologist,"','",Agboville,"','",10/5/1956,"','",4/23/1974,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Milton.Flatley,"','",Youspan,"','",Office Assistant IV,"','",Chepo,"','",3/2/1962,"','",12/31/1981,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jimmie_Torphy,"','",Katz,"','",Food Chemist,"','",Clarin,"','",2/5/1914,"','",6/8/1960,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Nola_Skiles,"','",Demizz,"','",GIS Technical Architect,"','",Balangonan,"','",6/2/1960,"','",6/10/1938,');
@@ -11550,7 +11505,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Theron_Fay,"','",Thoughtbeat,"','",Senior Financial Analyst,"','",Mayqayyng,"','",8/18/1948,"','",8/21/1933,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Clemens,"','",Vinte,"','",Legal Assistant,"','",Antanifotsy,"','",5/16/1956,"','",6/1/1913,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Kirstin_Grant,"','",Fanoodle,"','",Social Worker,"','",Nguigmi,"','",3/18/1993,"','",4/23/1920,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Felton_Gu?ann,"','",Skiptube,"','",Business Systems Development Analyst,"','",Antanifotsy,"','",3/20/1915,"','",12/21/1955,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Erwin.Towne,"','",Vidoo,"','",Analyst Programmer,"','",Boychinovtsi,"','",11/11/1963,"','",9/1/1953,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Immanuel.Stracke,"','",Mymm,"','",General Manager,"','",Aginskoye,"','",2/3/1986,"','",12/19/1986,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Bryce.Christiansen,"','",Youspan,"','",Pharmacist,"','",Danyang,"','",3/8/1927,"','",2/1/1958,');
@@ -11639,7 +11593,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Gretchen.Stamm,"','",Jabbertype,"','",Geologist I,"','",Barrinha,"','",7/26/2004,"','",5/5/1924,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Conor.Conn,"','",Babbleset,"','",Programmer III,"','",Xiaohekou,"','",4/13/1981,"','",8/3/1930,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jordyn.Kovacek,"','",Avamm,"','",Administrative Assistant IV,"','",Santa Rita,"','",6/20/1975,"','",2/10/1912,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Wilbert.Kiehn,"','",Twitterwire,"','",Account Coordinator,"','",Skuhrov nad B??lou,"','",11/19/1965,"','",8/31/1927,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Taryn_McDermott,"','",Vimbo,"','",Graphic Designer,"','",Cairani,"','",8/3/1929,"','",10/24/1982,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Twila.Klocko,"','",Vinte,"','",Automation Specialist I,"','",Mpanda,"','",11/7/1922,"','",12/4/1947,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Grant_Kilback,"','",Demimbu,"','",Chief Design Engineer,"','",Paobulan,"','",1/2/1952,"','",11/14/1975,');
@@ -11913,7 +11866,6 @@
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Jaeden.Hauck,"','",Jazzy,"','",Geological Engineer,"','",Little Rock,"','",1/30/1968,"','",8/2/1935,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Eric_Pacocha,"','",Blogtags,"','",Senior Editor,"','",Pejibaye,"','",4/7/1916,"','",12/13/1923,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Guido_Cronin,"','",Linkbuzz,"','",Sales Associate,"','",Little Rock,"','",4/10/1948,"','",4/1/1971,');
-"INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brannon_Gu?ann,"','",InnoZ,"','",Structural Analysis Engineer,"','",Novoanninskiy,"','",9/15/1910,"','",5/27/1932,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Gerson.O''Reilly,"','",Browsetype,"','",Electrical Engineer,"','",Bureng,"','",5/20/1998,"','",6/9/2012,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Mayra_Williamson,"','",Photojam,"','",Accounting Assistant II,"','",Bureng,"','",6/14/1939,"','",9/7/1964,');
 "INSERT INTO WORK_EXPR(userId,company,role,location,startDate,endDate) VALUES ('",Brianne.Nolan,"','",Wordware,"','",Teacher,"','",Baruchowo,"','",3/9/1998,"','",9/12/1965,');

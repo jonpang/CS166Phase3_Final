@@ -81,10 +81,8 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sidney','Lessie',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mario','Rachel_Zulauf','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Imelda_Barrows','Alexa','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Abagail','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Karl_Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Angus.Block','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Fay.Homenick','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Carlos_Moore','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Dejuan.Haley','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Alena','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Twila_Marks','Request');
@@ -155,7 +153,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Anna','Alphonso',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Anthony','Eleazar_Bayer','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maryam','Hassie','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bernardo','Antonetta.Adams','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Reilly.Anderson','Mack_Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Emily','Wilber','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Steve.Purdy','Adriana','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ricardo','Ila','Reject');
@@ -562,7 +559,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Linda','Nick','Re
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Oceane','Lolita','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Charlie','Thad.Hermann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mallie','Makenzie.Parisian','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Toney_Gu??ann','Russ.Cronin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eladio_Carter','Cali_Howe','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bart.Corkery','Chelsey','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Katelyn','Eric_Lakin','Accept');
@@ -633,7 +629,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Evert_Block','Eug
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gerda.Satterfield','Justus_Dickinson','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Flavie','Jovan.Hauck','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Skye','Nathanial','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dakota.Har??ann','Tamara','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Caterina','Orion_Kerluke','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sheldon','Jayden','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Esther.Prohaska','Devyn','Reject');
@@ -755,8 +750,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Reinhold_Von','Ky
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alize_Jakubowski','Rossie','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Myra_Lubowitz','Rowan','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carmine','Caitlyn.Klocko','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hilma','Brannon_Gu??ann','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raleigh.Klein','Eliza.Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ruben','Leo','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Omari','Cooper','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Larry','Shemar','Request');
@@ -1424,7 +1417,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Derick','Edna.Kin
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cindy.Stiedemann','Kendrick','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jamel.Armstrong','Ricky.Ullrich','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Juston','Raquel_Russel','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jewell_Gu??ann','Alysha','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaren.Cummings','Herman','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hunter_Rau','Agnes','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pierre','Toni','Reject');
@@ -1487,7 +1479,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Estevan.DuBuque',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Abbie','Phoebe','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aletha','Yasmeen.Tromp','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brock','Garett','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Coby.Rogahn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jimmie','Lulu','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vida.Price','Leif','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kelvin.Jaskolski','Trudie','Accept');
@@ -1949,7 +1940,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yoshiko_Harris','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sonya_Kerluke','Madyson.Schulist','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dusty','Pearl','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaren.King','Mohammad','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Loy','Rubie_Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eileen','Cyril_Kutch','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cecile','Suzanne','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darron','Garett','Reject');
@@ -2052,7 +2042,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Niko_Cronin','Laz
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gene','Sage.Collier','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Prince.O''Reilly','Abbey','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adolph','Emmy','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bessie_Crist','Katarina_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Katelyn.Barton','Everette','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chad_McDermott','Nathanael','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Demond.Orn','Kane.O''Conner','Accept');
@@ -2143,7 +2132,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Talon','Dax_Kunde
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Haskell_Kiehn','Shanel.Brakus','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Fay','Brown','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Danial_Fahey','Bernhard_Lehner','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Verla','Alfonzo.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Christop_Reilly','Jared','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Al.Sauer','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Webster.Heidenreich','Amaya_Bernhard','Accept');
@@ -2409,7 +2397,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alexandro.Quitzon
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mae','Louie.Miller','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tod_Olson','Verda','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chadd_Graham','Milford','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Thaddeus_Nitzsche','Kiera_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Norris_Hyatt','Annabel_Schimmel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Fermin','Opal','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marquise','Guy.Kris','Reject');
@@ -2429,7 +2416,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shaina_Skiles','K
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chanelle_Rolfson','Vita.Beer','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brandi_Cormier','Ressie.Schaden','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Misty.Sawayn','Carolyn.Hilpert','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Herbert_Gu??ann','Meaghan','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gussie','Aron','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Frederic.Heathcote','Desiree.Farrell','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Al.Harber','Conor.Kihn','Request');
@@ -2741,7 +2727,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Justus_Leuschke',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adah_Wunsch','Shanie.Langosh','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Johanna_Kling','Jaqueline','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clinton_Gutkowski','Edgar','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kathryn','Reba_Har??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eula','Celine','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yoshiko_Zieme','Kelsi_Rippin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yvette.Okuneva','Ettie','Accept');
@@ -3224,7 +3209,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Winston','Gerhard
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lester_Hansen','Savanna','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Annabell.Beier','Lacey','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Reid.O''Keefe','Laurine.Trantow','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Asia_Har??ann','Aletha.Welch','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Phyllis.Streich','Lavina.Smith','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lukas','Margret.Watsica','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dessie_Lueilwitz','Zachary_Kemmer','Request');
@@ -3251,7 +3235,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Layne.Hodkiewicz'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rodger.Runte','Juwan','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Fredy.Bogisich','Athena','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Liliane.Ledner','Willis.Adams','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jewell_Gu??ann','Leann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zachariah.Schulist','Hannah_Lesch','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cortez_Price','Kurt_Abshire','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ethan','Marjolaine.Littel','Reject');
@@ -3299,7 +3282,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Edwin','Mitchell'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dejuan.Ziemann','Colten','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Orland_Weber','Korey.Heller','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kian','Candace','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Estefania_Gu??ann','Mitchel.Harvey','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gust_Ullrich','Trudie_Kozey','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Johanna_Durgan','Claudia_Mills','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Freida_Bayer','Ariel','Reject');
@@ -3930,7 +3912,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Keeley','Kane_Ger
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brice','Kadin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaden.Okuneva','Norma.Ledner','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Felix','Rollin','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Don.Gu??ann','Rashad','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Junior','Rosamond','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pablo.Conroy','Vicenta.Vandervort','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kyle_Towne','Humberto_Hessel','Reject');
@@ -4007,7 +3988,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kyle','Fredrick_B
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jalon','Vivian','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hattie','Henry.Fay','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Derek','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Veronica.Boehm','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Haven','Jerod_Corwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Fay_Yundt','Golden_Kerluke','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zetta','Daisy.Kulas','Accept');
@@ -4025,7 +4005,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jarod','Alexander
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hailee','Bernadine_Pfannerstill','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chadrick_Skiles','Nola_Thiel','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Americo','Therese_Mitchell','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nyah','Roma.Har??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Emilio_Crooks','Trent.Satterfield','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jamel.Armstrong','Corine_Krajcik','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hoyt','Alyson.Beer','Accept');
@@ -4273,7 +4252,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Magnus','Yazmin_L
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lexus','Hallie','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jude','Naomie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sylvester.Jakubowski','Katlynn','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mallory_Gu??ann','Pablo_Senger','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bessie_Herzog','Karelle.Champlin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Baby_Oberbrunner','Frederic.Heathcote','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dovie_Mueller','Juwan.Marvin','Accept');
@@ -4519,7 +4497,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Steve.McGlynn','M
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Layne','Odell_Cole','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Claudine_Strosin','Stephan.Corkery','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mauricio','Camden.Bartoletti','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Keaton_Mayert','Noemy.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vincent_Monahan','Jocelyn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maymie','Owen.Feil','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elbert.Cremin','Jennyfer_Daniel','Accept');
@@ -4559,7 +4536,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clovis','Percival
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gregoria','Pat_Wiegand','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ofelia.McDermott','Abe','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elvera_Batz','Durward_Dibbert','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nikko_Gu??ann','Santina','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tyrel','Hayley_Monahan','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Haylie','Cordia','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cleta.Turcotte','Judge.Kertzmann','Reject');
@@ -4609,7 +4585,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Laurianne','Dina_
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Madeline.Bayer','Chadd_Olson','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Burley','Lemuel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eusebio.Skiles','Eve','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Braden_Gu??ann','Tremaine_Lockman','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Daron','Claude.Powlowski','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Florencio.Olson','Flossie.McLaughlin','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Georgianna','Kaia','Accept');
@@ -5025,7 +5000,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia_Wiegand',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Danika.Nienow','Sage.Collier','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kacie','Abbey','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kristofer.Reichert','Emmy','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Trevor_Wiegand','Katarina_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Makenna','Everette','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Abagail.Hayes','Nathanael','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gabriel.Leuschke','Kane.O''Conner','Accept');
@@ -5116,7 +5090,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darron','Dax_Kund
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nyah.Roob','Shanel.Brakus','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sincere','Brown','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lauretta_Welch','Bernhard_Lehner','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Claud','Alfonzo.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosella_Stamm','Jared','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marc','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Triston.Pacocha','Amaya_Bernhard','Accept');
@@ -5290,7 +5263,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Houston.Wintheise
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eusebio.O''Kon','Eli','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Breana','Alexa','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Erwin','Crystel.Runte','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Catalina.Har?ann','Laurie','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dexter_Littel','Justina.Torphy','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Braeden_Zieme','Amely.Hyatt','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jasen_Steuber','Dianna_Armstrong','Reject');
@@ -5382,7 +5354,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lexi.Vandervort',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jermain','Louie.Miller','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brannon_Morissette','Verda','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marilyne_Kuhlman','Milford','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brown','Kiera_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carmine','Annabel_Schimmel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kristoffer','Opal','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maryam','Guy.Kris','Reject');
@@ -5531,7 +5502,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maegan','Jeramie'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darrel.Stroman','Clarissa_Farrell','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Assunta','Simone.Lehner','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eden','Ellsworth','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kassandra_Gu?ann','Burnice','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ava','Elroy','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tiffany.Bahringer','Jamaal_Sanford','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jennyfer','Wayne','Accept');
@@ -5550,7 +5520,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nelda_Monahan','A
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adrain_Kub','Retta','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gino','Rodrick.Reichel','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tyrese_Schroeder','Darron','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rubye.Gu?ann','Margarett','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Annetta','Mertie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Efrain.Will','Werner','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bulah','Mohamed_Ledner','Accept');
@@ -5714,7 +5683,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jewel_Bernhard','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brant_Terry','Shanie.Langosh','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rey','Jaqueline','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Percy','Edgar','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Henry.Zboncak','Reba_Har??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kurtis.Kilback','Celine','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nathan_Doyle','Kelsi_Rippin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Baron','Ettie','Accept');
@@ -6536,7 +6504,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kylie','Jana','Re
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Berta','Sammie.Little','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Euna.Hessel','Katharina','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Noah','Hollie','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Abigail.Gu?ann','Damion.Harris','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Orion','Ozella','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Monte.Fisher','Dennis_Cummerata','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dax_Hayes','Tyrel','Reject');
@@ -6980,10 +6947,8 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rickie','Fredrick
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Velva_Schinner','Vivian','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Taryn_Cremin','Henry.Fay','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sincere.Crooks','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Reid','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Amara_Boehm','Jerod_Corwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cordell','Golden_Kerluke','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ernestine_Gu?ann','Daisy.Kulas','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sandrine.Terry','Emmanuel.Kreiger','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eden_Skiles','Tate.Kuhlman','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Simeon','Clemens','Reject');
@@ -6998,7 +6963,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Manley_Renner','A
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lauren','Bernadine_Pfannerstill','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mia_Rolfson','Nola_Thiel','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Helene','Therese_Mitchell','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ruthe','Roma.Har??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Araceli','Trent.Satterfield','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kira_Bernhard','Corine_Krajcik','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Patience.Mueller','Alyson.Beer','Accept');
@@ -7492,7 +7456,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Danika','Marjolai
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Abner_Strosin','Odell_Cole','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Herman.Hammes','Stephan.Corkery','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adolfo.Beier','Camden.Bartoletti','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arlie.Borer','Noemy.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vida','Jocelyn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Patrick_Mann','Owen.Feil','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jeffry_Cartwright','Jennyfer_Daniel','Accept');
@@ -7514,7 +7477,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bailee_Bergnaum',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Orlando','Marty_Hirthe','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Keira.Crooks','Celestine','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mattie_Hackett','Micah','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dakota.Har?ann','Ernesto','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sasha.Johnson','Patricia_Renner','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Letitia','Rene','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaunita','Efren.Okuneva','Request');
@@ -7593,7 +7555,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sanford','Loyce_B
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rhiannon_Weimann','Keanu','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Burdette','Franz','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Herminia','Flossie.Green','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kiera_Gu?ann','Elsie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Treva.Stokes','Raphael_Kovacek','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Therese.Gislason','Destin_Collins','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Noah.Streich','Connie','Accept');
@@ -7998,7 +7959,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lexie_Shields','L
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rasheed_Olson','Sage.Collier','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Everette','Abbey','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alfred','Emmy','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Thalia.McDermott','Katarina_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tyra_Raynor','Everette','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Malvina.Bergnaum','Nathanael','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Joanie.Aufderhar','Kane.O''Conner','Accept');
@@ -8036,7 +7996,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yvonne','Loma','R
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Coby','Mohammed_Toy','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nadia_Hyatt','Madge.Hansen','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mozelle.Hickle','Kevon','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ari.Gu?ann','Coby_Weimann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jeffrey','Hal','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Domenico','Jodie_Rosenbaum','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tia','Shania','Request');
@@ -8088,7 +8047,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaydon_Glover','D
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wilhelm','Shanel.Brakus','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jefferey','Brown','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jerel_Kilback','Bernhard_Lehner','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lilyan_Grant','Alfonzo.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elenor','Jared','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rachelle','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Blake','Amaya_Bernhard','Reject');
@@ -8354,7 +8312,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lisa','Torey.Weis
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Delaney_Williamson','Louie.Miller','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maurice_Kuhlman','Verda','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cordelia.Franecki','Milford','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mustafa.Kunze','Kiera_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Braxton_Gottlieb','Annabel_Schimmel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Keenan','Opal','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sigrid.Kozey','Guy.Kris','Reject');
@@ -8501,7 +8458,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lyla_Lockman','Cy
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raleigh','Edmund','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shaylee','Jeramie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Evalyn.Reinger','Clarissa_Farrell','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elissa_Har?ann','Simone.Lehner','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kiel_Price','Ellsworth','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Weldon','Burnice','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Stella','Elroy','Reject');
@@ -8686,7 +8642,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Renee_Wilderman',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ryan','Shanie.Langosh','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nicola','Jaqueline','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zack.Gaylord','Edgar','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cloyd.McLaughlin','Reba_Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Garnet','Celine','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Delphine','Kelsi_Rippin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darrick','Ettie','Accept');
@@ -8724,7 +8679,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Stacey_Harber','Z
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vinnie_Kemmer','Krystina_Zboncak','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kameron','Guido.Boyer','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brock_Marvin','Ofelia','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Della_Gu?ann','Donnie','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dagmar_Rohan','Sedrick.Herman','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jules.Bahringer','Judy','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ambrose','Mason.Kub','Request');
@@ -8933,7 +8887,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bonita','Margaret
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Fidel','Cordia.Bahringer','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kelton','Arvel.Bosco','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Orlo','Elna.Upton','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adelia.Har?ann','Tyreek.Zulauf','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Winnifred','Cynthia','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Thomas','Elnora_Boyer','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ahmed.Ward','Brooke','Accept');
@@ -9165,7 +9118,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nick','Nedra.Schm
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nova_McDermott','Rudolph','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mathilde_Kris','Alia.Weimann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Samson.Cormier','Rudolph_Stroman','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Meredith_Har?ann','Gerhard','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hildegard','Savanna','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eladio','Lacey','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Calista','Laurine.Trantow','Request');
@@ -9952,9 +9904,7 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Morgan','Fredrick
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dawn_O''Hara','Vivian','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Martine_Bernier','Henry.Fay','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aliyah.Jacobson','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Leilani_Bruen','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Leilani_DuBuque','Jerod_Corwin','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brandon_Gu?ann','Golden_Kerluke','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maida','Daisy.Kulas','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kaleb','Emmanuel.Kreiger','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Erwin_Mills','Tate.Kuhlman','Reject');
@@ -9970,7 +9920,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Santa_Mills','Ale
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Steve.Purdy','Bernadine_Pfannerstill','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Luna_Dibbert','Nola_Thiel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Osborne.Glover','Therese_Mitchell','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Einar_Beer','Roma.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Curt','Trent.Satterfield','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Haleigh_Johnson','Corine_Krajcik','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shakira','Alyson.Beer','Reject');
@@ -10416,7 +10365,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Felipe.Morissette
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lucious_Erdman','Arjun_Bruen','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Unique_Zieme','Jean.Nader','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kayley','Asia.Flatley','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aracely_Har?ann','August.Kihn','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Krystal.Hilpert','Kiel','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dell','Jorge_Okuneva','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Davonte.Wiegand','Logan','Request');
@@ -10464,7 +10412,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Daphnee','Marjola
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Terrence','Odell_Cole','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Palma.Funk','Stephan.Corkery','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Norris_Schmidt','Camden.Bartoletti','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alda','Noemy.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elouise','Jocelyn','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosalinda.Marks','Owen.Feil','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Claude','Jennyfer_Daniel','Request');
@@ -10960,7 +10907,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Willie_Kertzmann'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dixie_Bechtelar','Savanna','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Madisyn','Emil','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marcos.O''Connell','Caterina','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Prudence_Har?ann','Madelynn.Hauck','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Devonte_Conroy','Herminio_Rempel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bradford.Gaylord','Emery','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Isobel_Ryan','Kayli','Reject');
@@ -10970,7 +10916,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cordia.Green','La
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Collin.Kilback','Sage.Collier','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darlene_Champlin','Abbey','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marco.Stark','Emmy','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Magdalena_Skiles','Katarina_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Birdie','Everette','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cathryn.Ortiz','Nathanael','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cody.Wyman','Kane.O''Conner','Accept');
@@ -11038,7 +10983,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Haskell.Sipes','J
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Frederick.Marquardt','Tyra.Donnelly','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yasmine','Dallas','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alexander','Adaline','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mallory_Gu?ann','Earl_Connelly','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adell.Pouros','Aliza_Mitchell','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mack','Katheryn_Medhurst','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Orland.Steuber','Vivien_Greenholt','Accept');
@@ -11061,7 +11005,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Allen.Nicolas','D
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Una.Kerluke','Shanel.Brakus','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaunita.Kovacek','Brown','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Matteo_Terry','Bernhard_Lehner','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Flavie','Alfonzo.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Franz_Prosacco','Jared','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tania_Thompson','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arielle','Amaya_Bernhard','Reject');
@@ -11109,7 +11052,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Travon.Kling','Jo
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Julianne_Schneider','Lexi','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Asha','Guillermo','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Daniela_Gerlach','Ted','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosetta.Gu?ann','Alberto','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Isabella','Owen','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Layne','Zora','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Phoebe.Wunsch','Pauline','Request');
@@ -11327,7 +11269,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bell_Reichel','To
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alfonzo_Bechtelar','Louie.Miller','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Liza.Breitenberg','Verda','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rodger.Fahey','Milford','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vernice_Schaden','Kiera_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ryann_Lubowitz','Annabel_Schimmel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Edward','Opal','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elliot_Kirlin','Guy.Kris','Reject');
@@ -11401,7 +11342,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rafael_DuBuque','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rozella_Lowe','Dixie','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kyla.Fadel','Alex','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roy.Reinger','Norris.Veum','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Skyla.Gu?ann','Norene','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Laurianne_Zieme','Russell_Franecki','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jimmie_Turner','Corbin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Geovany_Leuschke','Domenic','Reject');
@@ -11474,7 +11414,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Luciano.Moore','C
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clemmie_Mayer','Edmund','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alia.Gislason','Jeramie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chauncey_Jerde','Clarissa_Farrell','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alisha_Gu?ann','Simone.Lehner','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Judy','Ellsworth','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Burnice','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Abraham.Jerde','Elroy','Reject');
@@ -11590,7 +11529,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Celia.Olson','Laf
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Floy.Mayert','Angelita','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lon','Weldon','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Velda','Quincy.Ortiz','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ova_Gu?ann','Newell','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Patsy_Konopelski','Nyah','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yesenia.Friesen','Quincy','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bo','Johnny','Reject');
@@ -11659,7 +11597,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lon_Mosciski','Ar
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hershel.Hoppe','Shanie.Langosh','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Amber.Lueilwitz','Jaqueline','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Karelle.Champlin','Edgar','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Enola.Grimes','Reba_Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dejon.Hoppe','Celine','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kenneth','Kelsi_Rippin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Turcotte','Ettie','Accept');
@@ -11988,7 +11925,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lowell','Trinity'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Minerva_Keebler','Carlotta.Quigley','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Corene.Lind','Jillian.Roberts','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sherwood.Gibson','Tyra_Macejkovic','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Asia_Har?ann','Kristian','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Thurman_Jenkins','Victoria','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tobin_Labadie','Unique_Zieme','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ernestine.Carroll','Shaniya','Accept');
@@ -12380,7 +12316,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roel_Kuhic','Murp
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elmo_Wehner','Vernice_Sawayn','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chadrick_Hansen','Clint_Mayer','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ardith.Considine','Sigurd','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dane_Har?ann','Leo_Lakin','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Laurie_Terry','Jude','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ian_Kihn','Trisha.Doyle','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Danny.Sipes','Steve','Accept');
@@ -12925,7 +12860,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ahmad.Grant','Fre
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gust_Heaney','Vivian','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alexandria.Lemke','Henry.Fay','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Fritz','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Meta.Howell','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Daryl','Jerod_Corwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Micheal','Golden_Kerluke','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sadye.Crist','Daisy.Kulas','Request');
@@ -12943,7 +12877,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Santino','Alexand
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosetta.Klocko','Bernadine_Pfannerstill','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Susanna_Schaefer','Nola_Thiel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vergie.Stiedemann','Therese_Mitchell','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gabrielle','Roma.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Annette.Stamm','Trent.Satterfield','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rhiannon_Wintheiser','Corine_Krajcik','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Agustin_Schmidt','Alyson.Beer','Reject');
@@ -13065,7 +12998,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lexus.Wiza','Mist
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Joelle_Schiller','Deonte','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Guillermo_Schamberger','John_Feil','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Juvenal_Crooks','Edwina.Goodwin','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Noemy.Har?ann','Trudie','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sibyl.Kertzmann','Emilia_Carter','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arjun','Esperanza','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kayleigh.Considine','Princess.Langworth','Request');
@@ -13305,7 +13237,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Griffin_Beahan','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Orville_Kohler','Avis','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('German.Hoeger','Eliezer','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mattie','Onie.McClure','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Don.Gu?ann','Litzy_Morissette','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Enrique.Runolfsson','Rigoberto_Baumbach','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Florine.McKenzie','Sydney_Beatty','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vanessa_Robel','Garrick_Cruickshank','Reject');
@@ -13437,7 +13368,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Susan_Armstrong',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jovany.Jacobson','Odell_Cole','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ken.Stroman','Stephan.Corkery','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Else_Johnston','Camden.Bartoletti','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mercedes_Corkery','Noemy.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rudolph_Stroman','Jocelyn','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gabe.Koelpin','Owen.Feil','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Concepcion.Leffler','Jennyfer_Daniel','Request');
@@ -13600,7 +13530,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Damien_Mosciski',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Courtney.Borer','Carley.Aufderhar','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Thomas_Mueller','Devan','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sylvester_Bauch','Dean_Quigley','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Braden_Gu?ann','Annabel','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jany_Hane','Raquel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Torrey.Stracke','Hipolito','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Araceli_Dare','Sarai','Accept');
@@ -13614,7 +13543,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Korbin.Daugherty'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Annette.Fisher','Maeve','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Norene.Crooks','Ellis','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aryanna.Lesch','Oran','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chelsie.Har?ann','Dahlia_Strosin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aglae','Lane.Fay','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eric_Lakin','Lisandro','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arden_Lesch','Courtney','Accept');
@@ -13833,7 +13761,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Julian.Johnston',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Efren_Gorczany','Alexanne.Yundt','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ryley_Hamill','Thea','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Angelina.Bartell','Mallie_Fahey','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lonnie.Har?ann','Alexanne_Flatley','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Berry_Flatley','Milo','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lorena.Rippin','Stefanie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kallie_Halvorson','Elna','Accept');
@@ -13943,7 +13870,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Taylor_Gaylord','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Price.Grady','Sage.Collier','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lorenzo.Bartoletti','Abbey','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maria_Abshire','Emmy','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Camila_Williamson','Katarina_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jada.Kovacek','Everette','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Waylon.Daugherty','Nathanael','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Antwon.Feest','Kane.O''Conner','Accept');
@@ -14034,7 +13960,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Felipa_Bechtelar'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Milan_Romaguera','Shanel.Brakus','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Trevion_Miller','Brown','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gilberto','Bernhard_Lehner','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pietro.Macejkovic','Alfonzo.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Colin.Kunde','Jared','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Diamond_Dickinson','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Domenica_Murphy','Amaya_Bernhard','Reject');
@@ -14300,7 +14225,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ozella.Dietrich',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('John_Lueilwitz','Louie.Miller','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gunnar_Runolfsson','Verda','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rico_Kuphal','Milford','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Emerson.Wilderman','Kiera_Gu??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hester.Nienow','Annabel_Schimmel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hannah.Pfeffer','Opal','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Katlyn.Langworth','Guy.Kris','Reject');
@@ -14511,7 +14435,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hallie_Ritchie','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Edgardo_Daugherty','Zena','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jerad.Wehner','Jovan_Roberts','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lonny.Gerlach','Chester.Collier','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jennie.Gu?ann','Milo','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Claire_Erdman','King_Larkin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Margaretta.Heathcote','Bettie_Boyer','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Janick_Towne','Zakary','Request');
@@ -14632,7 +14555,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marisa.Dach','Arc
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cordia.Morar','Shanie.Langosh','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Daija_Hayes','Jaqueline','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Davion.Skiles','Edgar','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Buddy_Lemke','Reba_Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clemmie.Wuckert','Celine','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Meredith_Nitzsche','Kelsi_Rippin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kieran','Ettie','Accept');
@@ -14866,7 +14788,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosanna.Robel','B
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alexandrine','Harmony','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dena.Braun','Davon','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Anastacio.Smith','Aurelie','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Toney_Gu?ann','Amir_Funk','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cristian.Koss','Raymundo.McClure','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Daniela_Grady','Nona','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Toby.Reichert','Felix','Accept');
@@ -14935,7 +14856,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alex_Prosacco','C
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lane_Waters','Mackenzie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lurline.Carroll','Vern','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eldridge_Schinner','Einar.Gibson','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shaina_Har?ann','Marisa','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arlie','Reed','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Janie_Legros','Walker','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Godfrey.Stokes','Alyce_Rosenbaum','Reject');
@@ -15106,7 +15026,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adah.Dickens','Pe
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arne_Hodkiewicz','Saige','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Buford_Torp','Jorge','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Freeda.Schmeler','Teresa','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mack_Har?ann','Hilma','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kattie.Waelchi','Nedra.Schmidt','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Montana_Brown','Rudolph','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hiram_Wehner','Alia.Weimann','Accept');
@@ -15148,7 +15067,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raquel_Greenholt'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosa_Barton','Marjolaine.Littel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Amely_Littel','Dorthy','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hattie_Grady','Emanuel_Kovacek','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clovis.Gu?ann','Stewart','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('General_Romaguera','Amelie_Carroll','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Claudia.Deckow','Scotty.Ledner','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Neva.Kuphal','Ward','Request');
@@ -15228,7 +15146,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alvena_Hyatt','Ll
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Amparo.Brown','Nicolas.Koepp','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marcia_Buckridge','Elliott_Nolan','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cristian_Veum','Kaylin','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Myrl.Har?ann','Thomas','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Miracle_Barrows','Rigoberto_Cronin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jeremy_Mertz','Damion.Harris','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brianne.Skiles','Ivah','Reject');
@@ -15286,7 +15203,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Imelda_Herman','C
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vida.Price','Lourdes.Terry','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ivy.Bergnaum','Sandrine','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Damien.Barrows','Tessie.Gleason','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har?ann','Karine_Swift','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Milton.Flatley','Hillary','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jimmie_Torphy','Carson','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nola_Skiles','Ida','Request');
@@ -15548,7 +15464,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Misael_Barton','C
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Theron_Fay','Eugenia','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clemens','Eldridge','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kirstin_Grant','Sabryna.Dickinson','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Felton_Gu?ann','Kiel.Kihn','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Erwin.Towne','Raphael','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Immanuel.Stracke','Alden_Effertz','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bryce.Christiansen','Reba','Accept');
@@ -15897,7 +15812,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Abraham_Schulist'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mafalda.Parker','Vivian','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Winston.Powlowski','Henry.Fay','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosamond.Metz','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Deshaun.Kulas','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Benjamin.Harris','Jerod_Corwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Horace_Bergstrom','Golden_Kerluke','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lucienne.Dare','Daisy.Kulas','Accept');
@@ -15910,12 +15824,10 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chadrick_Skiles',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaeden.Hauck','Aron','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eric_Pacocha','Skye.Wunsch','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Guido_Cronin','Geraldine','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brannon_Gu?ann','Jennyfer','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gerson.O''Reilly','Alexander.Marquardt','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mayra_Williamson','Bernadine_Pfannerstill','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brianne.Nolan','Nola_Thiel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Keyshawn_Marvin','Therese_Mitchell','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lucinda.Stiedemann','Roma.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cole_Rutherford','Trent.Satterfield','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Coleman_Huels','Corine_Krajcik','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pamela.Strosin','Alyson.Beer','Accept');
@@ -16247,7 +16159,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kacie_Bartoletti'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Misty_Murray','Hal.Lehner','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shaun.Schmidt','Junius','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bethany.Haley','Edgardo.Aufderhar','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Guido_Gu?ann','Miguel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jamel.Greenholt','Fermin.Runte','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Audie_Thiel','Ottilie_Raynor','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wilfrid_Hudson','Rory','Reject');
@@ -16409,7 +16320,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Delia.Russel','Ma
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Timmy_Lehner','Odell_Cole','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hershel_Swaniawski','Stephan.Corkery','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Josh.Block','Camden.Bartoletti','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cleta.Anderson','Noemy.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shyanne.Oberbrunner','Jocelyn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elinore.Bode','Owen.Feil','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Joanne.Rau','Jennyfer_Daniel','Reject');
@@ -16632,7 +16542,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Halie_Koelpin','J
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jed_Hoppe','Ahmed.Schulist','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Domingo_Johnston','Myrtis_Ullrich','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alia.Weimann','Beryl_Watsica','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marshall_Har?ann','Scottie_Davis','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arvid.Johns','Sydnie.Larkin','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Juston_Willms','Theron','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kiley.Kuhlman','Alice_Tillman','Request');
@@ -16725,7 +16634,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Osbaldo_Hamill','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Willis.Paucek','Allene_Okuneva','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Joshua.Smith','Andreanne.Kunze','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gerardo_Towne','Abbie_Ratke','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brianne_Har?ann','Marlee.Koch','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ryan.Monahan','Brooke_Casper','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Helena.Herman','Josianne','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Leone.Towne','Narciso_Gusikowski','Reject');
@@ -16806,7 +16714,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Terence_Wolff','A
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mona.Hills','Thea','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nannie.O''Hara','Mallie_Fahey','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Amari.Mueller','Alexanne_Flatley','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Karl_Har?ann','Milo','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hubert_Emmerich','Stefanie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Makenzie_Wunsch','Elna','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gertrude.Padberg','Katrina','Accept');
@@ -16915,7 +16822,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rasheed.Wuckert',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Branson.Leannon','Sage.Collier','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Foster.Gottlieb','Abbey','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lazaro_Ondricka','Emmy','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rupert_Stroman','Katarina_Gu??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lilian','Everette','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Casimer_Kerluke','Nathanael','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Willis.Feeney','Kane.O''Conner','Accept');
@@ -17005,8 +16911,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Franco_Maggio','P
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lance.Bosco','Dax_Kunde','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Enrique.Kerluke','Shanel.Brakus','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosalyn.Kshlerin','Brown','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dejah_Har?ann','Bernhard_Lehner','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Blair_Torphy','Alfonzo.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sammie','Jared','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Libbie.Lindgren','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kellie.Carroll','Amaya_Bernhard','Reject');
@@ -17147,7 +17051,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Melyssa.Emard','V
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ethan.Walter','Ernesto','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Theodora_Terry','Samara.Schroeder','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Enola.Connelly','Hayden_Johnston','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Herbert_Gu?ann','Kaylee.Schuster','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('German','Jackeline_Harris','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Deshaun.Ritchie','Tracey.Macejkovic','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Royal_Brakus','Randall.Kshlerin','Request');
@@ -17272,7 +17175,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tony_Reynolds','T
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lourdes_Kemmer','Louie.Miller','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Katlyn.Dickinson','Verda','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ellsworth_Ondricka','Milford','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zoey.Lind','Kiera_Gu??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Milan_Bradtke','Annabel_Schimmel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clifton.Robel','Opal','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sabina.Schmitt','Guy.Kris','Request');
@@ -17604,7 +17506,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jessica_Marquardt
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Melany.Runolfsson','Shanie.Langosh','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pansy_Schuster','Jaqueline','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Madelynn.Roob','Edgar','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Francis_Reinger','Reba_Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lue.Yost','Celine','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Milton_Greenfelder','Kelsi_Rippin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nikolas_Prohaska','Ettie','Request');
@@ -17631,7 +17532,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Reta_Thiel','Matt
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Willa_Klein','Magnolia','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dorthy.Schinner','Emiliano.Schulist','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kole_Ruecker','Enid','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Retta.Har?ann','Hilbert.Kirlin','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gladys_O''Conner','Ezequiel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lew.Miller','Jovanny','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hobart_Batz','Carmel','Accept');
@@ -17876,7 +17776,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezequiel_Cruicksh
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Merritt_Cremin','Daniella_Osinski','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Neil.Keebler','Ike_Jacobi','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezra.Reinger','Arvid','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lois.Har?ann','Cordell','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ephraim.Stamm','Jewel_Kautzer','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sydney_Schumm','Chad','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Delia.Kilback','Terence.Bartell','Reject');
@@ -18309,7 +18208,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Josie.Schmeler','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kyla.O''Hara','Rigoberto','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rebecca_Jerde','Julianne.Heathcote','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Oswaldo.Donnelly','Marilie','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ryan_Har?ann','Kamille_Oberbrunner','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jon_Shields','Isabella_Tremblay','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mackenzie_Ziemann','Stephan_Schowalter','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaren_Tillman','Eliza_Brown','Request');
@@ -18345,7 +18243,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vernice','Aiyana'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rachel_Turner','Selena_Wintheiser','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Modesta.Von','Leon.Ward','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wilfrid.Beier','Mariela_Crona','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sydnee_Gu?ann','Cathrine_Lebsack','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brandi_Cormier','Colten','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jordy.Green','Harold','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Joel_Nitzsche','Susie.Krajcik','Accept');
@@ -18523,7 +18420,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Grayson_Powlowski
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Deontae.Koch','Kiel.Kihn','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Geovany_Jewess','Raphael','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zion_Marks','Alden_Effertz','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Reba_Har?ann','Reba','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lloyd.Haley','Edyth','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Johanna_Kling','Lourdes','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Deanna.Larson','Katlyn','Accept');
@@ -18742,7 +18638,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kelley.Grant','Br
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aliyah.Will','Helmer','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Christop_Reilly','Virgil','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pedro.Conn','Daisha.Ernser','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sharon.Har?ann','Eliza_Lubowitz','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jalyn_Nicolas','Jessika.Champlin','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bernhard_Bechtelar','Evangeline_Hintz','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Grace_Hauck','Mohammed_Leannon','Accept');
@@ -18759,7 +18654,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kale_Torp','Susan
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Stephon_Feest','Florida','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Meagan_Cole','Lucio.Vandervort','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bonita_Bayer','Keeley','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yolanda.Gu?ann','Penelope.Collier','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Okey.Wuckert','Kellie','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Destini.Brown','Eryn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arvel_Schimmel','Jon','Accept');
@@ -18870,7 +18764,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shannon_Ratke','F
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Esta.Gibson','Vivian','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Joannie_Crooks','Henry.Fay','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dawn.Schmidt','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Toby_Bergstrom','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Angelita.Paucek','Jerod_Corwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cruz.Thompson','Golden_Kerluke','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sheridan.Pfeffer','Daisy.Kulas','Accept');
@@ -18888,7 +18781,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jamie_Ledner','Al
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marge_Grady','Bernadine_Pfannerstill','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lavon.Hilpert','Nola_Thiel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ernestine_Ernser','Therese_Mitchell','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cordell.Weissnat','Roma.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Miguel_Stehr','Trent.Satterfield','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mariela_Crona','Corine_Krajcik','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kiley.Torphy','Alyson.Beer','Accept');
@@ -18984,7 +18876,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ariane.Dietrich',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mayra_Rolfson','Blaise.Mitchell','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Laverne.Shields','Caleigh_Schaefer','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maxime_Nader','Nova','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Estefania_Gu?ann','Amalia','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Delphia.Fay','Aylin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darrin_Kreiger','Dolores.Lueilwitz','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wallace.Schoen','Meagan.Beatty','Request');
@@ -19066,7 +18957,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Reggie.Nolan','Lu
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lois.Windler','Immanuel.Stracke','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mayra_Daugherty','Kelsie','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Amara.Baumbach','Eunice.Torp','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eliza.Gu?ann','Eula','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bonita_VonRueden','Lane','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shea.Krajcik','Duane.Crist','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mallie_Fahey','Serena_West','Accept');
@@ -19252,7 +19142,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yessenia_Kuvalis'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marcelo_Kuhlman','Onie.McClure','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nellie','Litzy_Morissette','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Keaton_Huel','Rigoberto_Baumbach','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kristy_Har?ann','Sydney_Beatty','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Herminio_Auer','Garrick_Cruickshank','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kacey.Zulauf','Lionel_Johnson','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Grayson.Bosco','Americo_Rempel','Reject');
@@ -19382,7 +19271,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marcelo.Stokes','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Erin.Orn','Odell_Cole','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wanda.Larkin','Stephan.Corkery','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cleveland_Harvey','Camden.Bartoletti','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eloisa.Thompson','Noemy.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Troy.Kessler','Jocelyn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Irving.Bednar','Owen.Feil','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Caleb_Kilback','Jennyfer_Daniel','Reject');
@@ -19398,7 +19286,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Berneice_Bartolet
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Angelo.Borer','Anissa.Ferry','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ashleigh.Kozey','Roberta_Block','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jett_Walsh','Janice_Medhurst','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Autumn.Har?ann','Alford','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Virginia_Howell','Brandon.Sipes','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Evalyn_Abbott','Jesse','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Meda_Purdy','Marty_Hirthe','Request');
@@ -19511,7 +19398,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jacinthe.Rippin',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tiara.Conn','Eveline','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chadrick.Christiansen','Theo','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carey.Will','Adrienne','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nikko_Gu?ann','Mackenzie_Ziemann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Theodora.McClure','Sophie.Crist','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Don_Senger','Ezra_Rolfson','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jayde.Altenwerth','Laurine.Trantow','Request');
@@ -19698,7 +19584,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zaria.Greenfelder
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Julian.Rogahn','Allene_Okuneva','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('George_Dicki','Andreanne.Kunze','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mia_Barton','Abbie_Ratke','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rubie_Har?ann','Marlee.Koch','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaquan_McLaughlin','Brooke_Casper','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nya.Powlowski','Josianne','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alexandra.Ward','Narciso_Gusikowski','Reject');
@@ -19851,7 +19736,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marcellus_Stracke
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Callie_Murray','Elizabeth_Upton','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cordie.Morar','Rosamond.Krajcik','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jevon.Windler','Zackery','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gina.Har?ann','Brendan_Russel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Randall.Wolf','Erica.Wunsch','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Leonard_Vandervort','Newell_Connelly','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Winona.Tromp','Austyn','Request');
@@ -19868,7 +19752,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Preston_Marquardt
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Norval_McGlynn','Kareem','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dudley.Kirlin','Janet','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Angel_Hodkiewicz','Damion_Barrows','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marcelle.Gu?ann','Kellen','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pete.Konopelski','Lonzo','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Adam_Yost','Frank','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Olga_Rosenbaum','Fay.Homenick','Accept');
@@ -19888,7 +19771,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Icie.Greenfelder'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mya_Mante','Sage.Collier','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jerod.Hane','Abbey','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gordon_Wiegand','Emmy','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Betty.Hegmann','Katarina_Gu??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wilhelm.Wuckert','Everette','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Annabelle.Leuschke','Nathanael','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Courtney_Kovacek','Kane.O''Conner','Accept');
@@ -19979,7 +19861,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Santina_Larson','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Karlie_Osinski','Shanel.Brakus','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hunter.Borer','Brown','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alison.Rogahn','Bernhard_Lehner','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zackery_Mohr','Alfonzo.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bridget.Langworth','Jared','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Pedro.Strosin','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hardy_Heller','Amaya_Bernhard','Reject');
@@ -20011,7 +19892,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Fredy_Schuster','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zachary.Hoppe','Jefferey_Murazik','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Camila_Daugherty','Dayton','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaqueline_Jacobson','Nya','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Christy_Gu?ann','Fletcher','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cyrus_Jones','Reginald_Hilll','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marjory_Schneider','Bud','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tristian_Langosh','Dan_McKenzie','Request');
@@ -20245,7 +20125,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ryann_Volkman','T
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dedric.Gusikowski','Louie.Miller','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marlene.Wehner','Verda','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Edmond.Renner','Milford','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Merl.Stanton','Kiera_Gu??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marianne.Swift','Annabel_Schimmel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rita_Bogan','Opal','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Oswaldo.Bergnaum','Guy.Kris','Request');
@@ -20318,7 +20197,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brent_Bahringer',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cecile.Rutherford','Jody','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aurelia_Bruen','Dixie','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lamont.Schroeder','Alex','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Katarina_Gu?ann','Norris.Veum','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arjun.Rolfson','Norene','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wallace.Gleason','Russell_Franecki','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clyde.Bogan','Corbin','Accept');
@@ -20462,7 +20340,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tamia_Larkin','Be
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jailyn.Armstrong','Zakary','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carmel_Abbott','Roderick','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Colin.Brown','Rodrick','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bryon.Gu?ann','Weston_Kshlerin','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sincere.Deckow','Emerson','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sheila.McLaughlin','Aliya','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clovis.McClure','Guido_Quigley','Reject');
@@ -20476,7 +20353,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kristin_Rau','Jev
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jeff.Gleason','Juvenal.Schinner','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alessandra.Schmeler','Hayley','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Frederick.Daugherty','Cydney','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Herminia_Gu?ann','Thelma','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mireille_Hyatt','Joany.Hodkiewicz','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Conner_Schneider','Santiago','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Issac.Wintheiser','Laura','Request');
@@ -20577,7 +20453,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kennedi_Howell','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Frieda.Harber','Shanie.Langosh','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kevon_Kohler','Jaqueline','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Hulda_Lesch','Edgar','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sibyl_Kertzmann','Reba_Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dawn_Lakin','Celine','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nigel.Rolfson','Kelsi_Rippin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aurore.Kemmer','Ettie','Request');
@@ -21009,7 +20884,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Haven.McLaughlin'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Christian.Koss','Bud.Hackett','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Oswald_Yost','Liliane','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Andy.Kassulke','Kyleigh.Beier','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brayan_Gu?ann','Misael','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nathen.Waters','Athena.Kohler','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Simone_Buckridge','Trent_Cole','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tia_Metz','Camylle_Christiansen','Reject');
@@ -21111,7 +20985,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Claire.Feil','Mor
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Andres_Mayer','Nayeli_Lubowitz','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kraig_Paucek','Javonte_Brown','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Skye_Prosacco','Kathlyn_Stehr','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Nelle.Har?ann','David_Heidenreich','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eliza_Murazik','Dax','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Samir_Wyman','Dorthy.Nitzsche','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mckayla.Hegmann','Fay_Bogan','Request');
@@ -21593,7 +21466,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shea.Lowe','Marti
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bria.Jacobs','Kaitlin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roel_Koelpin','Stefan','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rosendo.Veum','Patricia_Barton','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Johnpaul_Gu?ann','Linwood.Blick','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ryley.Labadie','Tessie','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Evangeline.Grady','Mya_Heller','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Celia.Okuneva','Brian','Accept');
@@ -21770,7 +21642,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lorine_Parker','R
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Saige_Corwin','Rosamond','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Maxie_Abernathy','Vicenta.Vandervort','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kendra.Leffler','Humberto_Hessel','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rafael_Har?ann','Kacey','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Yasmeen_Pouros','Virgil','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cayla.Hamill','Darion','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kenyon_Breitenberg','Allan','Reject');
@@ -21843,7 +21714,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Camryn_Abernathy'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dwight.Paucek','Vivian','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ken.Hammes','Henry.Fay','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Giles_Monahan','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Felipe.Mosciski','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Khalil_Zboncak','Jerod_Corwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Johan_Bradtke','Golden_Kerluke','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brianne_Larson','Daisy.Kulas','Accept');
@@ -21861,7 +21731,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Effie_Grant','Ale
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Braulio_Legros','Bernadine_Pfannerstill','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bettye.Keeling','Nola_Thiel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vernon_Cormier','Therese_Mitchell','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vaughn.Bartoletti','Roma.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ada.Kohler','Trent.Satterfield','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bertha_Nienow','Corine_Krajcik','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vern.Aufderhar','Alyson.Beer','Accept');
@@ -21946,7 +21815,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Gordon_Jast','Kat
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Uriel_Corkery','Duane.Jaskolski','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lizeth_Muller','Grover','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Corbin_McClure','Hilario','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Leonel_Gu?ann','Isabelle','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Braulio_Stiedemann','Laisha','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lucio.Pacocha','Kari','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kylie.Bosco','Elmore','Reject');
@@ -22052,7 +21920,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Isabelle_Gleason'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Andy_Pacocha','Carlotta.Quigley','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Marcia.Kassulke','Horacio.Feil','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darrion.Towne','Arielle.Weissnat','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Margret.Har?ann','Blaise','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Keyon_Torphy','Ignatius','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elmer_Kuhic','Emiliano','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Solon_Bayer','Lucas','Accept');
@@ -22355,7 +22222,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Josefina_Jewess',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jewel.Raynor','Odell_Cole','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lila_Schmidt','Stephan.Corkery','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Anjali_Little','Camden.Bartoletti','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Llewellyn.Daniel','Noemy.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eryn.West','Jocelyn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Diego_Schaden','Owen.Feil','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Eulalia.Yost','Jennyfer_Daniel','Reject');
@@ -22377,7 +22243,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chaya_Ebert','Jes
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dortha.Carroll','Marty_Hirthe','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Montana.Ankunding','Celestine','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Titus_Schowalter','Micah','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Neva.Gu?ann','Ernesto','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jamir_Runte','Patricia_Renner','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Aliya.Murphy','Rene','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carolina_King','Efren.Okuneva','Accept');
@@ -22465,7 +22330,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roosevelt_Stark',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Meredith.Kemmer','Andres_Russel','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kale_Hilpert','Shanna_Mitchell','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cristopher_Tromp','Alaina.Nicolas','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Alfonzo.Har?ann','Monroe','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rod_Reinger','Mary','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lila_Bauch','Frida','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Darrell_Ledner','Jeff.Harris','Request');
@@ -22762,7 +22626,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beau_McClure','My
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Chester_Walker','Lane','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ceasar_Quigley','Alvena','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Wiley_Schroeder','Maybelle','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jewell_Gu?ann','Aglae_Streich','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Felipe_Sporer','Guy.Schultz','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Henriette.McKenzie','Ellsworth_Nader','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elva_Turner','Willow.Watsica','Reject');
@@ -22861,7 +22724,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Declan.Stiedemann
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ardith_Leuschke','Sage.Collier','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vance_Tremblay','Abbey','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Natalia_Toy','Emmy','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arvid.Batz','Katarina_Gu??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carlee_Roberts','Everette','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Warren_Sanford','Nathanael','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jonas_Smith','Kane.O''Conner','Accept');
@@ -22952,7 +22814,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Laurel.Nienow','D
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Serena.Ward','Shanel.Brakus','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Miles_Collier','Brown','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel.Kassulke','Bernhard_Lehner','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bessie_Prosacco','Alfonzo.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lelah','Jared','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jorge','Dedric','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dudley.Cummerata','Amaya_Bernhard','Reject');
@@ -23033,7 +22894,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Carey.Z
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Merlin','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Myles','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Roberto_Kautzer','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Rachelle.Ziemann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Maia_Baumbach','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Kavon.Breitenberg','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Clemmie','Request');
@@ -23218,7 +23078,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dario_Breitenberg
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carmel_Littel','Louie.Miller','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jammie','Verda','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lavada_Bayer','Milford','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Carolina.Friesen','Kiera_Gu??ann','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Erling.Reichert','Annabel_Schimmel','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Arianna.Sanford','Opal','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Krista_Kerluke','Guy.Kris','Request');
@@ -23273,7 +23132,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Alphons
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Lloyd.Schmidt','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Estella','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Elroy','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Marco.Bernier','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Nona','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Columbus','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Foster_Kovacek','Reject');
@@ -23513,7 +23371,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Florida
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Harvey.Cruickshank','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Elliott','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Trent.Hamill','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Reta_Monahan','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Mitchell','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Emilie','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Estefania.Pollich','Request');
@@ -23550,7 +23407,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vanessa_Cruicksha
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Lacy.Gottlieb','Shanie.Langosh','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kristofer_Parisian','Jaqueline','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bryana.Wilkinson','Edgar','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Cornell.McDermott','Reba_Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Madelynn.Moore','Celine','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zetta','Kelsi_Rippin','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Percy','Ettie','Request');
@@ -23753,7 +23609,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Camryn'
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Abner_Weimann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Carolyne','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Golda','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Zaria.Greenfelder','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Austyn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Clair','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Loren_Nader','Request');
@@ -23993,7 +23848,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Melvina
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Kirsten','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Virgie_Mann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Josephine','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Cristina','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Luther_Rosenbaum','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Eino','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Milford','Reject');
@@ -24233,7 +24087,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Libbie_
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Brionna','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Elmer','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Cindy','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Jaeden','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Kaleb.Heller','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Heath_Block','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Demetrius','Request');
@@ -24473,7 +24326,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Reba','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Edyth','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Lourdes','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Katlyn','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Therese','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Keaton','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Ron.Schumm','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Ivory.Stark','Accept');
@@ -24713,7 +24565,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Cheyann
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Chasity','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Roxane','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Aniyah_Kub','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Luella','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Margarette','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Cordia.Morar','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Obie.Gerlach','Request');
@@ -24816,7 +24667,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kacie','Fredrick_
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Tatyana.Wunsch','Vivian','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jaden.Hickle','Henry.Fay','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Bette','Urban','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Vaughn','Kiera_Gu??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rudolph','Jerod_Corwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Elnora','Golden_Kerluke','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rylee','Daisy.Kulas','Accept');
@@ -24834,7 +24684,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Brown','Alexander
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Helena.Koss','Bernadine_Pfannerstill','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Toby_Lynch','Nola_Thiel','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Clare.Waelchi','Therese_Mitchell','Reject');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rene_Gutkowski','Roma.Har??ann','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Matteo','Trent.Satterfield','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Oswald','Corine_Krajcik','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Mylene','Alyson.Beer','Accept');
@@ -24953,7 +24802,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Angus',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Cary_Frami','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Margret','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Misty_Murray','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Deonte','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','John_Feil','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Edwina.Goodwin','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Trudie','Reject');
@@ -25193,7 +25041,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Grant_H
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Jillian_Yost','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Al_Kessler','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Alyson_Reilly','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Avis','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Eliezer','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Onie.McClure','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Litzy_Morissette','Accept');
@@ -25328,7 +25175,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Sidney_Kessler','
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Jermain.McKenzie','Odell_Cole','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Okey.Predovic','Stephan.Corkery','Request');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Dillan.Champlin','Camden.Bartoletti','Request');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Selmer.McGlynn','Noemy.Har??ann','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Kendra','Jocelyn','Reject');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Shayna.Hegmann','Owen.Feil','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ulices.Bode','Jennyfer_Daniel','Reject');
@@ -25433,7 +25279,6 @@ INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ezekiel','Elsie',
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Beulah_Koepp','Raphael_Kovacek','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Raheem','Destin_Collins','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Ophelia','Connie','Accept');
-INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Roma.Har??ann','Nestor.Schuppe','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Armando','Salvatore','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Rory_Luettgen','Andres_Russel','Accept');
 INSERT INTO CONNECTION_USR(userId,connectionId,status)VALUES ('Zelda_Connelly','Shanna_Mitchell','Request');
