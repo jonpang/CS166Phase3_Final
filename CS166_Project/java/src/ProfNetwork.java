@@ -427,13 +427,13 @@ public class ProfNetwork {
       }
       if(mode == 1){
         String query = String.format("SELECT * FROM MESSAGE WHERE receiverId = '%s' AND deleteStatus = 0", curUser);
-        String query2 = String.format("SELECT * FROM MESSAGE WHERE receiverId = '%s' AND deleteStatus = 2", curUser);
+        String query2 = String.format("SELECT * FROM MESSAGE WHERE receiverId = '%s' AND deleteStatus = 1", curUser);
         esql.executeQueryAndPrintResult(query);
         esql.executeQueryAndPrintResult(query2);
       }
       else{
         String query = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND deleteStatus = 0", curUser);
-        String query2 = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND deleteStatus = 1", curUser);
+        String query2 = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND deleteStatus = 2", curUser);
         esql.executeQueryAndPrintResult(query);
         esql.executeQueryAndPrintResult(query2);
       }
@@ -455,7 +455,7 @@ public class ProfNetwork {
       if(d == 1){
           System.out.print("\tDelete which message? Type the messageId.\n");
           String answer = in.readLine();
-          String query = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND msgId = %s", curUser, answer);
+          String query = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND msgId = %s" , curUser, answer);
           int check = esql.executeQueryAndPrintResult(query);
           if (check == 0)return;
           else{
@@ -525,7 +525,7 @@ public class ProfNetwork {
    public static void FriendList(ProfNetwork esql, String user){
        //print friends list
        //executeQueryAndPrintResult(" ");
-	System.out.println("List of Friends:")
+	System.out.println("List of Friends:");
 	String query = String.format("SELECT U.userId FROM USR U, CONNECTION_USR C WHERE U.userId != '%s' AND ((C.connectionId = U.userId AND C.userId = '%s')  OR (C.connectionId = '%s' AND C.userId = U.userId)) AND C.status = 'Accept')) ;", user,user,user);
 	esql.executeQueryAndPrintResult(query);
 	int c;
@@ -533,9 +533,9 @@ public class ProfNetwork {
 	boolean valid_choice = false;
 	while(!valid_choice)
 		System.out.println("\t1. Select a Friend Profile to View");
-		System.out.println("\t2. Return to Main Menu);	
+		System.out.println("\t2. Return to Main Menu");	
 		c = Integer.parseInt(in.readLine());
-		if (c == 1) 
+		if (c == 1) {
 			System.out.println("Enter Username of Friend");
 			friend = in.readLine();
 			//check if user is actually a friend
@@ -545,11 +545,14 @@ public class ProfNetwork {
 				query2 = String.format("SELECT U.userId, U.email, U.name, U.dateOfBirth, W.company, w.role, w.location, E.institutionName, E.major, E.degree FROM USR U, WORK_EXPR W, EDUCATIONAL_DETAILS E WHERE U.userId = '%s' and W. userId = '%s' and E.userId = '%s';",friend,friend,friend);
 				esql.executeQueryAndPrintResult(query2);
 				valid_choice = true;
-			if(userNum <= 0)
-				System.out.println("Invalid Friend. Returning to Main Menu"); break;
-	        else if (c == 2) break;
-	        else System.out.println("Invalid Input!");
-	if(valid_choice)
+			if(userNum <= 0){
+				System.out.println("Invalid Friend. Returning to Main Menu"); 
+        break;
+      }
+    }
+    else if (c == 2) break;
+	  else System.out.println("Invalid Input!");
+	if(valid_choice){
 		System.out.println("\t1. Send a Message");
 		System.out.println("\t2. View Friend List");
 		System.out.println("\t	 Any other key to return to Main Menu");
@@ -558,7 +561,7 @@ public class ProfNetwork {
 			NewMessage(esql,user);
 		else if (c == 2)
 			FriendList(esql,friend);
-		
+		}
    }
 
    public static void UpdateRequest(ProfNetwork esql, String user){
@@ -577,7 +580,7 @@ public class ProfNetwork {
 			System.out.println("\t2. Reject Connection Requests");
 			System.out.println("\t	 Any other key to return to Main Menu");
 			int e = Integer.parseInt(in.readLine());
-			int usernum
+			int usernum;
 			boolean finished = false;
 			String friend;
 			if(e == 1)

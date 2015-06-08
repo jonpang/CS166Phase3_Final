@@ -3,4 +3,8 @@
 6/7/2015 "fixed CreateUser() to correctly insert user into usr table"
 6/7/2015 "implemented password changing and name search"
 6/7/2015 "implemented newmessage"
-
+screenshots 3 levels of request friend
+	edgecases
+view profile
+update documention
+friends list
