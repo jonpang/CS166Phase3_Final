@@ -193,6 +193,7 @@ public class ProfNetwork {
        }//end while
        stmt.close ();
        return rowCount;
+       
    }
 
    /**
@@ -284,7 +285,7 @@ public class ProfNetwork {
                 switch (readChoice()){
                    case 1: FriendList(esql); break;
                    case 2: UpdatePassword(esql, authorisedUser); break;
-                   case 3: NewMessage(esql, authorisedUser); break
+                   case 3: NewMessage(esql, authorisedUser); break;
                    case 4: ViewMessage(esql, authorisedUser); break;
                    case 5: SendRequest(esql); break;
                    case 6: SearchUser(esql); break;
@@ -405,7 +406,7 @@ public class ProfNetwork {
    * 2 - delete from receiver
    * 3 - delete by both
    * */
-  public static void ViewMessages(ProfNetwork esql, string curUser){
+  public static void ViewMessage(ProfNetwork esql, String curUser){
     try{
        
       }catch(Exception e){}
@@ -413,14 +414,6 @@ public class ProfNetwork {
 
 
   public static void NewMessage(ProfNetwork esql, String sender){
-       /**
-       System.out.println("Please enter message:");
-       Scanner scan2 = new Scanner(System.in);
-       String word2 = scan2.nextLine();
-       **/
-       //String date = new SimpleDateFormat("dd-MM-yyyy").format(new Date());
-       //string m = "INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('"+ + "','"+ +"','"+ +"','"+ word2 +"','"+ date +"','1','sent')";
-       //run executeUpdate(m);
        try{
          //assign msgId by number of messages
          System.out.print("\tSend message to: ");
@@ -432,19 +425,23 @@ public class ProfNetwork {
          String message= in.readLine();
          String m;
          String q = "SELECT COUNT(*) FROM MESSAGE";
-         int count = esql.executeQuery(q) + 1;
+         List<List<String>> count = esql.executeQueryAndReturnResult(q);
+         int c = Integer.parseInt(count.get(0).get(0)) + 1;
+         System.out.println(c);
+         
          DateFormat df = new SimpleDateFormat("MM/dd/yyyy HH:mm");
          Date today = Calendar.getInstance().getTime();
          String sendDate = df.format(today);        
          if(userNum > 0){
-           m = String.format("INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('%s','%s','%s','%s','%s','0','sent')",count, sender, recipient, message, sendDate);
+           m = String.format("INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES (%s,'%s','%s','%s','%s',0,'sent')",c, sender, recipient, message, sendDate);
            System.out.println ("Message sent. \n");
+           esql.executeUpdate(m);
          }
          else{
-           m = String.format("INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('%s','%s','%s','%s','%s','0','Failed to Deliver')",count, sender, recipient, message, sendDate);
+           m = String.format("INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES (%s,'%s','%s','%s','%s',0,'Failed to Deliver')",c, sender, recipient, message, sendDate);
            System.out.println ("Message not sent. Recipient does not exist. \n");
+           esql.executeUpdate(m);
          }
-         esql.executeUpdate(m);
          //System.out.println ("Message sent");
       }catch(Exception e){
          //System.err.println (e.getMessage ());
