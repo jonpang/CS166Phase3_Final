@@ -23,6 +23,11 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.List;
 import java.util.ArrayList;
+//for getting the date and time
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
 
 /**
  * This class defines a simple embedded SQL utility class that is designed to
@@ -271,16 +276,18 @@ public class ProfNetwork {
                 System.out.println("1. Goto Friend List");
                 System.out.println("2. Update Password");
                 System.out.println("3. Write a new message");
-                System.out.println("4. Send Friend Request");
-                System.out.println("5. Search for User");
+                System.out.println("4. View message");
+                System.out.println("5. Send Friend Request");
+                System.out.println("6. Search for User");
                 System.out.println(".........................");
                 System.out.println("9. Log out");
                 switch (readChoice()){
                    case 1: FriendList(esql); break;
-                   case 2: UpdateProfile(esql, authorisedUser); break;
-                   case 3: NewMessage(esql); break;
-                   case 4: SendRequest(esql); break;
-                   case 5: SearchUser(esql); break;
+                   case 2: UpdatePassword(esql, authorisedUser); break;
+                   case 3: NewMessage(esql, authorisedUser); break
+                   case 4: ViewMessage(esql, authorisedUser); break;
+                   case 5: SendRequest(esql); break;
+                   case 6: SearchUser(esql); break;
                    case 9: usermenu = false; break;
                    default : System.out.println("Unrecognized choice!"); break;
                 }
@@ -392,8 +399,20 @@ public class ProfNetwork {
          else System.out.print("\tInvalid user!\n");
       }catch(Exception e){}
   }
+  /**
+   * 0 - no delete
+   * 1 - delete from sender
+   * 2 - delete from receiver
+   * 3 - delete by both
+   * */
+  public static void ViewMessages(ProfNetwork esql, string curUser){
+    try{
+       
+      }catch(Exception e){}
+  }
 
-  public static void NewMessage(ProfNetwork esql){
+
+  public static void NewMessage(ProfNetwork esql, String sender){
        /**
        System.out.println("Please enter message:");
        Scanner scan2 = new Scanner(System.in);
@@ -406,12 +425,26 @@ public class ProfNetwork {
          //assign msgId by number of messages
          System.out.print("\tSend message to: ");
          String recipient = in.readLine();
-         System.out.print("\tMessage : ");
+         //check if user exists
+         String query = String.format("SELECT * FROM USR WHERE userId = '%s'", recipient);
+         int userNum = esql.executeQuery(query);
+         System.out.print("\tEnter message. Finish message by pressing ENTER : ");
          String message= in.readLine();
-         //check to see if user exists
-         //String query = String.format("INSERT INTO USR (userId, password, email, name, dateOfBirth) VALUES ('%s','%s','%s','%s','%s')", login, password, email, name, dob);
-
-         //esql.executeUpdate(query);
+         String m;
+         String q = "SELECT COUNT(*) FROM MESSAGE";
+         int count = esql.executeQuery(q) + 1;
+         DateFormat df = new SimpleDateFormat("MM/dd/yyyy HH:mm");
+         Date today = Calendar.getInstance().getTime();
+         String sendDate = df.format(today);        
+         if(userNum > 0){
+           m = String.format("INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('%s','%s','%s','%s','%s','0','sent')",count, sender, recipient, message, sendDate);
+           System.out.println ("Message sent. \n");
+         }
+         else{
+           m = String.format("INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('%s','%s','%s','%s','%s','0','Failed to Deliver')",count, sender, recipient, message, sendDate);
+           System.out.println ("Message not sent. Recipient does not exist. \n");
+         }
+         esql.executeUpdate(m);
          //System.out.println ("Message sent");
       }catch(Exception e){
          //System.err.println (e.getMessage ());
@@ -421,7 +454,7 @@ public class ProfNetwork {
        //print friends list
        //executeQueryAndPrintResult(" ");
    }
-   public static void UpdateProfile(ProfNetwork esql, String user){
+   public static void UpdatePassword(ProfNetwork esql, String user){
        //string update = "UPDATE ";
        //UPDATE Customers
        //SET ContactName='Alfred Schmidt', City='Hamburg'
