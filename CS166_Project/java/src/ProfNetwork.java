@@ -280,6 +280,7 @@ public class ProfNetwork {
                 System.out.println("4. View message");
                 System.out.println("5. Send Friend Request");
                 System.out.println("6. Search for User");
+		System.out.println("7. Update Connection Requests");
                 System.out.println(".........................");
                 System.out.println("9. Log out");
                 switch (readChoice()){
@@ -289,6 +290,7 @@ public class ProfNetwork {
                    case 4: ViewMessage(esql, authorisedUser); break;
                    case 5: SendRequest(esql); break;
                    case 6: SearchUser(esql); break;
+		   case 7: UpdateRequest(esql, authorisedUser); break;
                    case 9: usermenu = false; break;
                    default : System.out.println("Unrecognized choice!"); break;
                 }
@@ -540,7 +542,7 @@ public class ProfNetwork {
 		        String query2 = String.format("SELECT * FROM CONNECTION_USR WHERE status = 'Accept' AND ((userId = '%s' AND connectionID = '%s') OR (userId = '%s' AND connectionID = '%s'));", friend, user, user, friend);
 		        int userNum = esql.executeQuery(query2);
 			if(userNum > 0)//user is actually a friend so view profile
-				query2 = String.form("SELECT U.userId, U.email, U.name, U.dateOfBirth, W.company, w.role, w.location, E.institutionName, E.major, E.degree FROM USR U, WORK_EXPR W, EDUCATIONAL_DETAILS E WHERE U.userId = '%s' and W. userId = '%s' and E.userId = '%s';",friend,friend,friend);
+				query2 = String.format("SELECT U.userId, U.email, U.name, U.dateOfBirth, W.company, w.role, w.location, E.institutionName, E.major, E.degree FROM USR U, WORK_EXPR W, EDUCATIONAL_DETAILS E WHERE U.userId = '%s' and W. userId = '%s' and E.userId = '%s';",friend,friend,friend);
 				esql.executeQueryAndPrintResult(query2);
 				valid_choice = true;
 			if(userNum <= 0)
@@ -550,13 +552,94 @@ public class ProfNetwork {
 	if(valid_choice)
 		System.out.println("\t1. Send a Message");
 		System.out.println("\t2. View Friend List");
-		System.out.println("\tAny other key to return to Main Menu");
+		System.out.println("\t	 Any other key to return to Main Menu");
 		c = Integer.parseInt(in.readLine());
 		if (c == 1) 
 			NewMessage(esql,user);
 		else if (c == 2)
 			FriendList(esql,friend);
 		
+   }
+
+   public static void UpdateRequest(ProfNetwork esql, String user){
+	System.out.println("\t1. View Connection Requests");
+	System.out.println("\tAny other key to return to Main Menu");
+	int c;
+	int d;
+	c = Integer.parseInt(in.readLine());
+	if (c == 1) {
+		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request AND connectionId = '%s';",user);
+		System.out.println("Users Awaiting Response");
+		d = esql.executeQueryAndPrintResult(query);
+		if(d > 0)
+		{
+			System.out.println("\t1. Accept Connection Requests");
+			System.out.println("\t2. Reject Connection Requests");
+			System.out.println("\t	 Any other key to return to Main Menu");
+			int e = Integer.parseInt(in.readLine());
+			int usernum
+			boolean finished = false;
+			String friend;
+			if(e == 1)
+			{
+				while(!finished)
+				{
+					System.out.println("Enter Username of Connection to Accept");
+					friend = in.readLine();
+					query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s;",friend,user);
+					userNum = esql.executeQuery(query);
+					if(userNum > 0)
+					{
+						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s;",friend,user);
+         					esql.executeUpdate(query);
+						System.out.println("User has been added to your friend list.");
+					}
+					else
+					{
+						System.out.println("User has not requested a connection, does not exist or has already been responded to");
+					}
+					System.out.println("Enter 1 to Accept More Connections");
+					System.out.println("\t	 Any other key to return to Main Menu");
+					c = Integer.parseInt(in.readLine());
+					if(c != 1)
+					{
+						finished = true;
+					}
+					System.out.println();
+				}		
+			}
+			else if (e == 2)
+			{
+				while(!finished)
+				{
+					System.out.println("Enter Username of Connection to Reject");
+					friend = in.readLine();
+					query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request AND userId = '%s' AND connectionId = '%s;",friend,user);
+					userNum = esql.executeQuery(query);
+					if(userNum > 0)
+					{
+						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s;",user,friend);
+         					esql.executeUpdate(query);
+						System.out.println("User has been added to your friend list.");
+					}
+					else
+					{
+						System.out.println("User has not requested a connection, does not exist, or has already been responded to");
+					}
+					System.out.println("Enter 1 to Accept More Connections");
+					System.out.println("\t	 Any other key to return to Main Menu");
+					c = Integer.parseInt(in.readLine());
+					if(c != 1)
+					{
+						finished = true;
+					}
+					System.out.println();
+				}	
+			}
+			else
+			{}
+		}
+	}
    }
    public static void UpdatePassword(ProfNetwork esql, String user){
        //string update = "UPDATE ";
