@@ -220,34 +220,6 @@ public class ProfNetwork {
          // ignored.
       }//end try
    }//end cleanup
-   /**
-    * createUser(esql)
-    **/
-   public static void FriendList(ProfNetwork esql){
-       //print friends list
-       //executeQueryAndPrintResult(" ");
-   }
-   public static void UpdateProfile(ProfNetwork esql){
-       //string update = "UPDATE ";
-       //UPDATE Customers
-       //SET ContactName='Alfred Schmidt', City='Hamburg'
-       //WHERE CustomerName='Alfreds Futterkiste';
-
-       //run executeUpdate(" ")
-   }
-   public static void NewMessage(ProfNetwork esql){
-       /**
-       System.out.println("Please enter message:");
-       Scanner scan2 = new Scanner(System.in);
-       String word2 = scan2.nextLine();
-       **/
-       //String date = new SimpleDateFormat("dd-MM-yyyy").format(new Date());
-       //string m = "INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('"+ + "','"+ +"','"+ +"','"+ word2 +"','"+ date +"','1','sent')";
-       //run executeUpdate(m);
-   }
-   public static void SendRequest(ProfNetwork esql){
-   
-   }
    
    /**
     * The main execution method
@@ -297,16 +269,18 @@ public class ProfNetwork {
                 System.out.println("MAIN MENU");
                 System.out.println("---------");
                 System.out.println("1. Goto Friend List");
-                System.out.println("2. Update Profile");
+                System.out.println("2. Update Password");
                 System.out.println("3. Write a new message");
                 System.out.println("4. Send Friend Request");
+                System.out.println("5. Search for User");
                 System.out.println(".........................");
                 System.out.println("9. Log out");
                 switch (readChoice()){
                    case 1: FriendList(esql); break;
-                   case 2: UpdateProfile(esql); break;
+                   case 2: UpdateProfile(esql, authorisedUser); break;
                    case 3: NewMessage(esql); break;
                    case 4: SendRequest(esql); break;
+                   case 5: SearchUser(esql); break;
                    case 9: usermenu = false; break;
                    default : System.out.println("Unrecognized choice!"); break;
                 }
@@ -406,5 +380,82 @@ public class ProfNetwork {
    }//end
 
 // Rest of the functions definition go in here
+  public static void SearchUser(ProfNetwork esql){
+    try{
+         System.out.print("\tLook for user by name: ");
+         String search_name = in.readLine();
+         String query = String.format("SELECT * FROM USR WHERE name = '%s'", search_name);
+         int userNum = esql.executeQuery(query);
+         if (userNum > 0){
+           System.out.print("\tUser exists!\n");
+         }
+         else System.out.print("\tInvalid user!\n");
+      }catch(Exception e){}
+  }
+
+  public static void NewMessage(ProfNetwork esql){
+       /**
+       System.out.println("Please enter message:");
+       Scanner scan2 = new Scanner(System.in);
+       String word2 = scan2.nextLine();
+       **/
+       //String date = new SimpleDateFormat("dd-MM-yyyy").format(new Date());
+       //string m = "INSERT INTO MESSAGE(msgId,senderId,receiverId,contents,sendTime,deleteStatus,status) VALUES ('"+ + "','"+ +"','"+ +"','"+ word2 +"','"+ date +"','1','sent')";
+       //run executeUpdate(m);
+       try{
+         //assign msgId by number of messages
+         System.out.print("\tSend message to: ");
+         String recipient = in.readLine();
+         System.out.print("\tMessage : ");
+         String message= in.readLine();
+         //check to see if user exists
+         //String query = String.format("INSERT INTO USR (userId, password, email, name, dateOfBirth) VALUES ('%s','%s','%s','%s','%s')", login, password, email, name, dob);
+
+         //esql.executeUpdate(query);
+         //System.out.println ("Message sent");
+      }catch(Exception e){
+         //System.err.println (e.getMessage ());
+      }
+   }
+   public static void FriendList(ProfNetwork esql){
+       //print friends list
+       //executeQueryAndPrintResult(" ");
+   }
+   public static void UpdateProfile(ProfNetwork esql, String user){
+       //string update = "UPDATE ";
+       //UPDATE Customers
+       //SET ContactName='Alfred Schmidt', City='Hamburg'
+       //WHERE CustomerName='Alfreds Futterkiste';
+       try{
+         boolean confirm = false;
+         String choice;
+         while(!confirm){
+           System.out.print("\tAre you sure you want to edit the password?\n");
+           System.out.print("\t1.Yes\n");
+           System.out.print("\t2.No\n");
+           choice = in.readLine();
+           int c = Integer.parseInt(choice);
+           if(c == 1) confirm = true;
+           else if (c == 2) break;
+           else System.out.println("Invalid Input!");
+         }
+         String newP = null;
+         if(confirm){
+           System.out.print("\tpassword: ");
+           newP = in.readLine();
+         }
+         if(newP != "\n"){
+           String query = String.format("UPDATE usr SET password = '%s' WHERE userId = '%s';", newP, user);
+           esql.executeUpdate(query);
+         }
+       }catch(Exception e){
+         System.err.println (e.getMessage ());
+      }
+       //run executeUpdate(" ")
+   }
+   
+   public static void SendRequest(ProfNetwork esql){
+   
+   }
 
 }//end ProfNetwork
