@@ -408,7 +408,80 @@ public class ProfNetwork {
    * */
   public static void ViewMessage(ProfNetwork esql, String curUser){
     try{
-       
+      boolean in_or_out = false;
+      int mode = 0;
+      while(!in_or_out){
+        System.out.print("\t1.View Inbox?\n");
+        System.out.print("\t2.View Outbox?\n");
+        String answer = in.readLine();
+        if(answer.equals("1")){
+          mode =1;
+          in_or_out = true;
+        }
+        else if (answer.equals("2")){
+          mode =2;
+          in_or_out = true;
+        }
+      }
+      if(mode == 1){
+        String query = String.format("SELECT * FROM MESSAGE WHERE receiverId = '%s' AND deleteStatus = 0", curUser);
+        String query2 = String.format("SELECT * FROM MESSAGE WHERE receiverId = '%s' AND deleteStatus = 2", curUser);
+        esql.executeQueryAndPrintResult(query);
+        esql.executeQueryAndPrintResult(query2);
+      }
+      else{
+        String query = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND deleteStatus = 0", curUser);
+        String query2 = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND deleteStatus = 1", curUser);
+        esql.executeQueryAndPrintResult(query);
+        esql.executeQueryAndPrintResult(query2);
+      }
+      boolean delete_yn = false;
+      int d = 0;
+      while(!delete_yn){
+        System.out.print("\t1.Delete message?\n");
+        System.out.print("\t2.Do not delete message?\n");
+        String answer = in.readLine();
+        if(answer.equals("1")){
+          d =1;
+          delete_yn = true;
+        }
+        else if (answer.equals("2")){
+          d =2;
+          delete_yn = true;
+        }
+      }
+      if(d == 1){
+          System.out.print("\tDelete which message? Type the messageId.\n");
+          String answer = in.readLine();
+          String query = String.format("SELECT * FROM MESSAGE WHERE senderId = '%s' AND msgId = %s", curUser, answer);
+          int check = esql.executeQueryAndPrintResult(query);
+          if (check == 0)return;
+          else{
+            System.out.print("Would you like to delete messageId?\n");
+            System.out.print("1.Yes?\n");
+            System.out.print("2.No?\n");
+            String confirm = in.readLine();
+            if(confirm.equals("1")){
+              String q = String.format("SELECT deleteStatus FROM MESSAGE WHERE msgId = '%s'", answer);
+              List<List<String>> check_del = esql.executeQueryAndReturnResult(q);
+              int c = Integer.parseInt(check_del.get(0).get(0));
+              if(c ==0 ){
+                if (mode == 1){
+                  String query_f = String.format("UPDATE MESSAGE SET deleteStatus = 2 WHERE msgId = '%s'", answer);
+                  esql.executeUpdate(query_f);
+                }
+                else if (mode == 2){
+                  String query_f = String.format("UPDATE MESSAGE SET deleteStatus = 1 WHERE msgId = '%s'", answer);
+                  esql.executeUpdate(query_f);
+                }
+              }
+              else if (c == 1 || c == 2){
+                String query_f = String.format("UPDATE MESSAGE SET deleteStatus = 3 WHERE msgId = '%s'", answer);
+                esql.executeUpdate(query_f);
+              }
+            }
+          }
+        }
       }catch(Exception e){}
   }
 
