@@ -228,6 +228,11 @@ public class ProfNetwork {
        //executeQueryAndPrintResult(" ");
    }
    public static void UpdateProfile(ProfNetwork esql){
+       //string update = "UPDATE ";
+       //UPDATE Customers
+       //SET ContactName='Alfred Schmidt', City='Hamburg'
+       //WHERE CustomerName='Alfreds Futterkiste';
+
        //run executeUpdate(" ")
    }
    public static void NewMessage(ProfNetwork esql){
@@ -352,7 +357,7 @@ public class ProfNetwork {
    }//end readChoice
 
    /*
-    * Creates a new user with privided login, passowrd and phoneNum
+    * Creates a new user with privided login, passowrd and email
     * An empty block and contact list would be generated and associated with a user
     **/
    public static void CreateUser(ProfNetwork esql){
@@ -363,9 +368,13 @@ public class ProfNetwork {
          String password = in.readLine();
          System.out.print("\tEnter user email: ");
          String email = in.readLine();
+         System.out.print("\tEnter user name: ");
+         String name = in.readLine();
+         System.out.print("\tEnter user date of birth: ");
+         String dob = in.readLine();
 
 	 //Creating empty contact\block lists for a user
-	 String query = String.format("INSERT INTO USR (userId, password, email, contact_list) VALUES ('%s','%s','%s')", login, password, email);
+	 String query = String.format("INSERT INTO USR (userId, password, email, name, dateOfBirth) VALUES ('%s','%s','%s','%s','%s')", login, password, email, name, dob);
 
          esql.executeUpdate(query);
          System.out.println ("User successfully created!");

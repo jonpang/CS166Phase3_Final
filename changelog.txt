@@ -1,2 +1,3 @@
 6/2/2015 "change userId and password from char to varchar"
-6/8/2015 "addedfunction headers for FriendList(), UpdateProfile(), NewMessage(), SendRequest()"
+6/7/2015 "addedfunction headers for FriendList(), UpdateProfile(), NewMessage(), SendRequest()"
+6/7/2015 "fixed CreateUser() to correctly insert user into usr table"
