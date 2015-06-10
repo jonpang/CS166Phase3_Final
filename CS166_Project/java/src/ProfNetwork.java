@@ -584,11 +584,8 @@ public class ProfNetwork {
 	System.out.println("You entered: " + c);
 
 	if (c.equals("1")) {
-<<<<<<< HEAD
 		String query = String.format("SELECT * FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
-=======
 		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
->>>>>>> 67bce356e489abcf32b2eb073f2f1c42ab78ee13
 		System.out.println("Users Awaiting Response");
 		d = esql.executeQueryAndPrintResult(query);
     System.out.println(d);
