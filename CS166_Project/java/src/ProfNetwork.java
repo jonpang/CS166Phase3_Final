@@ -529,15 +529,15 @@ public class ProfNetwork {
 	System.out.println("List of Friends:");
 	String query = String.format("SELECT U.userId FROM USR U, CONNECTION_USR C WHERE U.userId != '%s' AND ((C.connectionId = U.userId AND C.userId = '%s')  OR (C.connectionId = '%s' AND C.userId = U.userId)) AND C.status = 'Accept')) ;", user,user,user);
 	esql.executeQueryAndPrintResult(query);
-	int c;
+	String c;
 	String friend;
 	boolean valid_choice = false;
-  int userNum;
+	int userNum;
 	//show friend list, then provide option 
 		System.out.println("\t1. Select a Friend Profile to View");
 		System.out.println("\t2. Return to Main Menu");	
-		c = Integer.parseInt(in.readLine());
-		if (c == 1) {
+		c = in.readLine();
+		if (c == "1") {
 			System.out.println("Enter Username of Friend");
 			friend = in.readLine();
 			//check if user is actually a friend
@@ -553,7 +553,7 @@ public class ProfNetwork {
 				System.out.println("Invalid Friend. Returning to Main Menu"); 
 			}
 		} 
-		else if (c == 2)
+		else if (c == "2")
 		{valid_choice = false;}
 		else System.out.println("Invalid Input!");
 		
@@ -562,10 +562,10 @@ public class ProfNetwork {
 			System.out.println("\t1. Send a Message");
 			System.out.println("\t2. View Friend List");
 			System.out.println("\t	 Any other key to return to Main Menu");
-			c = Integer.parseInt(in.readLine());
-			if (c == 1) 
+			c = in.readLine();
+			if (c == "1") 
 				NewMessage(esql,user);
-			else if (c == 2)
+			else if (c == "2")
 				FriendList(esql,friend);
 			}
       }catch(Exception e){
