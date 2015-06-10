@@ -530,7 +530,7 @@ public class ProfNetwork {
 	String query = String.format("SELECT U.userId FROM USR U, CONNECTION_USR C WHERE U.userId != '%s' AND ((C.connectionId = U.userId AND C.userId = '%s')  OR (C.connectionId = '%s' AND C.userId = U.userId)) AND C.status = 'Accept')) ;", user,user,user);
 	esql.executeQueryAndPrintResult(query);
 	String c;
-	String friend;
+	String friend = "";
 	boolean valid_choice = false;
 	int userNum;
 	//show friend list, then provide option 
@@ -590,7 +590,7 @@ public class ProfNetwork {
 			System.out.println("\t2. Reject Connection Requests");
 			System.out.println("\t	 Any other key to return to Main Menu");
 			int e = Integer.parseInt(in.readLine());
-			int usernum;
+			int userNum;
 			boolean finished = false;
 			String friend;
 			if(e == 1)
