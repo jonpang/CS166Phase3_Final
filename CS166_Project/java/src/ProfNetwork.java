@@ -531,8 +531,8 @@ public class ProfNetwork {
 	int c;
 	String friend;
 	boolean valid_choice = false;
-	while(!valid_choice)
-	{
+
+	//show friend list, then provide option 
 		System.out.println("\t1. Select a Friend Profile to View");
 		System.out.println("\t2. Return to Main Menu");	
 		c = Integer.parseInt(in.readLine());
@@ -551,21 +551,22 @@ public class ProfNetwork {
 			if(userNum <= 0){
 				System.out.println("Invalid Friend. Returning to Main Menu"); 
 			}
-		}
-    }
-    
-    else if (c == 2) break;
-	  else System.out.println("Invalid Input!");
-	if(valid_choice){
-		System.out.println("\t1. Send a Message");
-		System.out.println("\t2. View Friend List");
-		System.out.println("\t	 Any other key to return to Main Menu");
-		c = Integer.parseInt(in.readLine());
-		if (c == 1) 
-			NewMessage(esql,user);
+		} 
 		else if (c == 2)
-			FriendList(esql,friend);
-		}
+		{valid_choice = false}
+		else System.out.println("Invalid Input!");
+		
+		
+		if(valid_choice){
+			System.out.println("\t1. Send a Message");
+			System.out.println("\t2. View Friend List");
+			System.out.println("\t	 Any other key to return to Main Menu");
+			c = Integer.parseInt(in.readLine());
+			if (c == 1) 
+				NewMessage(esql,user);
+			else if (c == 2)
+				FriendList(esql,friend);
+			}
    }
 
    public static void UpdateRequest(ProfNetwork esql, String user){
