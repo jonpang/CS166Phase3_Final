@@ -577,23 +577,24 @@ public class ProfNetwork {
      try{
 	System.out.println("\t1. View Connection Requests");
 	System.out.println("\tAny other key to return to Main Menu");
-	int c;
+	String c;
 	int d;
-	c = Integer.parseInt(in.readLine());
-	if (c == 1) {
+	int userNum;
+	c = in.readLine();
+	if (c == "1") {
 		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request AND connectionId = '%s';",user);
 		System.out.println("Users Awaiting Response");
-		d = esql.executeQueryAndPrintResult(query);
+		List<List<String>> count = esql.executeQueryAndReturnResult(query);
+        d = Integer.parseInt(count.get(0).get(0)) ;
 		if(d > 0)
 		{
 			System.out.println("\t1. Accept Connection Requests");
 			System.out.println("\t2. Reject Connection Requests");
 			System.out.println("\t	 Any other key to return to Main Menu");
-			int e = Integer.parseInt(in.readLine());
-			int userNum;
+			String e = in.readLine();
 			boolean finished = false;
 			String friend;
-			if(e == 1)
+			if(e == "1")
 			{
 				while(!finished)
 				{
@@ -613,15 +614,15 @@ public class ProfNetwork {
 					}
 					System.out.println("Enter 1 to Accept More Connections");
 					System.out.println("\t	 Any other key to return to Main Menu");
-					c = Integer.parseInt(in.readLine());
-					if(c != 1)
+					c = in.readLine();
+					if(c != "1"1)
 					{
 						finished = true;
 					}
 					System.out.println();
 				}		
 			}
-			else if (e == 2)
+			else if (e == "2")
 			{
 				while(!finished)
 				{
@@ -641,8 +642,8 @@ public class ProfNetwork {
 					}
 					System.out.println("Enter 1 to Accept More Connections");
 					System.out.println("\t	 Any other key to return to Main Menu");
-					c = Integer.parseInt(in.readLine());
-					if(c != 1)
+					c = in.readLine();
+					if(c != "1")
 					{
 						finished = true;
 					}
