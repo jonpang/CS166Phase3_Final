@@ -525,13 +525,14 @@ public class ProfNetwork {
    public static void FriendList(ProfNetwork esql, String user){
        //print friends list
        //executeQueryAndPrintResult(" ");
+       try{
 	System.out.println("List of Friends:");
 	String query = String.format("SELECT U.userId FROM USR U, CONNECTION_USR C WHERE U.userId != '%s' AND ((C.connectionId = U.userId AND C.userId = '%s')  OR (C.connectionId = '%s' AND C.userId = U.userId)) AND C.status = 'Accept')) ;", user,user,user);
 	esql.executeQueryAndPrintResult(query);
 	int c;
 	String friend;
 	boolean valid_choice = false;
-
+  int userNum;
 	//show friend list, then provide option 
 		System.out.println("\t1. Select a Friend Profile to View");
 		System.out.println("\t2. Return to Main Menu");	
@@ -541,7 +542,7 @@ public class ProfNetwork {
 			friend = in.readLine();
 			//check if user is actually a friend
 		        String query2 = String.format("SELECT * FROM CONNECTION_USR WHERE status = 'Accept' AND ((userId = '%s' AND connectionID = '%s') OR (userId = '%s' AND connectionID = '%s'));", friend, user, user, friend);
-		        int userNum = esql.executeQuery(query2);
+		        userNum = esql.executeQuery(query2);
 			if(userNum > 0){	
 				//user is actually a friend so view profile
 				query2 = String.format("SELECT U.userId, U.email, U.name, U.dateOfBirth, W.company, w.role, w.location, E.institutionName, E.major, E.degree FROM USR U, WORK_EXPR W, EDUCATIONAL_DETAILS E WHERE U.userId = '%s' and W. userId = '%s' and E.userId = '%s';",friend,friend,friend);
@@ -553,7 +554,7 @@ public class ProfNetwork {
 			}
 		} 
 		else if (c == 2)
-		{valid_choice = false}
+		{valid_choice = false;}
 		else System.out.println("Invalid Input!");
 		
 		
@@ -567,9 +568,13 @@ public class ProfNetwork {
 			else if (c == 2)
 				FriendList(esql,friend);
 			}
+      }catch(Exception e){
+         //System.err.println (e.getMessage ());
+      }
    }
 
    public static void UpdateRequest(ProfNetwork esql, String user){
+     try{
 	System.out.println("\t1. View Connection Requests");
 	System.out.println("\tAny other key to return to Main Menu");
 	int c;
@@ -647,8 +652,11 @@ public class ProfNetwork {
 			else
 			{}
 		}
+    }
+    }catch(Exception e){
+         //System.err.println (e.getMessage ());
+      }
 	}
-   }
    public static void UpdatePassword(ProfNetwork esql, String user){
        //string update = "UPDATE ";
        //UPDATE Customers
