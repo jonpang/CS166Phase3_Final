@@ -61,7 +61,7 @@ public class ProfNetwork {
          // constructs the connection URL
          String url = "jdbc:postgresql://localhost:" + dbport + "/" + dbname;
          System.out.println ("Connection URL: " + url + "\n");
-
+executeUpdate
          // obtain a physical connection
          this._connection = DriverManager.getConnection(url, user, passwd);
          System.out.println("Done");
@@ -288,7 +288,7 @@ public class ProfNetwork {
                    case 2: UpdatePassword(esql, authorisedUser); break;
                    case 3: NewMessage(esql, authorisedUser); break;
                    case 4: ViewMessage(esql, authorisedUser); break;
-                   case 5: SendRequest(esql); break;
+                   case 5: SendRequest(esql,authorisedUser); break;
                    case 6: SearchUser(esql); break;
 		   case 7: UpdateRequest(esql, authorisedUser); break;
                    case 9: usermenu = false; break;
@@ -575,7 +575,7 @@ public class ProfNetwork {
 
    public static void UpdateRequest(ProfNetwork esql, String user){
      try{
-	System.out.println("\t1. View Connection Requests");
+	System.out.println("\t1. View Connection Requests");  try{
 	System.out.println("\tAny other key to return to Main Menu");
 	String c;
 	int d;
@@ -585,7 +585,7 @@ public class ProfNetwork {
 
 	if (c.equals("1")) {
 		String query = String.format("SELECT * FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
-		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
+		//String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
 		System.out.println("Users Awaiting Response");
 		d = esql.executeQueryAndPrintResult(query);
     System.out.println(d);
@@ -697,8 +697,118 @@ public class ProfNetwork {
        //run executeUpdate(" ")
    }
    
-   public static void SendRequest(ProfNetwork esql){
-   
+   public static void SendRequest(ProfNetwork esql, String user){
+   	try{
+		System.out.println("\Enter user to send connection request");
+		String connection_id = in.readline();
+		boolean valid_request = false;
+		//check to see if connection has been previously sent or made
+		String quick_q = String.format("SELECT * FROM CONNECTION_USR WHERE userId = '%s' AND connectionId = '%s';",user,connection_id);
+		String quick_q2 = String.format("SELECT * FROM CONNECTION_USR WHERE userId = '%s' AND connectionId = '%s';",connection_id,user);
+		if(esql.executeQuery(quick_q) >0 || esql.executeQuery(quick_q2) >0)
+		{
+			System.println("Request already exists or has already been responded to.");
+		}
+		else
+		{
+			String query = String.format("SELECT C2.connectionId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.connectionId = '%s' AND C2.status = 'Accept' AND C2.userId = C1.userId ;",user);
+			int level_2_conn = executeQuery(query);
+			if(level_2_conn > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C2.connectionId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.userId = '%s' AND C2.status = 'Accept' AND C2.userId = C1.connectionId ;",user);
+			level_2_conn = executeQuery(query);
+			if(level_2_conn > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C2.userId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.userId = '%s' AND C2.status = 'Accept' AND C2.connectionId = C1.connectionId ;",user);
+			int level_2_user = executeQuery(query);
+			if(level_2_user > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C2.userId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.connectionId = '%s' AND C2.status = 'Accept' AND C2.connectionId = C1.userId ;",user);
+			level_2_user executeQuery(query);
+			if(level_2_user > 0)
+			{	
+				valid_request = true;
+			}
+			
+
+			
+
+
+
+
+
+
+//3rd level connection
+
+String query = String.format("SELECT C3.connectionId FROM CONNECTION_USR C1, CONNECTION_USR C2, CONNECTION_USR C3 WHERE C1.status = 'Accept' AND C1.connectionId = '%s' AND C2.status = 'Accept' AND C2.userId = C1.userId AND C3.status = 'Accept' AND C3.userID = C2.connectionId;",user);
+			int level_3_conn = executeQuery(query);
+			if(level_3_conn > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C3.connectionId FROM CONNECTION_USR C1, CONNECTION_USR C2, CONNECTION_USR C3 WHERE C1.status = 'Accept' AND C1.connectionId = '%s' AND C2.status = 'Accept' AND C2.connectionId = C1.userId AND C3.status = 'Accept' AND C3.userID = C2.userId;",user);
+			level_3_conn = executeQuery(query);
+			if(level_3_conn > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C3.userId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.userId = '%s' AND C2.status = 'Accept' AND C2.userId = C1.connectionId AND C3.status = 'Accept' AND C3.connectionID = C2.connectionId;",user);
+			level_3_conn = executeQuery(query);
+			if(level_2_conn > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C3.userId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.userId = '%s' AND C2.status = 'Accept' AND C2.connectionId = C1.connectionId AND C3.status = 'Accept' AND C3.connectionID = C2.userId;",user);
+			level_3_conn = executeQuery(query);
+			if(level_2_conn > 0)
+			{	
+				valid_request = true;
+			}
+
+//halfway point
+			query = String.format("SELECT C3.connectionId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.userId = '%s' AND C2.status = 'Accept' AND C2.connectionId = C1.connectionId AND C3.status = 'Accept' AND C3.userID = C2.userId ;",user);
+			int level_3_user = executeQuery(query);
+			if(level_3_user > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C3.connectionId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.userId = '%s' AND C2.status = 'Accept' AND C2.userId = C1.connectionId AND C3.status = 'Accept' AND C3.userID = C2.connectionId ;",user);
+			level_3_user = executeQuery(query);
+			if(level_3_user > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C3.userId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.connectionId = '%s' AND C2.status = 'Accept' AND C2.connectionId = C1.userId  AND C3.status = 'Accept' AND C3.connectionID = C2.userId;",user);
+			level_3_user = executeQuery(query);
+			if(level_3_user > 0)
+			{	
+				valid_request = true;
+			}
+			query = String.format("SELECT C3.userId FROM CONNECTION_USR C1, CONNECTION_USR C2 WHERE C1.status = 'Accept' AND C1.connectionId = '%s' AND C2.status = 'Accept' AND C2.userId = C1.userId  AND C3.status = 'Accept' AND C3.connectionID = C2.connectionId;",user);
+			level_3_user = executeQuery(query);
+			if(level_3_user > 0)
+			{	
+				valid_request = true;
+			}
+
+
+
+			if(valid_request)
+			{
+				query = String.format("INSERT INTO CONNECTION_USR(userId,connectionId,Request)VALUES ;",user, friend);
+				esql.executeUpdate(query)
+			}
+		}
+		
+	}catch(Exception e){
+		System.err.println (e.getMessage ());
+	}
    }
 
 }//end ProfNetwork
