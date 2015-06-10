@@ -582,11 +582,8 @@ public class ProfNetwork {
 	int userNum;
 	c = in.readLine();
 	System.out.println("You entered: " + c);
-<<<<<<< HEAD
+
 	if (c.equals("1")) {
-=======
-	if (c == "1") {
->>>>>>> 8f8afcd8a900a47a8c035f82a12c98e984c08afd
 		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
 		System.out.println("Users Awaiting Response");
 		List<List<String>> count = esql.executeQueryAndReturnResult(query);
@@ -645,7 +642,7 @@ public class ProfNetwork {
 					{
 						System.out.println("User has not requested a connection, does not exist, or has already been responded to");
 					}
-					System.out.println("Enter 1 to Accept More Connections");
+					System.out.println("Enter 1 to Reject More Connections");
 					System.out.println("\t	 Any other key to return to Main Menu");
 					c = in.readLine();
 					if(!c.equals("1"))
@@ -655,14 +652,15 @@ public class ProfNetwork {
 					System.out.println();
 				}	
 			}
-			else
-			{
-				System.out.println("No Pending Connection Requests Found\n");
-			}
+		}
+		else
+		{
+			System.out.println("No Pending Connection Requests Found\n");
 		}
     }
     }catch(Exception e){
          //System.err.println (e.getMessage ());
+		 System.out.println("Error");
       }
 	}
    public static void UpdatePassword(ProfNetwork esql, String user){
