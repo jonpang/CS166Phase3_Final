@@ -581,7 +581,8 @@ public class ProfNetwork {
 	int d;
 	int userNum;
 	c = in.readLine();
-	if (c == "1") {
+	System.out.println("You entered: " + c);
+	if (c.equals("1")) {
 		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
 		System.out.println("Users Awaiting Response");
 		List<List<String>> count = esql.executeQueryAndReturnResult(query);
@@ -594,7 +595,7 @@ public class ProfNetwork {
 			String e = in.readLine();
 			boolean finished = false;
 			String friend;
-			if(e == "1")
+			if(e.equals("1"))
 			{
 				while(!finished)
 				{
@@ -604,7 +605,7 @@ public class ProfNetwork {
 					userNum = esql.executeQuery(query);
 					if(userNum > 0)
 					{
-						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s;",friend,user);
+						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s';",friend,user);
          					esql.executeUpdate(query);
 						System.out.println("User has been added to your friend list.");
 					}
@@ -615,14 +616,14 @@ public class ProfNetwork {
 					System.out.println("Enter 1 to Accept More Connections");
 					System.out.println("\t	 Any other key to return to Main Menu");
 					c = in.readLine();
-					if(c != "1")
+					if(!c.equals("1"))
 					{
 						finished = true;
 					}
 					System.out.println();
 				}		
 			}
-			else if (e == "2")
+			else if (e.equals("2"))
 			{
 				while(!finished)
 				{
@@ -643,7 +644,7 @@ public class ProfNetwork {
 					System.out.println("Enter 1 to Accept More Connections");
 					System.out.println("\t	 Any other key to return to Main Menu");
 					c = in.readLine();
-					if(c != "1")
+					if(!c.equals("1"))
 					{
 						finished = true;
 					}
@@ -651,7 +652,9 @@ public class ProfNetwork {
 				}	
 			}
 			else
-			{}
+			{
+				System.out.println("No Pending Connection Requests Found\n");
+			}
 		}
     }
     }catch(Exception e){
