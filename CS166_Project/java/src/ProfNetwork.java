@@ -581,6 +581,7 @@ public class ProfNetwork {
 	int d;
 	int userNum;
 	c = in.readLine();
+	System.out.println("You entered: " + c);
 	if (c == "1") {
 		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
 		System.out.println("Users Awaiting Response");
@@ -604,7 +605,7 @@ public class ProfNetwork {
 					userNum = esql.executeQuery(query);
 					if(userNum > 0)
 					{
-						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s;",friend,user);
+						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s';",friend,user);
          					esql.executeUpdate(query);
 						System.out.println("User has been added to your friend list.");
 					}
@@ -651,7 +652,9 @@ public class ProfNetwork {
 				}	
 			}
 			else
-			{}
+			{
+				System.out.println("No Pending Connection Requests Found\n");
+			}
 		}
     }
     }catch(Exception e){
