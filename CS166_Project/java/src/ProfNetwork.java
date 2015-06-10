@@ -582,7 +582,11 @@ public class ProfNetwork {
 	int userNum;
 	c = in.readLine();
 	System.out.println("You entered: " + c);
+<<<<<<< HEAD
 	if (c.equals("1")) {
+=======
+	if (c == "1") {
+>>>>>>> 8f8afcd8a900a47a8c035f82a12c98e984c08afd
 		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
 		System.out.println("Users Awaiting Response");
 		List<List<String>> count = esql.executeQueryAndReturnResult(query);
