@@ -582,7 +582,7 @@ public class ProfNetwork {
 	int userNum;
 	c = in.readLine();
 	if (c == "1") {
-		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request AND connectionId = '%s';",user);
+		String query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND connectionId = '%s';",user);
 		System.out.println("Users Awaiting Response");
 		List<List<String>> count = esql.executeQueryAndReturnResult(query);
         d = Integer.parseInt(count.get(0).get(0)) ;
@@ -600,7 +600,7 @@ public class ProfNetwork {
 				{
 					System.out.println("Enter Username of Connection to Accept");
 					friend = in.readLine();
-					query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s;",friend,user);
+					query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s';",friend,user);
 					userNum = esql.executeQuery(query);
 					if(userNum > 0)
 					{
@@ -615,7 +615,7 @@ public class ProfNetwork {
 					System.out.println("Enter 1 to Accept More Connections");
 					System.out.println("\t	 Any other key to return to Main Menu");
 					c = in.readLine();
-					if(c != "1"1)
+					if(c != "1")
 					{
 						finished = true;
 					}
@@ -628,11 +628,11 @@ public class ProfNetwork {
 				{
 					System.out.println("Enter Username of Connection to Reject");
 					friend = in.readLine();
-					query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request AND userId = '%s' AND connectionId = '%s;",friend,user);
+					query = String.format("SELECT userId FROM CONNECTION_USR WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s';",friend,user);
 					userNum = esql.executeQuery(query);
 					if(userNum > 0)
 					{
-						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s;",user,friend);
+						query = String.format("UPDATE CONNECTION_USR SET status = 'Accept' WHERE status = 'Request' AND userId = '%s' AND connectionId = '%s';",user,friend);
          					esql.executeUpdate(query);
 						System.out.println("User has been added to your friend list.");
 					}
