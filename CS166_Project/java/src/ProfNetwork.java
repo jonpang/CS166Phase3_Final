@@ -532,6 +532,7 @@ public class ProfNetwork {
 	String friend;
 	boolean valid_choice = false;
 	while(!valid_choice)
+	{
 		System.out.println("\t1. Select a Friend Profile to View");
 		System.out.println("\t2. Return to Main Menu");	
 		c = Integer.parseInt(in.readLine());
@@ -541,15 +542,18 @@ public class ProfNetwork {
 			//check if user is actually a friend
 		        String query2 = String.format("SELECT * FROM CONNECTION_USR WHERE status = 'Accept' AND ((userId = '%s' AND connectionID = '%s') OR (userId = '%s' AND connectionID = '%s'));", friend, user, user, friend);
 		        int userNum = esql.executeQuery(query2);
-			if(userNum > 0)//user is actually a friend so view profile
+			if(userNum > 0){	
+				//user is actually a friend so view profile
 				query2 = String.format("SELECT U.userId, U.email, U.name, U.dateOfBirth, W.company, w.role, w.location, E.institutionName, E.major, E.degree FROM USR U, WORK_EXPR W, EDUCATIONAL_DETAILS E WHERE U.userId = '%s' and W. userId = '%s' and E.userId = '%s';",friend,friend,friend);
 				esql.executeQueryAndPrintResult(query2);
 				valid_choice = true;
+			}
 			if(userNum <= 0){
 				System.out.println("Invalid Friend. Returning to Main Menu"); 
-        break;
-      }
+			}
+		}
     }
+    
     else if (c == 2) break;
 	  else System.out.println("Invalid Input!");
 	if(valid_choice){
